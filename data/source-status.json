@@ -1,0 +1,167 @@
+{
+  "generated_at": "2026-05-14T03:03:49.405294Z",
+  "sites": [
+    {
+      "site_id": "official_ai",
+      "site_name": "Official AI Updates",
+      "ok": true,
+      "item_count": 186,
+      "duration_ms": 3995,
+      "error": null
+    },
+    {
+      "site_id": "aibreakfast",
+      "site_name": "AI Breakfast",
+      "ok": true,
+      "item_count": 9,
+      "duration_ms": 549,
+      "error": null
+    },
+    {
+      "site_id": "followbuilders",
+      "site_name": "Follow Builders",
+      "ok": true,
+      "item_count": 2,
+      "duration_ms": 72,
+      "error": null
+    },
+    {
+      "site_id": "aihubtoday",
+      "site_name": "AI HubToday",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 1353,
+      "error": null
+    },
+    {
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 586,
+      "error": null
+    },
+    {
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 808,
+      "error": null
+    },
+    {
+      "site_id": "hf_papers",
+      "site_name": "HF Daily Papers",
+      "ok": true,
+      "item_count": 47,
+      "duration_ms": 314,
+      "error": null
+    },
+    {
+      "site_id": "hf_mlx",
+      "site_name": "mlx-community",
+      "ok": true,
+      "item_count": 31,
+      "duration_ms": 293,
+      "error": null
+    },
+    {
+      "site_id": "reddit_ai",
+      "site_name": "Reddit · AI",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 2984,
+      "error": null
+    },
+    {
+      "site_id": "hf_spaces",
+      "site_name": "HF Spaces Trending",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 246,
+      "error": null
+    },
+    {
+      "site_id": "findit",
+      "site_name": "Findit-AI",
+      "ok": true,
+      "item_count": 17,
+      "duration_ms": 7017,
+      "error": null
+    },
+    {
+      "site_id": "github_topics",
+      "site_name": "GitHub Topics",
+      "ok": true,
+      "item_count": 114,
+      "duration_ms": 15710,
+      "error": null
+    },
+    {
+      "site_id": "github_releases",
+      "site_name": "GitHub Releases",
+      "ok": true,
+      "item_count": 23,
+      "duration_ms": 2721,
+      "error": null
+    },
+    {
+      "site_id": "arxiv",
+      "site_name": "arXiv",
+      "ok": true,
+      "item_count": 319,
+      "duration_ms": 453,
+      "error": null
+    },
+    {
+      "site_id": "hn_ai",
+      "site_name": "Hacker News · AI",
+      "ok": true,
+      "item_count": 66,
+      "duration_ms": 8034,
+      "error": null
+    }
+  ],
+  "successful_sites": 15,
+  "failed_sites": [],
+  "zero_item_sites": [
+    "reddit_ai"
+  ],
+  "fetched_raw_items": 944,
+  "items_before_topic_filter": 5103,
+  "items_in_24h": 616,
+  "rss_opml": {
+    "enabled": false,
+    "path": null,
+    "feed_total": 0,
+    "effective_feed_total": 0,
+    "ok_feeds": 0,
+    "failed_feeds": [],
+    "zero_item_feeds": [],
+    "skipped_feeds": [],
+    "replaced_feeds": [],
+    "feeds": []
+  },
+  "agentmail": {
+    "enabled": false,
+    "ok": null,
+    "item_count": 0,
+    "privacy": "metadata_only_no_body",
+    "published_by_default": false
+  },
+  "x_api": {
+    "enabled": false,
+    "ok": null,
+    "item_count": 0,
+    "privacy": "public_posts_metadata_only",
+    "published_by_default": false,
+    "official_free_read_quota": false,
+    "unit_cost_usd_per_post_read": 0.005,
+    "daily_post_limit": 20,
+    "max_results_per_run": 20,
+    "effective_result_cap": 20,
+    "estimated_max_cost_usd_per_run": 0.1,
+    "run_utc_hour": 0,
+    "generated_date_utc": "2026-05-14"
+  }
+}

@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI News Radar｜24 小时 AI 更新雷达</title>
+    <meta
+      name="description"
+      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+    />
+    <link rel="canonical" href="https://learnprompt.github.io/ai-news-radar/" />
+    <meta property="og:title" content="AI News Radar｜24 小时 AI 更新雷达" />
+    <meta
+      property="og:description"
+      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://learnprompt.github.io/ai-news-radar/" />
+    <meta property="og:site_name" content="AI News Radar" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="AI News Radar｜24 小时 AI 更新雷达" />
+    <meta
+      name="twitter:description"
+      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+    />
+    <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;700&family=JetBrains+Mono:wght@400&family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./assets/styles.css" />
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem("ainr-theme");
+          var prefersDark =
+            window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+          document.documentElement.dataset.theme = saved || (prefersDark ? "dark" : "light");
+        } catch (_) {
+          document.documentElement.dataset.theme = "light";
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <main class="shell">
+      <!-- Hero -->
+      <header class="hero">
+        <div class="hero-tag">AI RADAR · 24H</div>
+        <div class="hero-title-row">
+          <h1>24 小时 AI 更新雷达</h1>
+          <span class="updated" id="updatedAt">加载中...</span>
+          <span class="hero-actions">
+            <button id="themeToggle" class="theme-toggle" type="button" title="切换日间 / 夜间">DARK</button>
+          </span>
+        </div>
+        <p class="hero-sub">过去 24 小时值得看的 AI/科技更新 · 自动过滤 · 每 30 分钟刷新</p>
+        <section class="stats" id="stats"></section>
+      </header>
+
+      <!-- Controls -->
+      <section class="controls">
+        <input id="searchInput" type="search" placeholder="搜索信号..." aria-label="搜索" />
+        <div class="controls-row">
+          <div class="mode-switch" role="tablist">
+            <button id="modeAiBtn" class="mode-btn active" type="button" role="tab" aria-selected="true">AI 强相关</button>
+            <button id="modeAllBtn" class="mode-btn" type="button" role="tab" aria-selected="false">全量</button>
+          </div>
+          <div class="mode-hint" id="modeHint">AI强相关</div>
+          <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
+            <input id="allDedupeToggle" type="checkbox" checked />
+            <span class="all-dedupe-dot"></span>
+            <span id="allDedupeLabel">去重开</span>
+          </label>
+          <label class="all-dedupe" title="开=中英双语 / 关=仅原标题">
+            <input id="translateToggle" type="checkbox" checked />
+            <span class="all-dedupe-dot"></span>
+            <span>双语</span>
+          </label>
+        </div>
+        <section class="coverage-strip" id="coverageStrip" aria-label="Source coverage status"></section>
+      </section>
+
+      <!-- Site Filter Pills -->
+      <section class="site-pills-bar" id="sitePillsBar">
+        <div class="site-pills" id="sitePills"></div>
+      </section>
+
+      <!-- Signal-word chips -->
+      <section class="signal-chips-bar" id="signalChipsBar" hidden>
+        <span class="signal-chips-label">主题</span>
+        <div class="signal-chips" id="signalChips"></div>
+        <button id="signalChipsClear" class="signal-clear" type="button" hidden>清空</button>
+      </section>
+
+      <!-- Advanced Panel -->
+      <details class="advanced-panel">
+        <summary>
+          <span>筛选与源状态</span>
+          <span class="advanced-summary" id="advancedSummary">加载中...</span>
+        </summary>
+        <div class="advanced-content">
+          <div class="source-health" id="sourceHealth"></div>
+        </div>
+      </details>
+
+      <!-- Main Content: left nav + bento grid -->
+      <div class="layout-head">
+        <h2 id="listTitle">AI 信号流</h2>
+        <span id="resultCount" class="result-count">0 条</span>
+      </div>
+      <div class="layout-main">
+        <nav class="site-nav" id="siteNav" aria-label="站点导航"></nav>
+        <div class="bento-grid" id="newsList"></div>
+      </div>
+    </main>
+
+    <template id="itemTpl">
+      <article class="news-card">
+        <a class="card-title" target="_blank" rel="noopener noreferrer"></a>
+        <div class="card-meta">
+          <span class="site"></span>
+          <span class="category"></span>
+          <span class="source"></span>
+          <time class="time"></time>
+        </div>
+      </article>
+    </template>
+
+    <script src="./assets/app.js" defer></script>
+  </body>
+</html>
