@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-28T16:10:56.608515Z",
+  "generated_at": "2026-05-28T19:13:48.691669Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 207,
-      "duration_ms": 9880,
+      "item_count": 196,
+      "duration_ms": 7349,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 266,
+      "duration_ms": 363,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 5,
-      "duration_ms": 17,
+      "duration_ms": 130,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 211,
+      "duration_ms": 312,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 3983,
+      "duration_ms": 1164,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1148,
+      "duration_ms": 1726,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "HF Daily Papers",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 140,
+      "duration_ms": 63,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "mlx-community",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 92,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Reddit · AI",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 112,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "HF Spaces Trending",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 79,
+      "duration_ms": 37,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "Findit-AI",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 2876,
+      "duration_ms": 1961,
       "error": null
     },
     {
@@ -94,15 +94,15 @@
       "site_name": "GitHub Topics",
       "ok": true,
       "item_count": 131,
-      "duration_ms": 19020,
+      "duration_ms": 16964,
       "error": null
     },
     {
       "site_id": "github_releases",
       "site_name": "GitHub Releases",
       "ok": true,
-      "item_count": 23,
-      "duration_ms": 2609,
+      "item_count": 22,
+      "duration_ms": 2204,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 31,
-      "duration_ms": 54,
+      "duration_ms": 116,
       "error": null
     },
     {
@@ -118,15 +118,15 @@
       "site_name": "arXiv",
       "ok": true,
       "item_count": 289,
-      "duration_ms": 261,
+      "duration_ms": 164,
       "error": null
     },
     {
       "site_id": "hn_ai",
       "site_name": "Hacker News · AI",
       "ok": true,
-      "item_count": 65,
-      "duration_ms": 5759,
+      "item_count": 66,
+      "duration_ms": 4546,
       "error": null
     },
     {
@@ -134,8 +134,8 @@
       "site_name": "OPML RSS",
       "ok": true,
       "partial_failures": 0,
-      "item_count": 2098,
-      "duration_ms": 4672,
+      "item_count": 2099,
+      "duration_ms": 4783,
       "error": null,
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -150,9 +150,9 @@
   "zero_item_sites": [
     "reddit_ai"
   ],
-  "fetched_raw_items": 3104,
-  "items_before_topic_filter": 738,
-  "items_in_24h": 522,
+  "fetched_raw_items": 3094,
+  "items_before_topic_filter": 731,
+  "items_in_24h": 513,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -172,7 +172,7 @@
         "effective_feed_url": "https://blog.google/technology/ai/rss/",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 276,
+        "duration_ms": 228,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -187,7 +187,7 @@
         "effective_feed_url": "https://deepmind.google/blog/rss.xml",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 477,
+        "duration_ms": 287,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -202,7 +202,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 787,
-        "duration_ms": 435,
+        "duration_ms": 254,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -217,7 +217,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 1146,
+        "duration_ms": 1178,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -232,7 +232,7 @@
         "effective_feed_url": "https://blogs.microsoft.com/ai/feed/",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 108,
+        "duration_ms": 189,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -247,7 +247,7 @@
         "effective_feed_url": "https://developer.nvidia.com/blog/category/generative-ai/feed/",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 639,
+        "duration_ms": 479,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -261,8 +261,8 @@
         "feed_url": "https://openai.com/news/rss.xml",
         "effective_feed_url": "https://openai.com/news/rss.xml",
         "ok": true,
-        "item_count": 971,
-        "duration_ms": 1019,
+        "item_count": 972,
+        "duration_ms": 763,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -277,7 +277,7 @@
         "effective_feed_url": "https://simonwillison.net/atom/everything/",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 144,
+        "duration_ms": 329,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -292,7 +292,7 @@
         "effective_feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 67,
+        "duration_ms": 205,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -307,7 +307,7 @@
         "effective_feed_url": "https://baoyu.io/feed.xml",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 361,
+        "duration_ms": 871,
         "error": null,
         "skipped": false,
         "skip_reason": null,
