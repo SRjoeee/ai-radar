@@ -7332,5 +7332,10 @@
   "gemma-4-12B-it-5bit — any-to-any": "gemma-4-12B-it-5bit — 任意到任意",
   "Introducing new capabilities to GPT-Rosalind": "向 GPT-Rosalind 引入新功能",
   "bitofacoder/shortsmith - Codex Skills for turning long videos into post-ready 9:16 shorts. Cut, caption, and hook — inside your agent.": "bitofacoder/shortsmith - 将长视频转换为后期 9:16 短片的 Codex 技能。剪切、字幕和挂钩 — 在您的代理内部。",
-  "K-Dense-AI/scientific-agents - Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.": "K-Dense-AI/scientific-agents - 专家思维 AGENTS.md 配置文件，教导 AI 代理像高级科学家和工程师一样进行推理。"
+  "K-Dense-AI/scientific-agents - Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.": "K-Dense-AI/scientific-agents - 专家思维 AGENTS.md 配置文件，教导 AI 代理像高级科学家和工程师一样进行推理。",
+  "Stigmergy for capability selection in LLM agent loops": "LLM 代理循环中的能力选择 Stigmergy",
+  "Haiku, a generative music album for Mac OS": "Haiku，Mac OS 的生成音乐专辑",
+  "Augusteregular234/FlakAI - Automate soccer match analysis by using AI to detect key events and extract ready-to-use video clips.": "Augusteregular234/FlakAI - 使用 AI 检测关键事件并提取现成的视频剪辑，自动进行足球比赛分析。",
+  "Inference Optimization for MiniMax Sparse Attention": "MiniMax 稀疏注意力的推理优化",
+  "mikefilsaime-groove/yt-dlp-superpowers - Claude/Codex skill pack built downstream of yt-dlp for transcripts, WhisperX fallback, and frame-based video watching.": "mikefilsaime-groove/yt-dlp-superpowers - 在 yt-dlp 下游构建的 Claude/Codex 技能包，用于转录、WhisperX 后备和基于帧的视频观看。"
 }
