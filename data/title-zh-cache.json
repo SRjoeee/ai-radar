@@ -7935,5 +7935,8 @@
   "screenpipe Screenpipe App v2.5.12": "screenpipe Screenpipe 应用程序 v2.5.12",
   "Miasma Worm Targets AI Coding Agents via GitHub Repos": "Miasma 蠕虫通过 GitHub 存储库瞄准 AI 编码代理",
   "Show HN: On-device transcriber that's 97% accurate at identifying speakers": "Show HN：设备上的转录器识别说话人的准确率高达 97%",
-  "Bad MCP design costs your agent 5x more tokens": "糟糕的 MCP 设计会让您的代理花费 5 倍以上的代币"
+  "Bad MCP design costs your agent 5x more tokens": "糟糕的 MCP 设计会让您的代理花费 5 倍以上的代币",
+  "CodeQL 2.25.6 adds Swift 6.3.2 support and improves C# coverage": "CodeQL 2.25.6 添加了 Swift 6.3.2 支持并改进了 C# 覆盖率",
+  "Enterprise-managed plugins in VS Code in public preview": "公共预览版 VS Code 中的企业管理插件",
+  "Before You Add an MCP Server to Your IDE, Read the Config": "在将 MCP 服务器添加到 IDE 之前，请阅读配置"
 }
