@@ -1,35 +1,75 @@
 {
-  "generated_at": "2026-07-04T16:06:53.888518Z",
+  "generated_at": "2026-07-04T17:35:15.101225Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-03",
-  "count_today": 4,
+  "latest_date": "2026-07-04",
+  "count_today": 6,
   "updates_today": [
     {
-      "date": "2026-07-03",
-      "title": "想靠Codex打造有个人表达、摆脱流水线AI质感的个人站点，作者这套实操思路或许可以对你有所帮助！文中整理了多类优质设计参考渠道与提取网页风格的工具，搭配一系列插件可以精准把控视觉调性。同时还给出了页面迭代、素材生成、画布对比修改的完整实操方案，附带标准化提示词模板，无需专业设计功底，也能清晰界定色彩、布局、动效与避坑要求，生成富有个人特色的网页。",
+      "date": "2026-07-04",
+      "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-03",
-      "title": "很多团队已经把 Cursor、Claude Code、原型工具接进日常工作，可真正卡人的地方常常不在模型参数。任务还是散落在邮件、日历、Slack、文件夹和脑子里，人还在手动搬数据、反复确认权限、盯着屏幕等 AI 跑完。Anthropic 工程负责人 Felix Rieseberg 在这期对话里就拆解了他们日常到底怎么用Claude处理这种协作问题的。",
+      "date": "2026-07-04",
+      "title": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-03",
-      "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+      "date": "2026-07-04",
+      "title": "很多人最近的焦虑很具体：代码已经能让 Agent 写，图片已经能用模型生成，会议纪要、客服、搜索、调研都在被自动化。下一个被重写的，会不会就是自己的岗位？Richard Socher 在这期里给了一个很硬的判断：问题不能只看 AI 能不能做你的任务，还要看这个任务变便宜后，市场到底需要多少。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-03",
-      "title": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
+      "date": "2026-07-04",
+      "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "一转眼2026年已经进入下半年，阿真这篇文章盘点了2026 年上半年的图片与视频模型，伴随模型更新时间轴出现的，还有一些当时的测试文章。一起来回顾下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 25,
+  "count_7d": 31,
   "updates_7d": [
+    {
+      "date": "2026-07-04",
+      "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "很多人最近的焦虑很具体：代码已经能让 Agent 写，图片已经能用模型生成，会议纪要、客服、搜索、调研都在被自动化。下一个被重写的，会不会就是自己的岗位？Richard Socher 在这期里给了一个很硬的判断：问题不能只看 AI 能不能做你的任务，还要看这个任务变便宜后，市场到底需要多少。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "一转眼2026年已经进入下半年，阿真这篇文章盘点了2026 年上半年的图片与视频模型，伴随模型更新时间轴出现的，还有一些当时的测试文章。一起来回顾下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-03",
       "title": "想靠Codex打造有个人表达、摆脱流水线AI质感的个人站点，作者这套实操思路或许可以对你有所帮助！文中整理了多类优质设计参考渠道与提取网页风格的工具，搭配一系列插件可以精准把控视觉调性。同时还给出了页面迭代、素材生成、画布对比修改的完整实操方案，附带标准化提示词模板，无需专业设计功底，也能清晰界定色彩、布局、动效与避坑要求，生成富有个人特色的网页。",
