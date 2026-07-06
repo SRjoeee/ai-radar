@@ -1,15 +1,30 @@
 {
-  "generated_at": "2026-07-06T16:01:19.699817Z",
+  "generated_at": "2026-07-06T18:16:03.521179Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-06",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-07-06",
+      "title": "这期Augmented U的嘉宾是 Masha Sharma，Groupon的VP。她做过工程、产品、CTO和创始人，也曾在Avenue One帮公司做到超过10亿美元估值。现在，她的任务是把Groupon的商家体验改造成AI-first growth engine。整场访谈绕着一个问题展开：组织里的工作到底由谁来做。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
       "title": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "倒计时 1 天！Claude Fable 5 免费试用即将结束，精选了一些优质提示词，文档已开放编辑权限，欢迎补充你的独家Prompt！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "不知道该学什么技能？AI、编程、营销、做自媒体……学什么都怕两年后过时。知名独立创作者 Dan Koe点明读懂人性是最保值的技能。学会之后，你再学任何别的技能，威力都会跟着涨。因为不管你做产品、找工作还是搞创作，掏钱的、给机会的、给资源的，都是人。小互这篇文章做了完整拆解，一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -18,11 +33,26 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 28,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-07-06",
+      "title": "这期Augmented U的嘉宾是 Masha Sharma，Groupon的VP。她做过工程、产品、CTO和创始人，也曾在Avenue One帮公司做到超过10亿美元估值。现在，她的任务是把Groupon的商家体验改造成AI-first growth engine。整场访谈绕着一个问题展开：组织里的工作到底由谁来做。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
       "title": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "倒计时 1 天！Claude Fable 5 免费试用即将结束，精选了一些优质提示词，文档已开放编辑权限，欢迎补充你的独家Prompt！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "不知道该学什么技能？AI、编程、营销、做自媒体……学什么都怕两年后过时。知名独立创作者 Dan Koe点明读懂人性是最保值的技能。学会之后，你再学任何别的技能，威力都会跟着涨。因为不管你做产品、找工作还是搞创作，掏钱的、给机会的、给资源的，都是人。小互这篇文章做了完整拆解，一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
