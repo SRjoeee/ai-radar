@@ -20475,5 +20475,22 @@
   "teste-dayo1": "测试dayo1",
   "dental-tooth-segmentation-streamlit [docker]": "牙科牙齿分割streamlit [docker]",
   "ttsservice [gradio]": "ttsservice [渐变]",
-  "OrcPoin/tag-manager - Captioning tool for LoRA training datasets. Local Streamlit app + OpenAI-compatible vision LLM.": "OrcPoin/tag-manager - LoRA 训练数据集的字幕工具。本地 Streamlit 应用程序 + 兼容 OpenAI 的视觉法学硕士。"
+  "OrcPoin/tag-manager - Captioning tool for LoRA training datasets. Local Streamlit app + OpenAI-compatible vision LLM.": "OrcPoin/tag-manager - LoRA 训练数据集的字幕工具。本地 Streamlit 应用程序 + 兼容 OpenAI 的视觉法学硕士。",
+  "maths [gradio]": "数学[渐变]",
+  "fastapi-backend [docker]": "fastapi-后端 [docker]",
+  "testn1n [docker]": "testn1n [码头工人]",
+  "tg-tracker [docker]": "tg 跟踪器 [docker]",
+  "generative-3D-prompt [gradio]": "生成 3D 提示 [渐变]",
+  "aboodvbggjh [static]": "aboodvbggjh [静态]",
+  "imageclassifier [gradio]": "图像分类器[渐变]",
+  "crunkuu [gradio]": "克鲁库 [已建]",
+  "Arabic-English-Translator [gradio]": "阿拉伯语-英语-翻译器 [gradio]",
+  "llamadart-chat-pr-298 [static]": "llamadart-chat-pr-298 [静态]",
+  "HR-Resume-Screening [static]": "HR-简历筛选[静态]",
+  "omni1 [gradio]": "全方位1 [建成]",
+  "trail-finder [docker]": "追踪者 [docker]",
+  "bible-compare [docker]": "圣经比较 [docker]",
+  "oomph [gradio]": "魅力[度]",
+  "Hj [static]": "Hj [静态]",
+  "yuzbo/seen-frames-not-the-video - Adversarial review packet for identifiability-aware temporal reasoning in Video-LLMs": "yuzbo/seen-frames-not-the-video - 视频法学硕士中可识别性感知时间推理的对抗性审查包"
 }
