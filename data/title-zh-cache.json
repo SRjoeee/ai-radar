@@ -21162,5 +21162,20 @@
   "cartografo [docker]": "制图师 [码头工人]",
   "Forgein – portable context layer for AI tools, native MCP server (MIT CLI)": "Forgein – 用于 AI 工具的便携式上下文层、本机 MCP 服务器 (MIT CLI)",
   "Ask HN: AI Agent and harness containerization/security recommendations": "询问 HN：AI 代理并利用容器化/安全建议",
-  "tristanmuzzu/parakeet-dictation - Free, unlimited voice dictation for Windows, built for talking to your AI coding agents. Like Wispr Flow, but you don't pay and there's no word limit.": "tristanmuzzu/parakeet-dictation - 适用于 Windows 的免费、无限制的语音听写，专为与您的 AI 编码代理交谈而构建。与 Wispr Flow 类似，但您无需付费且没有字数限制。"
+  "tristanmuzzu/parakeet-dictation - Free, unlimited voice dictation for Windows, built for talking to your AI coding agents. Like Wispr Flow, but you don't pay and there's no word limit.": "tristanmuzzu/parakeet-dictation - 适用于 Windows 的免费、无限制的语音听写，专为与您的 AI 编码代理交谈而构建。与 Wispr Flow 类似，但您无需付费且没有字数限制。",
+  "CosmosAI [static]": "CosmosAI [静态]",
+  "RaahNaameh-Seed-Review [docker]": "RaahNaameh-种子-评论 [docker]",
+  "chatcloud [docker]": "聊天云 [docker]",
+  "test_601 [gradio]": "test_601 [已构建]",
+  "karaoke-bot [gradio]": "卡拉 OK 机器人 [gradio]",
+  "atc-ppo [static]": "atc-ppo [静态]",
+  "jong [docker]": "年轻的[码头工人]",
+  "agente-educativo-bolivia [docker]": "教育代理-玻利维亚 [docker]",
+  "Visual [gradio]": "视觉[渐变]",
+  "wan2-2-is2v [gradio]": "wan2-2-is2v [已构建]",
+  "publiarty-vectorizacion [gradio]": "公共矢量化 [等级]",
+  "AnimeGen-T2V-A14B-Lightning-bf16": "AnimeGen-T2V-A14B-闪电-bf16",
+  "AnimeGen-T2V-A14B-Lightning-int4": "AnimeGen-T2V-A14B-闪电-int4",
+  "Show HN: ContextVault – Shared memory layer for your AI and your team": "显示 HN：ContextVault – 为您的 AI 和您的团队提供共享内存层",
+  "Show HN: Docs.dev – A docs site you own, where AI drafts and you edit in place": "显示 HN：Docs.dev – 您拥有的文档网站，人工智能可以在其中起草草稿，您可以就地编辑"
 }
