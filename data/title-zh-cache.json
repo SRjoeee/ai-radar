@@ -21585,5 +21585,22 @@
   "disaaster_analitcs [gradio]": "灾难分析 [无线电]",
   "AC-Fault-Detection [gradio]": "交流故障检测 [梯度]",
   "nawaqes-chat": "纳瓦克斯猫",
-  "semya [gradio]": "塞米亚 [渐变]"
+  "semya [gradio]": "塞米亚 [渐变]",
+  "smn-clinic-Chat [static]": "smn-clinic-聊天 [静态]",
+  "piper-tts-arabic [gradio]": "Piper-tts-阿拉伯语 [渐变]",
+  "soccer-similar-match [docker]": "足球类似比赛 [docker]",
+  "DetectorPlagas [static]": "DetectorPlagas [静态]",
+  "AI_analyzer": "AI_分析仪",
+  "cursor-voice-playground-gpu [gradio]": "光标语音游乐场 GPU [渐变]",
+  "rasa-sora [docker]": "姐妹种族 [docker]",
+  "employee-attrition-sentiment-analysis_data [gradio]": "员工流失情绪分析数据 [梯度]",
+  "jazz-harmony-explorer [gradio]": "爵士乐和谐探索者 [gradio]",
+  "superkart-sales-prediction1 [gradio]": "superkart-sales-prediction1 [建成]",
+  "2.4-groupC6-capstone [gradio]": "2.4-组C6-顶点[梯度]",
+  "herb-viewer [static]": "草药查看器 [静态]",
+  "MulitTaskAiAgent [gradio]": "MultiTaskAiAgent [渐变]",
+  "bonsai-webgpu-chat [static]": "盆景-webgpu-聊天 [静态]",
+  "NEXUS_WEAVER [gradio]": "NEXUS_WEAVER [渐变]",
+  "test_624 [gradio]": "test_624 [已构建]",
+  "saffron_backend [docker]": "藏红花后端 [docker]"
 }
