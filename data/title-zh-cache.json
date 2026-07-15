@@ -21943,5 +21943,18 @@
   "watermarkRemover [gradio]": "水印去除器 [渐变]",
   "2.4-groupC3-capstone [gradio]": "2.4-groupC3-capstone [已建成]",
   "HBIA-Executive [gradio]": "HBIA-执行 [渐变]",
-  "bonsai-kappa-stream [static]": "盆景河童流 [静态]"
+  "bonsai-kappa-stream [static]": "盆景河童流 [静态]",
+  "2.4-groupA4-capstone [gradio]": "2.4-groupA4-capstone [梯度]",
+  "Huggingfacetoken [gradio]": "Huggingfacetoken [已构建]",
+  "2.4-groupA5-capstone [gradio]": "2.4-groupA5-顶点 [渐变]",
+  "2.7-groupC2-capstone [gradio]": "2.7-groupC2-capstone [已建成]",
+  "2.4-groupD2-capstone [gradio]": "2.4-groupD2-capstone [已建成]",
+  "yacine-api [static]": "yacine-api [静态]",
+  "OCR [gradio]": "OCR [内置]",
+  "credit-risk-predictor [gradio]": "信用风险预测器 [梯度]",
+  "lunar-filhote [docker]": "月球小狗 [docker]",
+  "2.4-groupB5-capstone [gradio]": "2.4-groupB5-顶点 [渐变]",
+  "imagen [gradio]": "图像[度]",
+  "ltx-video-generator [gradio]": "ltx-视频生成器 [渐变]",
+  "Milky-Way-backend [docker]": "Milky-Way-后端 [docker]"
 }
