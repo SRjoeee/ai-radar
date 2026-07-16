@@ -22266,5 +22266,22 @@
   "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField": "通过与 NVIDIA BlueField 的极端协同设计来扩展代理 AI 工厂",
   "Ask HN: Best meeting transcription daemon for macOS?": "问 HN：macOS 上最好的会议转录守护程序？",
   "siemd2/reel-relay - Share an Instagram reel to Claude and have it watch, research, and build what it shows. Self-hosted MCP connector (yt-dlp + ffmpeg + Groq Whisper).": "siemd2/reel-relay - 与 Claude 分享 Instagram reel，让它观看、研究和构建它所展示的内容。自托管 MCP 连接器（yt-dlp + ffmpeg + Groq Whisper）。",
-  "How Cars24 scales conversations and builds faster with OpenAI": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度"
+  "How Cars24 scales conversations and builds faster with OpenAI": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度",
+  "easyreadDemo [gradio]": "easyreadDemo [已构建]",
+  "book.11.o [static]": "book.11.o [静态]",
+  "repro-judge-eval-reporting [static]": "重现判断评估报告[静态]",
+  "indic-lid-demo [gradio]": "indic-lid-demo [已构建]",
+  "icml2026-22249-self-distillation-logbook [static]": "icml2026-22249-自蒸馏-日志 [静态]",
+  "test-classification [gradio]": "测试分类[梯度]",
+  "PLAI [docker]": "PLAI [码头工人]",
+  "real-estate-chatbot [docker]": "房地产聊天机器人 [docker]",
+  "smart-pdf-assistant [gradio]": "智能 pdf 助手 [渐变]",
+  "klasifikasi-warna-lite [static]": "分类-color-lite [静态]",
+  "AutoComplete [gradio]": "自动完成[内置]",
+  "2.3-groupA3-capstone [gradio]": "2.3-groupA3-capstone [已建成]",
+  "touchformer [gradio]": "touchformer [渐变]",
+  "voice-tts [gradio]": "语音-tts [渐变]",
+  "LLM_learning [gradio]": "LLM_learning [已建]",
+  "Quoting Thibault Sottiaux": "引用蒂博·索蒂奥克斯的话",
+  "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps": "推出 HN：Traceforce (YC S26) – 针对 AI 应用程序的全公司安全监控"
 }
