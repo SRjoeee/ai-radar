@@ -23195,5 +23195,17 @@
   "zenith-gale-mission-control-benchmark [static]": "天顶大风任务控制基准 [静态]",
   "zenith-gale-mission-control-demo [static]": "zenith-gale-mission-control-demo [静态]",
   "zenith-gale-mission-control [static]": "天顶大风任务控制 [静态]",
-  "apex-herd-launchpad-benchmark [static]": "apex-herd-launchpad-benchmark [静态]"
+  "apex-herd-launchpad-benchmark [static]": "apex-herd-launchpad-benchmark [静态]",
+  "video-bg-remover [gradio]": "视频背景去除器 [渐变]",
+  "THCLLM [docker]": "THCLLM [码头工人]",
+  "apex-herd-launchpad-demo [static]": "apex-herd-launchpad-demo [静态]",
+  "apex-herd-launchpad [static]": "apex-herd-launchpad [静态]",
+  "LUWO-V6-Compression [gradio]": "LUWO-V6-压缩 [等级]",
+  "mishkat [static]": "米什卡特 [静态]",
+  "Fable-5-Star-Trek [static]": "寓言 5 星际迷航 [静态]",
+  "save-videos-bot [gradio]": "保存视频机器人 [gradio]",
+  "signals [docker]": "信号[码头工人]",
+  "improved-dimension-bco-gradient-variation-repro [static]": "改进的维度-bco-梯度变化-repro [静态]",
+  "digital_twin [static]": "digital_twin [静态]",
+  "Step-3.7-Flash-oQ3e — image-text-to-text": "步骤 3.7-Flash-oQ3e — 图像-文本-文本"
 }
