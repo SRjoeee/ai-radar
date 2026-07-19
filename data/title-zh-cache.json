@@ -23526,5 +23526,22 @@
   "clinical-nlp-results [static]": "临床 NLP 结果 [静态]",
   "698yKwEXf0 [static]": "698yKwEXf0 [静态]",
   "BenchLabs-Leaderboard [static]": "BenchLabs-排行榜 [静态]",
-  "Show HN: Phosphor – a CRT TV video player for your Mac": "Show HN：Phosphor – 适用于 Mac 的 CRT 电视视频播放器"
+  "Show HN: Phosphor – a CRT TV video player for your Mac": "Show HN：Phosphor – 适用于 Mac 的 CRT 电视视频播放器",
+  "tracker [gradio]": "追踪器[已建]",
+  "Bharat-AI-Pro [static]": "Bharat-AI-Pro [静态]",
+  "olivia-hotel-receptionist [gradio]": "奥利维亚酒店接待员 [渐变]",
+  "hybrid-language [gradio]": "混合语言 [gradio]",
+  "my-ai-agents [gradio]": "我的人工智能代理 [梯度]",
+  "teradawnload [gradio]": "teradawnload [渐变]",
+  "n8n-p [docker]": "n8n-p [码头工人]",
+  "lara-latram-support [gradio]": "lara-latram-支持 [已构建]",
+  "icml2016-33813 [static]": "icml2016-33813 [静态]",
+  "spleeter [gradio]": "分切机 [等级]",
+  "medAI-backend [gradio]": "medAI-后端 [gradio]",
+  "VRAM-Caclulator [gradio]": "VRAM 计算器 [内置]",
+  "hamster09 [docker]": "仓鼠09 [码头工人]",
+  "meu-agente-gaia [static]": "我的代理盖亚 [静态]",
+  "repro-high-accuracy-sampling-for-diffusion-models-and-log-concave-distributions [static]": "扩散模型和对数凹分布的高精度采样[静态]",
+  "Prediction [static]": "预测[静态]",
+  "email-triage-env [docker]": "电子邮件分类-env [docker]"
 }
