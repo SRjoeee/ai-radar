@@ -26043,5 +26043,16 @@
   "Codette-Reasoning-Demo [gradio]": "Codette-推理-演示 [等级]",
   "hr [static]": "小时[静态]",
   "We need to rethink tech stack": "我们需要重新思考技术堆栈",
-  "Robotic Adaptation Suffers from Data Collection Bottleneck": "机器人适应面临数据收集瓶颈"
+  "Robotic Adaptation Suffers from Data Collection Bottleneck": "机器人适应面临数据收集瓶颈",
+  "MacroAlpha [static]": "MacroAlpha [静态]",
+  "financial-sentiment-analyzer [streamlit]": "金融情绪分析器 [streamlit]",
+  "senarioB [docker]": "senarioB [码头工人]",
+  "Curriculum_Mapping_Tool [docker]": "课程映射工具 [docker]",
+  "sonik [gradio]": "声音[渐变]",
+  "Static-R [docker]": "静态-R [docker]",
+  "camouflage-detection-demo [docker]": "伪装检测演示 [docker]",
+  "repro-operator-splitting-with-hamilton-jacobi-based-proximals [static]": "重现算子分裂与基于哈密尔顿雅可比的近端[静态]",
+  "Show HN: Maginary.ai gets seedance2 and GPT-images2 support": "Show HN：Maginary.ai 获得 Seedance2 和 GPT-images2 支持",
+  "Primate-Intelligence/primate-intelligence-mcp - MCP server for Primate Intelligence — video scene understanding via predictive world models. Connect Claude, Cursor, or any MCP client.": "Primate-Intelligence/primate-intelligence-mcp - 用于灵长类智能的 MCP 服务器 — 通过预测世界模型理解视频场景。连接 Claude、Cursor 或任何 MCP 客户端。",
+  "SP/1.0: deterministic, reproducible verdicts for AI-agent decisions": "SP/1.0：人工智能代理决策的确定性、可重复性判决"
 }
