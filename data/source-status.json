@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T17:18:24.524934Z",
+  "generated_at": "2026-07-27T18:56:02.991251Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 146,
-      "duration_ms": 2034,
+      "item_count": 111,
+      "duration_ms": 6696,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 8,
-      "duration_ms": 247,
+      "duration_ms": 184,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 335,
+      "duration_ms": 418,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1071,
+      "duration_ms": 3178,
       "error": null
     },
     {
@@ -46,55 +46,55 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1992,
+      "duration_ms": 503,
       "error": null
     },
     {
       "site_id": "hf_papers",
       "site_name": "HF Daily Papers",
-      "ok": true,
-      "item_count": 36,
-      "duration_ms": 87,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 4825,
+      "error": "HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/daily_papers (Caused by ResponseError('too many 429 error responses'))"
     },
     {
       "site_id": "hf_mlx",
       "site_name": "mlx-community",
-      "ok": true,
-      "item_count": 40,
-      "duration_ms": 54,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 4818,
+      "error": "HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/models?author=mlx-community&sort=lastModified&direction=-1&limit=50 (Caused by ResponseError('too many 429 error responses'))"
     },
     {
       "site_id": "reddit_ai",
       "site_name": "Reddit · AI",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 42,
+      "duration_ms": 78,
       "error": null
     },
     {
       "site_id": "hf_spaces",
       "site_name": "HF Spaces Trending",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 44,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 4818,
+      "error": "HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/spaces?sort=lastModified&direction=-1&limit=50 (Caused by ResponseError('too many 429 error responses'))"
     },
     {
       "site_id": "findit",
       "site_name": "Findit-AI",
       "ok": true,
       "item_count": 30,
-      "duration_ms": 1948,
+      "duration_ms": 1555,
       "error": null
     },
     {
       "site_id": "github_topics",
       "site_name": "GitHub Topics",
       "ok": true,
-      "item_count": 134,
-      "duration_ms": 23055,
+      "item_count": 137,
+      "duration_ms": 14054,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "GitHub Releases",
       "ok": true,
       "item_count": 24,
-      "duration_ms": 2316,
+      "duration_ms": 1858,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 36,
-      "duration_ms": 104,
+      "duration_ms": 87,
       "error": null
     },
     {
@@ -118,48 +118,53 @@
       "site_name": "arXiv",
       "ok": true,
       "item_count": 132,
-      "duration_ms": 91,
+      "duration_ms": 115,
       "error": null
     },
     {
       "site_id": "hn_ai",
       "site_name": "Hacker News · AI",
       "ok": true,
-      "item_count": 63,
-      "duration_ms": 4780,
+      "item_count": 65,
+      "duration_ms": 5849,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 1,
-      "item_count": 2212,
-      "duration_ms": 5985,
-      "error": "1 feeds failed",
+      "partial_failures": 2,
+      "item_count": 1381,
+      "duration_ms": 4822,
+      "error": "2 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
-      "ok_feed_count": 9,
-      "failed_feed_count": 1,
+      "ok_feed_count": 8,
+      "failed_feed_count": 2,
       "skipped_feed_count": 0,
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 17,
-  "failed_sites": [],
+  "successful_sites": 14,
+  "failed_sites": [
+    "hf_papers",
+    "hf_mlx",
+    "hf_spaces"
+  ],
   "zero_item_sites": [
     "reddit_ai"
   ],
-  "fetched_raw_items": 3004,
-  "items_before_topic_filter": 584,
-  "items_in_24h": 450,
+  "fetched_raw_items": 2017,
+  "items_before_topic_filter": 555,
+  "items_in_24h": 420,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
     "feed_total": 10,
     "effective_feed_total": 10,
-    "ok_feeds": 9,
+    "ok_feeds": 8,
     "failed_feeds": [
+      "https://huggingface.co/blog/feed.xml",
       "https://blogs.microsoft.com/ai/feed/"
     ],
     "zero_item_feeds": [],
@@ -174,7 +179,7 @@
         "effective_feed_url": "https://blog.google/technology/ai/rss/",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 226,
+        "duration_ms": 99,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -189,7 +194,7 @@
         "effective_feed_url": "https://deepmind.google/blog/rss.xml",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 602,
+        "duration_ms": 285,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -202,10 +207,10 @@
         "feed_title": "Hugging Face Blog",
         "feed_url": "https://huggingface.co/blog/feed.xml",
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
-        "ok": true,
-        "item_count": 831,
-        "duration_ms": 656,
-        "error": null,
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 16,
+        "error": "429 Client Error: Too Many Requests for url: https://huggingface.co/blog/feed.xml",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -219,7 +224,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 1525,
+        "duration_ms": 1711,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -234,7 +239,7 @@
         "effective_feed_url": "https://blogs.microsoft.com/ai/feed/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 198,
+        "duration_ms": 360,
         "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
         "skipped": false,
         "skip_reason": null,
@@ -249,7 +254,7 @@
         "effective_feed_url": "https://developer.nvidia.com/blog/category/generative-ai/feed/",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 841,
+        "duration_ms": 676,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -264,7 +269,7 @@
         "effective_feed_url": "https://openai.com/news/rss.xml",
         "ok": true,
         "item_count": 1051,
-        "duration_ms": 540,
+        "duration_ms": 672,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -279,7 +284,7 @@
         "effective_feed_url": "https://simonwillison.net/atom/everything/",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 701,
+        "duration_ms": 159,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -294,7 +299,7 @@
         "effective_feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 77,
+        "duration_ms": 172,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -309,7 +314,7 @@
         "effective_feed_url": "https://baoyu.io/feed.xml",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 619,
+        "duration_ms": 672,
         "error": null,
         "skipped": false,
         "skip_reason": null,

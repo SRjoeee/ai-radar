@@ -26322,5 +26322,10 @@
   "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning": "NVIDIA Ising 通过增强型情境学习实现全自动量子计算机校准",
   "Segmented YouTube video cc –> .txt and .pdf": "分段 YouTube 视频抄送 –> .txt 和 .pdf",
   "Mistral-7B-Instruct-v0.3-mlx-4Bit": "Mistral-7B-指令-v0.3-mlx-4Bit",
-  "Phi-4-mini-instruct-mlx-4Bit — text-generation": "Phi-4-mini-instruct-mlx-4Bit — 文本生成"
+  "Phi-4-mini-instruct-mlx-4Bit — text-generation": "Phi-4-mini-instruct-mlx-4Bit — 文本生成",
+  "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download": "Show HN: Yap – 适用于 macOS 的 OSS 设备上语音听写，无需下载模型",
+  "Why Agentic Systems Need Ontologies [video]": "为什么代理系统需要本体 [视频]",
+  "Show HN: ApplyAssists – AI resume builder using Google XYZ formula": "Show HN：ApplyAssists – 使用 Google XYZ 公式的 AI 简历生成器",
+  "Show HN: Opensource resume evaluation LLM agents": "Show HN：开源简历评估LLM代理",
+  "Docker alternatives for AI agents: Podman, bwrap and Firejail": "AI 代理的 Docker 替代方案：Podman、bwrap 和 Firejail"
 }
