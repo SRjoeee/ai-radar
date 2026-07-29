@@ -27157,5 +27157,21 @@
   "alphatekx-coder-api2 [gradio]": "alphatekx-coder-api2 [渐变]",
   "uk-ghost-jobs [static]": "英国幽灵工作 [静态]",
   "PlantDis [gradio]": "PlantDis [渐变]",
-  "SKS-Dashboard [docker]": "SKS-仪表板 [docker]"
+  "SKS-Dashboard [docker]": "SKS-仪表板 [docker]",
+  "ccs-class-scheduling-system [static]": "ccs 类调度系统 [静态]",
+  "cresvanta-advisory [static]": "cresvanta-咨询 [静态]",
+  "avomi-farms [static]": "avomi 农场 [静态]",
+  "Face-Detection [gradio]": "人脸检测 [渐变]",
+  "my_aegnt_ai [gradio]": "my_aegnt_ai [渐变]",
+  "neurosentinel-multi-domaine [static]": "神经哨兵多域 [静态]",
+  "VSDOTS [docker]": "VSDOTS [码头工人]",
+  "repro-learning-multi-agent-coordination-via-sheaf-admm [static]": "重现学习多代理协调via-sheaf-admm [静态]",
+  "mcsdf-atlas [static]": "mcsdf-atlas [静态]",
+  "Image-to-3D-Video-Asset-Generator [gradio]": "图像到 3D 视频资产生成器 [gradio]",
+  "fable-fusion-chat [gradio]": "寓言融合聊天 [渐变]",
+  "test_656 [gradio]": "test_656 [已构建]",
+  "Games [static]": "游戏[静态]",
+  "nlp_Gt [static]": "nlp_Gt [静态]",
+  "repro-steady-state-behavior-of-constant-stepsize-stochastic-approximation-gaussian-approximation [static]": "恒定步长随机逼近高斯逼近的稳态行为再现 [静态]",
+  "Copilot code review: Agent skills and MCP now generally available": "Copilot 代码审查：代理技能和 MCP 现已普遍可用"
 }
