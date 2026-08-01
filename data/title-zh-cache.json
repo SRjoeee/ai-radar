@@ -28080,5 +28080,22 @@
   "IEEE-Optmizer [gradio]": "IEEE-Optimizer [内置]",
   "contextweave [docker]": "上下文编织 [docker]",
   "mcpserver [gradio]": "mcp服务器[已构建]",
-  "melody-backend [docker]": "旋律后端 [docker]"
+  "melody-backend [docker]": "旋律后端 [docker]",
+  "Waifu_Overload_AI_test [gradio]": "Waifu_Overload_AI_test [渐变]",
+  "interactive-study-assistant [gradio]": "互动学习助理 [gradio]",
+  "toxic-comment-detector [gradio]": "有毒评论检测器 [gradio]",
+  "hermes-test-static [static]": "Hermes-测试-静态 [静态]",
+  "Trading [gradio]": "交易[已建]",
+  "agenttool-heaven [static]": "代理工具天堂 [静态]",
+  "lazee [static]": "懒惰[静态]",
+  "yv_dev [docker]": "yv_dev [码头工人]",
+  "vt-scanner-demo [gradio]": "vt-扫描仪-演示 [渐变]",
+  "management-system [docker]": "管理系统 [docker]",
+  "Ttsbyomni [gradio]": "特斯比姆尼 [已建成]",
+  "pmb-uii-crag-backend [gradio]": "pmb-uii-crag-backend [渐变]",
+  "hermes [gradio]": "赫尔墨斯[建造]",
+  "academic-research-helper [gradio]": "学术研究助手 [等级]",
+  "jarvis-face-recognition [static]": "贾维斯人脸识别 [静态]",
+  "Show HN: Job board and MCP server for AI developers": "Show HN：面向 AI 开发人员的工作板和 MCP 服务器",
+  "lamhotsiagian/multimodal-system-design - Hands-on codebase for Multi-Modal AI System Design. Features a 100% local assistant (Qwen3, Qwen2-VL, Whisper, Kokoro, FLUX) and 10 interactive labs for vision, audio, RAG, and MoE routing.": "lamhotsiagian/multimodal-system-design - 多模态人工智能系统设计的实践代码库。配备 100% 本地助手（Qwen3、Qwen2-VL、Whisper、Kokoro、FLUX）和 10 个用于视觉、音频、RAG 和 MoE 路由的交互式实验室。"
 }
