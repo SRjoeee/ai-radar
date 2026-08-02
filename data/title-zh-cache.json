@@ -28271,5 +28271,21 @@
   "proyectowan [static]": "项目WAN [静态]",
   "learning-unmasking-policies-for-diffusion-language-models [gradio]": "扩散语言模型的学习揭露策略 [gradio]",
   "DiffuseCraft [gradio]": "DiffuseCraft [渐变]",
-  "repro-photoagent-ws8swql5ob [static]": "repro-photoagent-ws8swql5ob [静态]"
+  "repro-photoagent-ws8swql5ob [static]": "repro-photoagent-ws8swql5ob [静态]",
+  "ai-video-dubbing-studio-v2 [gradio]": "ai-video-dubbing-studio-v2 [渐变]",
+  "Drug-Classification [static]": "药物分类 [静态]",
+  "histopatho-mammaire [gradio]": "乳腺组织病理学 [梯度]",
+  "alpha-60m-chat [docker]": "alpha-60m-聊天 [docker]",
+  "ul-lafayette-rag-assistant [gradio]": "ul-lafayette-rag-assistant [渐变]",
+  "hyperframes v0.7.88": "超帧 v0.7.88",
+  "Vehicle-Detection [docker]": "车辆检测 [docker]",
+  "GRC.Company [static]": "GRC.公司 [静态]",
+  "WNP-ARAG [gradio]": "WNP-VIEW [渐变]",
+  "flowmaster-plumbing-animated-website [static]": "flowmaster-plumbing-动画网站 [静态]",
+  "Bot [static]": "机器人 [静态]",
+  "Eryndor [gradio]": "埃林多[建成]",
+  "scale-x-odyssey [static]": "规模 X 奥德赛 [静态]",
+  "Medicle_Assistant [gradio]": "Medicle_Assistant [渐变]",
+  "lava-backend [docker]": "熔岩后端 [docker]",
+  "kgamv/deepseek-vision-mcp - Local-first MCP server for image understanding with Ollama vision models.": "kgamv/deepseek-vision-mcp - 用于 Ollama 视觉模型图像理解的本地优先 MCP 服务器。"
 }
