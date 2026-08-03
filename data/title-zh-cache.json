@@ -28660,5 +28660,21 @@
   "standing-wave [gradio]": "驻波[梯度]",
   "Ask HN: What's Next for LLMs?": "询问 HN：法学硕士的下一步是什么？",
   "Show HN: I'm 16 y/o and Built the only AI Agent for Hardware and Software Dev": "Show HN：我 16 岁，为硬件和软件开发构建了唯一的 AI 代理",
-  "sadekxD/cardstock-diorama-myth - Claude skill that turns a single request into a narrated mythic short film in a layered cut-paper diorama style — three-colour cardstock worlds, paper wipes, Unsora MCP + local ffmpeg, one assembled MP4.": "SadekxD/cardstock-diorama-myth - 克劳德技能，将单个请求变成分层剪纸立体模型风格的叙事神话短片 - 三色卡片纸世界，纸巾，Unsora MCP + 本地 ffmpeg，一个组装的 MP4。"
+  "sadekxD/cardstock-diorama-myth - Claude skill that turns a single request into a narrated mythic short film in a layered cut-paper diorama style — three-colour cardstock worlds, paper wipes, Unsora MCP + local ffmpeg, one assembled MP4.": "SadekxD/cardstock-diorama-myth - 克劳德技能，将单个请求变成分层剪纸立体模型风格的叙事神话短片 - 三色卡片纸世界，纸巾，Unsora MCP + 本地 ffmpeg，一个组装的 MP4。",
+  "Test-anomaly-detector [gradio]": "测试异常检测器 [梯度]",
+  "test-mcq [gradio]": "测试-mcq [渐变]",
+  "repro-csr [static]": "复制 CSR [静态]",
+  "nse-bot-live-dashboard-price-action-options-basic [docker]": "nse-bot-live-dashboard-价格-操作-选项-基本 [docker]",
+  "nse-jf-flip-bot-live-dashboard [docker]": "nse-jf-flip-bot-live-仪表板 [docker]",
+  "taiwan-motorcycle-emission-check [gradio]": "台湾摩托车排放检查 [渐变]",
+  "nse-bot-live-dashboard-price-action-indices [docker]": "nse-bot-live-dashboard-价格-操作-指数 [docker]",
+  "nse-jf-flip-bot-backend [docker]": "nse-jf-flip-bot-后端 [docker]",
+  "repro-learning-rate-annealing-improves-tuning-robustness-in-stochastic-optimization [static]": "重现学习率退火提高随机优化中的调整鲁棒性[静态]",
+  "repro-cap-x-a-framework-for-benchmarking-and-improving-coding-agents-for-robot-manipulation [static]": "用于机器人操作的基准测试和改进编码代理的 repro-cap-x-a-framework [静态]",
+  "boba-repro [static]": "boba-repro [静态]",
+  "nse-bot-history-price-action-indices [docker]": "nse-bot-历史-价格-操作-指数 [docker]",
+  "nse-bot-history-trend-algo [docker]": "nse-bot-历史趋势-算法 [docker]",
+  "screenpipe Screenpipe App v2.5.167": "screenpipe Screenpipe 应用程序 v2.5.167",
+  "Show HN: A company brain AI agents check before acting": "Show HN：公司大脑人工智能代理在行动前进行检查",
+  "screenpipe app-v2.5.166": "screenpipe 应用程序-v2.5.166"
 }
