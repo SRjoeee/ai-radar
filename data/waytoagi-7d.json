@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-08-04T16:58:56.970550Z",
+  "generated_at": "2026-08-04T18:40:53.537041Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-04",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-08-04",
+      "title": "这篇Vibe Coding 新手视觉宝典，把网页拆成四层：布局、页面结构、导航和组件。针对 卡片、瀑布流、Bento、分屏、CSS Grid/Flexbox、Hero、Landing Page、Sticky Navbar、Drawer、Tabs、Modal、Toast、表单、Command Palette都讲了各自的适用场景，还配了对应的提示词。如果你想用AI搭个人网站、作品集、产品页，可以参考一下。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-08-04",
       "title": "海螺 MiniMax H3 正式开源，小歪跑了一大批案例，测试了产品广告、饮品广告、越野车、探店、美妆带货、餐饮广告，也试了文字渲染、多视角同步、灾难片、二次元变身、情感短剧、动作片、魔法特效、打斗和国风演唱。还给出了完整的提示词，快来一起试试效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "乔木开源的这个 元Skill 可以让你一句话生成真正能被发现、能稳定触发、能通过验证、还能一键开源的Skill。你把提示词、SOP、聊天记录、旧Skill或者一个模糊想法交给它，它会自动完成需求收敛、同类检索、取舍设计、触发评测、格式校验、README、密钥泄露检查、PR、Release和npx安装验证。快来试试看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-08-04",
+      "title": "这篇Vibe Coding 新手视觉宝典，把网页拆成四层：布局、页面结构、导航和组件。针对 卡片、瀑布流、Bento、分屏、CSS Grid/Flexbox、Hero、Landing Page、Sticky Navbar、Drawer、Tabs、Modal、Toast、表单、Command Palette都讲了各自的适用场景，还配了对应的提示词。如果你想用AI搭个人网站、作品集、产品页，可以参考一下。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-04",
       "title": "海螺 MiniMax H3 正式开源，小歪跑了一大批案例，测试了产品广告、饮品广告、越野车、探店、美妆带货、餐饮广告，也试了文字渲染、多视角同步、灾难片、二次元变身、情感短剧、动作片、魔法特效、打斗和国风演唱。还给出了完整的提示词，快来一起试试效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "乔木开源的这个 元Skill 可以让你一句话生成真正能被发现、能稳定触发、能通过验证、还能一键开源的Skill。你把提示词、SOP、聊天记录、旧Skill或者一个模糊想法交给它，它会自动完成需求收敛、同类检索、取舍设计、触发评测、格式校验、README、密钥泄露检查、PR、Release和npx安装验证。快来试试看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
