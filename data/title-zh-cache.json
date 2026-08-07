@@ -30079,5 +30079,7 @@
   "a2a-validator [docker]": "a2a-验证器 [docker]",
   "tiny_expresa [docker]": "小快车 [码头工人]",
   "peanuts_dashboard [docker]": "花生_仪表板 [docker]",
-  "B24-download [docker]": "B24-下载 [docker]"
+  "B24-download [docker]": "B24-下载 [docker]",
+  "REST and MCP Servers from the same codebase": "来自同一代码库的 REST 和 MCP 服务器",
+  "Show HN: Wyzer Programming Language": "显示 HN：Wyzer 编程语言"
 }
