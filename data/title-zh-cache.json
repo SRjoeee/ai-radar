@@ -30064,5 +30064,20 @@
   "new_pdf [docker]": "新的_pdf [码头工人]",
   "Four Ex-Stratfor Analysts Reunite to Predict How the World Ends [video]": "四位前 Stratfor 分析师重聚预测世界末日 [视频]",
   "media2026 [docker]": "媒体2026 [docker]",
-  "Danmoreng/talk-to-pi - Local, live Nemotron voice input for the Pi coding agent": "Danmoreng/talk-to-pi - 用于 Pi 编码代理的本地实时 Nemotron 语音输入"
+  "Danmoreng/talk-to-pi - Local, live Nemotron voice input for the Pi coding agent": "Danmoreng/talk-to-pi - 用于 Pi 编码代理的本地实时 Nemotron 语音输入",
+  "leplus-solver [docker]": "leplus-求解器 [docker]",
+  "blip-image-captioning [static]": "blip 图像标题 [静态]",
+  "PM-Prediction [docker]": "PM-预测 [docker]",
+  "implantscan [static]": "植入扫描[静态]",
+  "ConversionPro [gradio]": "ConversionPro [渐变]",
+  "phantomcontrol [streamlit]": "幻影控制 [streamlit]",
+  "asas [streamlit]": "基本[流光]",
+  "mangaocr [gradio]": "mangaocr [已建]",
+  "licenta [docker]": "许可证[码头工人]",
+  "tayari-beta [docker]": "测试版就绪 [docker]",
+  "sid-gil-ai-clone [gradio]": "sid-gil-ai-clone [等级]",
+  "a2a-validator [docker]": "a2a-验证器 [docker]",
+  "tiny_expresa [docker]": "小快车 [码头工人]",
+  "peanuts_dashboard [docker]": "花生_仪表板 [docker]",
+  "B24-download [docker]": "B24-下载 [docker]"
 }
