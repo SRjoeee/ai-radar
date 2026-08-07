@@ -30264,5 +30264,20 @@
   "chatbot-Yankey [gradio]": "聊天机器人-Yankey [构建]",
   "complaince_ai [docker]": "投诉_ai [码头工人]",
   "Copilot code review effort levels are generally available": "副驾驶代码审查工作水平通常可用",
-  "Agent Reach: An open-source CLI that gives AI agents access to the internet": "Agent Reach：一个开源 CLI，可让 AI 代理访问互联网"
+  "Agent Reach: An open-source CLI that gives AI agents access to the internet": "Agent Reach：一个开源 CLI，可让 AI 代理访问互联网",
+  "D [static]": "D [静态]",
+  "trichronos-eval [gradio]": "trichronos-eval [渐变]",
+  "autobacs [docker]": "奥托巴克斯[码头工人]",
+  "jjkl [docker]": "jjkl [码头工人]",
+  "LLM_Leaderboard [static]": "LLM_Leaderboard [静态]",
+  "house-prediction1 [docker]": "房屋预测1 [docker]",
+  "gemma-4-obliterated-chat [gradio]": "gemma-4-obliterated-聊天 [渐变]",
+  "phantomwiki-structure-prompt-iteration [static]": "phantomwiki-结构-提示-迭代 [静态]",
+  "index [docker]": "索引[码头工人]",
+  "contract-guard [docker]": "合同守卫 [docker]",
+  "WJ_Document_Verifier_Demo [gradio]": "WJ_Document_Verifier_Demo [渐变]",
+  "PRUEBAS_ONLINE [docker]": "在线测试 [docker]",
+  "tacit-mosaic-festival-chat [gradio]": "默认马赛克节日聊天 [渐变]",
+  "my-ai-cha [static]": "我的爱茶 [静态]",
+  "Why Normal People Aren't Using AI Agents": "为什么普通人不使用人工智能代理"
 }
