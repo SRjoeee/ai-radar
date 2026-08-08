@@ -30754,5 +30754,16 @@
   "chiasm-bridge-demo [gradio]": "chiasm-bridge-demo [渐变]",
   "AILearning-FrontEnd [docker]": "AILearning-前端 [docker]",
   "stemforge-hf-space [gradio]": "Stemforge-HF-空间 [渐变]",
-  "Auto mode is now the default in Claude Code for Pro, Max, and Team plans": "自动模式现在是 Claude Code Pro、Max 和 Team 计划中的默认模式"
+  "Auto mode is now the default in Claude Code for Pro, Max, and Team plans": "自动模式现在是 Claude Code Pro、Max 和 Team 计划中的默认模式",
+  "dashboard-immigration-ontario [gradio]": "仪表板-移民-安大略省 [渐变]",
+  "VIDEO1 [gradio]": "视频1 [已构建]",
+  "North-ML-Demo [gradio]": "North-ML-Demo [构建者]",
+  "SPOKE [gradio]": "辐条[建成]",
+  "my-v2ray-server [static]": "my-v2ray-server [静态]",
+  "yiiyggf [static]": "yiiyggf [静态]",
+  "Vscode [gradio]": "vscode [构建者]",
+  "cereal-disease-advisor [gradio]": "谷物疾病顾问 [gradio]",
+  "alpr-placas-colombianas [static]": "alpr-哥伦比亚-盘子 [静态]",
+  "sheet-music [static]": "乐谱[静态]",
+  "map1k-ai-bot [static]": "map1k-ai-bot [静态]"
 }
