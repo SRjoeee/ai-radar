@@ -30445,5 +30445,22 @@
   "ai_hmz [static]": "ai_hmz [静态]",
   "ai-visual-quality-inspector [static]": "ai-视觉质量检查器 [静态]",
   "repo [docker]": "仓库[码头工人]",
-  "hybrid-routing-agent [gradio]": "混合路由代理 [gradio]"
+  "hybrid-routing-agent [gradio]": "混合路由代理 [gradio]",
+  "Hospital-Review-Bot [gradio]": "医院-审查-机器人 [渐变]",
+  "AI-Model-Genome [static]": "AI 模型基因组 [静态]",
+  "RecursivNova [docker]": "递归新星 [docker]",
+  "voxcpm2-demo [static]": "voxcpm2-demo [静态]",
+  "shineai-emotion-service [gradio]": "Shinai-情感服务 [渐变]",
+  "Forest-Fire-CLassification [gradio]": "森林火灾分类 [梯度]",
+  "kuku [static]": "库库[静态]",
+  "Dlp-Video-Downloader [docker]": "Dlp-视频下载器 [docker]",
+  "DNAnalyzer [static]": "DNA分析仪[静态]",
+  "Qwen3.6-35B-A3B [gradio]": "Qwen3.6-35B-A3B [渐变]",
+  "arc [docker]": "弧线[码头工人]",
+  "testmore [streamlit]": "测试更多 [streamlit]",
+  "watermark-remover [gradio]": "水印去除器 [渐变]",
+  "admresumeagent [gradio]": "admresumeagent [已构建]",
+  "docshield-ai [static]": "docshield-ai [静态]",
+  "exlibris-primo-mcp [gradio]": "exlibris-primo-mcp [等级]",
+  "Show HN: Hosted LLM Wiki": "显示 HN：托管 LLM Wiki"
 }
