@@ -30642,5 +30642,18 @@
   "traffic_prediction [static]": "流量预测 [静态]",
   "biloma [static]": "胆汁瘤 [静态]",
   "talk-to-agent [gradio]": "与客服人员交谈 [gradio]",
-  "vericle/heyclaw - 🦞 Headless real-time Python voice assistant powered by ElevenLabs, Gemini, Mem0, MCP tools, and local wake-word detection.": "vericle/heyclaw - 🦞 无头实时 Python 语音助手，由 ElevenLabs、Gemini、Mem0、MCP 工具和本地唤醒词检测提供支持。"
+  "vericle/heyclaw - 🦞 Headless real-time Python voice assistant powered by ElevenLabs, Gemini, Mem0, MCP tools, and local wake-word detection.": "vericle/heyclaw - 🦞 无头实时 Python 语音助手，由 ElevenLabs、Gemini、Mem0、MCP 工具和本地唤醒词检测提供支持。",
+  "bis-compass-backend [gradio]": "双罗盘后端 [渐变]",
+  "traductor-racv [gradio]": "racv-翻译器 [等级]",
+  "shadow-qwen23 [docker]": "影子-qwen23 [docker]",
+  "Ceyfraude_Backend [docker]": "Ceyfraude_后端 [docker]",
+  "rental_law_git [gradio]": "Rental_law_git [渐变]",
+  "Meridyen [gradio]": "经络 [渐变]",
+  "AI-ResearchPilot [gradio]": "AI-ResearchPilot [渐变]",
+  "ginger-health-ai [gradio]": "生姜-健康-ai [渐变]",
+  "wan22-colab [static]": "wan22-colab [静态]",
+  "vineyard-plotter-models [gradio]": "葡萄园绘图仪模型 [梯度]",
+  "Special-inspection-api [docker]": "特别检查-api [docker]",
+  "rental_law_queries": "租赁法律查询",
+  "jzkakakka [static]": "jzkakakka [静态]"
 }
