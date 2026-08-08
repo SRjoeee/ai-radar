@@ -30431,5 +30431,19 @@
   "Smart-MCQ-Solver [streamlit]": "Smart-MCQ-求解器 [streamlit]",
   "music-euch-b74104 [docker]": "音乐-euch-b74104 [docker]",
   "siamtech-hr-chatbot [static]": "siamtech-hr-chatbot [静态]",
-  "thai-food-classifier [static]": "泰国食品分类器 [静态]"
+  "thai-food-classifier [static]": "泰国食品分类器 [静态]",
+  "flask_bank_churn [docker]": "Flask_bank_churn [码头工人]",
+  "kokoro-tts-api [static]": "kokoro-tts-api [静态]",
+  "DDColor-Photo-Restoration [gradio]": "DDColor-照片修复 [渐变]",
+  "resume-forge [gradio]": "简历锻造 [渐变]",
+  "Bc [static]": "BC [静态]",
+  "postpartum_AI_companion [gradio]": "postpartum_AI_companion [渐变]",
+  "ispp-luena-sistema-educacional-completo [static]": "ispp-luena-完整的教育系统 [静态]",
+  "track-detector-with-voice [static]": "带语音的跟踪检测器 [静态]",
+  "assistllm-v0-demo [gradio]": "Assistllm-v0-演示 [已构建]",
+  "restaurant-rag-backend-v2 [docker]": "餐厅-rag-backend-v2 [docker]",
+  "ai_hmz [static]": "ai_hmz [静态]",
+  "ai-visual-quality-inspector [static]": "ai-视觉质量检查器 [静态]",
+  "repo [docker]": "仓库[码头工人]",
+  "hybrid-routing-agent [gradio]": "混合路由代理 [gradio]"
 }
