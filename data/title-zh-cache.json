@@ -30520,5 +30520,21 @@
   "wan2-2-mnl-1 [gradio]": "wan2-2-mnl-1 [已建]",
   "pogh-ayodhya [streamlit]": "波格-阿约提亚 [streamlit]",
   "point-e [gradio]": "e点[等级]",
-  "assist [gradio]": "协助[建成]"
+  "assist [gradio]": "协助[建成]",
+  "malagasy-tts [gradio]": "马达加斯加语-tts [等级]",
+  "backend-lora-go [docker]": "后端-lora-go [docker]",
+  "Mywebui [static]": "Mywebui [静态]",
+  "sylheti-nagri-ocr [gradio]": "sylheti-nagri-ocr [已建成]",
+  "garo-bhashini [gradio]": "garo-bhashini [渐变]",
+  "my-private-assistant [static]": "我的私人助理 [静态]",
+  "emerging.systems [gradio]": "新兴系统[建成]",
+  "strawberry-rul-prediction-be [gradio]": "草莓-rul-预测-be [渐变]",
+  "mcp4rs-open-earth [gradio]": "mcp4rs-open-earth [渐变]",
+  "bots [docker]": "机器人[码头工人]",
+  "iMAGETOVOICE [gradio]": "iMAGETOVOICE [渐变]",
+  "oowm-router-demo [static]": "oowm-路由器演示 [静态]",
+  "Krushn_Space [static]": "Krushn_Space [静态]",
+  "axiom-solver [static]": "公理求解器 [静态]",
+  "Show HN: A free DOCX editor with MCP server for editing": "Show HN：带有 MCP 服务器进行编辑的免费 DOCX 编辑器",
+  "Show HN: Buddy – An iOS browser with an AI agent inside": "Show HN：Buddy – 一款内置 AI 代理的 iOS 浏览器"
 }
