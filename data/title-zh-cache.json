@@ -30490,5 +30490,18 @@
   "Waifu-Anime-TTS [gradio]": "Waifu-动漫-TTS [渐变]",
   "japan-municipality-explorer [static]": "日本直辖市探索者 [静态]",
   "How to Disable Gemini in Gmail and Google Docs": "如何在 Gmail 和 Google 文档中禁用 Gemini",
-  "thekartikeyamishra/sarvam-bridge - Point your existing ElevenLabs, OpenAI Audio or Deepgram app at Sarvam AI by changing one line. Drop-in compatibility gateway for Indic TTS & STT on Bulbul and Saaras: script-aware language detection, grapheme-safe Hindi/Tamil chunking, CER-based voice mapping, caching + request coalescing. TypeScript, Docker, 168 tests, MIT.": "thekartkeyamishra/sarvam-bridge - 通过更改一行将现有的 ElevenLabs、OpenAI Audio 或 Deepgram 应用程序指向 Sarvam AI。 Bulbul 和 Saaras 上印度语 TTS 和 STT 的嵌入式兼容性网关：脚本感知语言检测、字形安全的印地语/泰米尔语分块、基于 CER 的语音映射、缓存 + 请求合并。 TypeScript、Docker、168 项测试、麻省理工学院。"
+  "thekartikeyamishra/sarvam-bridge - Point your existing ElevenLabs, OpenAI Audio or Deepgram app at Sarvam AI by changing one line. Drop-in compatibility gateway for Indic TTS & STT on Bulbul and Saaras: script-aware language detection, grapheme-safe Hindi/Tamil chunking, CER-based voice mapping, caching + request coalescing. TypeScript, Docker, 168 tests, MIT.": "thekartkeyamishra/sarvam-bridge - 通过更改一行将现有的 ElevenLabs、OpenAI Audio 或 Deepgram 应用程序指向 Sarvam AI。 Bulbul 和 Saaras 上印度语 TTS 和 STT 的嵌入式兼容性网关：脚本感知语言检测、字形安全的印地语/泰米尔语分块、基于 CER 的语音映射、缓存 + 请求合并。 TypeScript、Docker、168 项测试、麻省理工学院。",
+  "WeatherPred [gradio]": "天气预测 [渐变]",
+  "healthbench-professional-gap-runs [static]": "healthbench-专业差距-运行 [静态]",
+  "fashion-color-stylist-app [gradio]": "时尚色彩造型师应用程序 [渐变]",
+  "spaces [docker]": "空间[码头工人]",
+  "karaoke-splitter [gradio]": "卡拉 OK 分配器 [内置]",
+  "simpleCalculator [streamlit]": "简单计算器 [streamlit]",
+  "moss-acting-casting [static]": "苔藓表演铸造[静态]",
+  "Secretarial-Document-Generator [static]": "秘书文件生成器 [静态]",
+  "segformer-train [gradio]": "segformer-train [建成]",
+  "IllusionDiffusionPro [gradio]": "IllusionDiffusionPro [渐变]",
+  "testbed [gradio]": "测试平台[已建成]",
+  "Youtube_Automation [docker]": "Youtube_自动化 [docker]",
+  "dlgenai-project [static]": "dlgenai-项目 [静态]"
 }
