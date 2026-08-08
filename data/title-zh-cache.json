@@ -30706,5 +30706,16 @@
   "par_demo [gradio]": "par_demo [已构建]",
   "yolo-segmentation-xai-demo_v1": "yolo-分割-xai-demo_v1",
   "hyperframes v0.7.102": "超帧 v0.7.102",
-  "pro-bg-remover [docker]": "专业背景去除剂 [docker]"
+  "pro-bg-remover [docker]": "专业背景去除剂 [docker]",
+  "McqSolver [gradio]": "McqSolver [构建者]",
+  "hyderabad-weather-forecast [gradio]": "海得拉巴天气预报 [梯度]",
+  "pabloo [static]": "巴布卢[静态]",
+  "codigo [gradio]": "代码[年级]",
+  "rukopys-space [gradio]": "rukopys-空间 [渐变]",
+  "voicelab [static]": "语音实验室[静态]",
+  "hydra-cage [static]": "多头蛇笼[静态]",
+  "gameunlockthehorror [static]": "游戏解锁恐怖[静态]",
+  "ris-kernel-demo [static]": "ris-kernel-demo [静态]",
+  "karaoke-splitter [docker]": "卡拉 OK 分配器 [docker]",
+  "ace-step-1-5-demo [static]": "ace-step-1-5-demo [静态]"
 }
