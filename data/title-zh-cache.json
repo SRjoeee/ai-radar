@@ -30689,5 +30689,22 @@
   "minimax-h3-ai-video-generator [static]": "minimax-h3-ai-视频生成器 [静态]",
   "y9c-dashboard [streamlit]": "y9c-仪表板 [streamlit]",
   "purple-play [static]": "紫色游戏 [静态]",
-  "object-voice-backend [static]": "对象语音后端 [静态]"
+  "object-voice-backend [static]": "对象语音后端 [静态]",
+  "little-reds-big-studio [gradio]": "小红大工作室 [渐变]",
+  "AgentX [gradio]": "AgentX [构建者]",
+  "railmitra-api-v2 [gradio]": "railmitra-api-v2 [渐变]",
+  "taiwan-robust-explainable-credit-lend [gradio]": "台湾稳健可解释信用贷款 [gradio]",
+  "banana-ai [static]": "香蕉艾 [静态]",
+  "it-ticket-severity-calculator [static]": "it-ticket-severity-calculator [静态]",
+  "jafar-gaia-agent [static]": "jafar-gaia-agent [静态]",
+  "ingredient-iq [gradio]": "成分智商 [等级]",
+  "picpredict [gradio]": "picpredict [已构建]",
+  "asystent-analizy-dzialki [docker]": "情节分析助手 [docker]",
+  "libertyai [static]": "自由[静态]",
+  "hello-world-chatbot [gradio]": "你好世界聊天机器人 [已构建]",
+  "Alexa [docker]": "亚历克斯 [码头工人]",
+  "par_demo [gradio]": "par_demo [已构建]",
+  "yolo-segmentation-xai-demo_v1": "yolo-分割-xai-demo_v1",
+  "hyperframes v0.7.102": "超帧 v0.7.102",
+  "pro-bg-remover [docker]": "专业背景去除剂 [docker]"
 }
