@@ -30655,5 +30655,7 @@
   "vineyard-plotter-models [gradio]": "葡萄园绘图仪模型 [梯度]",
   "Special-inspection-api [docker]": "特别检查-api [docker]",
   "rental_law_queries": "租赁法律查询",
-  "jzkakakka [static]": "jzkakakka [静态]"
+  "jzkakakka [static]": "jzkakakka [静态]",
+  "tanzeeldevAi/zara-ai-laptop-agent - Control your Windows laptop from your phone with AI. Zara is a Discord-based personal AI assistant - takes screenshots, runs commands, manages files and apps, and understands voice notes in English and Urdu.": "tanzeeldevAi/zara-ai-laptop-agent - 使用 AI 从手机控制您的 Windows 笔记本电脑。 Zara 是一款基于 Discord 的个人人工智能助手 - 截取屏幕截图、运行命令、管理文件和应用程序，并理解英语和乌尔都语的语音注释。",
+  "naivestud/auricle - Streaming ASR, audio captioning and speech QA over a whisper-style encoder with pluggable LLM backends": "naivestud/auricle - 通过带有可插入 LLM 后端的耳语式编码器流式传输 ASR、音频字幕和语音 QA"
 }
