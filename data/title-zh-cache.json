@@ -30503,5 +30503,22 @@
   "IllusionDiffusionPro [gradio]": "IllusionDiffusionPro [渐变]",
   "testbed [gradio]": "测试平台[已建成]",
   "Youtube_Automation [docker]": "Youtube_自动化 [docker]",
-  "dlgenai-project [static]": "dlgenai-项目 [静态]"
+  "dlgenai-project [static]": "dlgenai-项目 [静态]",
+  "music-g-77151f [docker]": "音乐-g-77151f [docker]",
+  "PII_Protector [gradio]": "PII_Protector [渐变]",
+  "text-to-video-generator [streamlit]": "文本到视频生成器 [streamlit]",
+  "dex [docker]": "dex [码头工人]",
+  "girlslike_lora_gallery [gradio]": "girlslike_lora_gallery [建造者]",
+  "sequential-fraud-detection [gradio]": "顺序欺诈检测 [gradio]",
+  "ERP_Sysyem [docker]": "ERP_系统 [docker]",
+  "Kick-Top-chat [docker]": "Kick-Top-聊天 [docker]",
+  "previsao-agricola-ia [static]": "农业预测 [静态]",
+  "MusicSplitter [docker]": "音乐分割器 [docker]",
+  "marway-transcriber [gradio]": "Marway 转录器 [渐变]",
+  "Video-maker [gradio]": "视频制作者[内置]",
+  "pixel [gradio]": "像素[渐变]",
+  "wan2-2-mnl-1 [gradio]": "wan2-2-mnl-1 [已建]",
+  "pogh-ayodhya [streamlit]": "波格-阿约提亚 [streamlit]",
+  "point-e [gradio]": "e点[等级]",
+  "assist [gradio]": "协助[建成]"
 }
