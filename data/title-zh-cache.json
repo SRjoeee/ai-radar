@@ -30765,5 +30765,14 @@
   "cereal-disease-advisor [gradio]": "谷物疾病顾问 [gradio]",
   "alpr-placas-colombianas [static]": "alpr-哥伦比亚-盘子 [静态]",
   "sheet-music [static]": "乐谱[静态]",
-  "map1k-ai-bot [static]": "map1k-ai-bot [静态]"
+  "map1k-ai-bot [static]": "map1k-ai-bot [静态]",
+  "SunySam [docker]": "SunySam [码头工人]",
+  "audio-to-text [static]": "音频转文本[静态]",
+  "forchi [static]": "福奇 [静态]",
+  "javisdit-audiofix-step14000-test10 [static]": "javisdit-audiofix-step14000-test10 [静态]",
+  "javisdit-audiofix-step33500-vs-prefix [static]": "javisdit-audiofix-step33500-vs-prefix [静态]",
+  "ceres-dataset-viewer [docker]": "ceres-数据集-查看器 [docker]",
+  "javisdit-anchor-matrix [static]": "javisdit-锚点矩阵 [静态]",
+  "aurora-v2 [static]": "极光-v2 [静态]",
+  "Things I learned about how people use AI after 1800 people": "我了解到 1800 人之后人们如何使用人工智能"
 }
