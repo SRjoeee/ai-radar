@@ -30741,5 +30741,18 @@
   "recommendation-engine [docker]": "推荐引擎 [docker]",
   "huggingface-static-afdd3b [static]": "Huggingface-静态-afdd3b [静态]",
   "SOC-Assistant [static]": "SOC 助理 [静态]",
-  "Tunnel Whisperer – Surgical port forwarding over HTTPS for hostile firewalls": "Tunnel Whisperer – 针对恶意防火墙通过 HTTPS 进行外科手术端口转发"
+  "Tunnel Whisperer – Surgical port forwarding over HTTPS for hostile firewalls": "Tunnel Whisperer – 针对恶意防火墙通过 HTTPS 进行外科手术端口转发",
+  "wdcd-leaderboard [gradio]": "wdcd 排行榜 [渐变]",
+  "Csvzip [gradio]": "Csvzip [构建者]",
+  "kaushix-api [gradio]": "kaushix-api [渐变]",
+  "derma-scan [static]": "皮肤扫描 [静态]",
+  "IMAGE [gradio]": "图像 [构建者]",
+  "pinterest-gacha-app [gradio]": "pinterest-gacha-app [渐变]",
+  "kalos-engine-demo [gradio]": "kalos-engine-demo [渐变]",
+  "f7lk [docker]": "f7lk [码头工人]",
+  "VISUALIZADOR-SISMOS [static]": "显示地震 [静态]",
+  "chiasm-bridge-demo [gradio]": "chiasm-bridge-demo [渐变]",
+  "AILearning-FrontEnd [docker]": "AILearning-前端 [docker]",
+  "stemforge-hf-space [gradio]": "Stemforge-HF-空间 [渐变]",
+  "Auto mode is now the default in Claude Code for Pro, Max, and Team plans": "自动模式现在是 Claude Code Pro、Max 和 Team 计划中的默认模式"
 }
