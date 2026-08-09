@@ -31192,5 +31192,19 @@
   "Football-tahmin [static]": "足球-tahmin [静态]",
   "Physics_AI [gradio]": "物理_AI [渐变]",
   "enterprise-ai-support-deflector [docker]": "企业人工智能支持偏转器 [docker]",
-  "CarePathAI [gradio]": "CarePathAI [渐变]"
+  "CarePathAI [gradio]": "CarePathAI [渐变]",
+  "medical-rag-app [gradio]": "医疗抹布应用程序 [渐变]",
+  "turkish-medical-rag-demo [gradio]": "土耳其医疗抹布演示 [渐变]",
+  "Quoting Claude Opus 5 system prompt": "引用Claude Opus 5系统提示",
+  "lixo [gradio]": "利索 [等级]",
+  "ESG-CoPilot-Dashboard [streamlit]": "ESG-CoPilot-仪表板 [streamlit]",
+  "deepseek-fr1-gradio [gradio]": "deepseek-fr1-built [内置]",
+  "final_AI_Agent [static]": "Final_AI_Agent [静态]",
+  "chatbot-sst [gradio]": "聊天机器人-sst [渐变]",
+  "Wedding-invitation [docker]": "婚礼请柬 [docker]",
+  "ProPainter [gradio]": "ProPainter [渐变]",
+  "aper-u-index-html-widget-google [static]": "aper-u-index-html-widget-google [静态]",
+  "ai-website-summarizer [gradio]": "ai-网站摘要器 [已构建]",
+  "Zyren-v1 [static]": "Zyren-v1 [静态]",
+  "keybodhi/AoiVR - Aoi VR Agent - AI voice assistant that lives in your SteamVR hand: holographic hand panel (OpenVR overlay) driven by a native C++ agent (LLM, streaming TTS, ASR, simultaneous interpretation, VR screenshots). Unity IL2CPP + C++20, MIT licensed.": "keybodhi/AoiVR - Aoi VR Agent - 生活在 SteamVR 手中的 AI 语音助手：由本机 C++ 代理（LLM、流式 TTS、ASR、同声传译、VR 屏幕截图）驱动的全息手面板（OpenVR 覆盖）。 Unity IL2CPP + C++20，MIT 许可。"
 }
