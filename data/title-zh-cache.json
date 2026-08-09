@@ -31142,5 +31142,20 @@
   "CV [static]": "简历[静态]",
   "Why is Wispr Flow a $2B company?": "为什么 Wispr Flow 是一家价值 20 亿美元的公司？",
   "ictinnovations/asterisk-ai-voice-agent - Self-hosted AI voice agent for Asterisk. Streaming STT to LLM to TTS over AudioSocket, with barge-in and tool calling.": "ictinnovations/asterisk-ai-voice-agent -Asterisk 的自托管 AI 语音代理.通过 AudioSocket 将 STT 流式传输到 LLM 到 TTS，并具有插入和工具调用功能。",
-  "yuvrajadhikari/oats - Local-first, open-source alternative to Granola for macOS. Bot-free AI meeting notes where nothing leaves your Mac.": "yuvrajadhikari/oats - macOS 上 Granola 的本地优先、开源替代品。无机器人人工智能会议笔记，一切都不会离开你的 Mac。"
+  "yuvrajadhikari/oats - Local-first, open-source alternative to Granola for macOS. Bot-free AI meeting notes where nothing leaves your Mac.": "yuvrajadhikari/oats - macOS 上 Granola 的本地优先、开源替代品。无机器人人工智能会议笔记，一切都不会离开你的 Mac。",
+  "leaklens-privacy-filter [static]": "leakslens-隐私过滤器[静态]",
+  "AlimentacionControl [gradio]": "喂食控制 [等级]",
+  "TRACER-Net [gradio]": "TRACER-Net [构建者]",
+  "Evey-bakery-visits [gradio]": "每一次面包店参观 [gradio]",
+  "generador-preguntas-app [docker]": "应用程序问题生成器 [docker]",
+  "gradio_image_project2 [static]": "gradio_image_project2 [静态]",
+  "satdiff [gradio]": "萨迪夫[建成]",
+  "oneklik-ai [gradio]": "oneklik-ai [渐变]",
+  "FolioCore [static]": "FolioCore [静态]",
+  "vastu-plan-generation [static]": "vastu-计划生成[静态]",
+  "reachy-mini-powered-by-gemini [static]": "reachy-mini-由双子座供电 [静态]",
+  "mcsunucu [docker]": "麦克苏努库 [docker]",
+  "gradio_image_project [static]": "gradio_image_project [静态]",
+  "files [gradio]": "文件[已构建]",
+  "Agentcn – Installable AI Agents": "Agentcn – 可安装的AI代理"
 }
