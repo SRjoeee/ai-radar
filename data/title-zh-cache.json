@@ -31021,5 +31021,21 @@
   "krea2-turbo-bbox-canvas [gradio]": "krea2-turbo-bbox-canvas [等级]",
   "Adversarial LLM Reversal for hermes-agent": "Hermes-agent 的对抗性 LLM 逆转",
   "ABSA_GCN [gradio]": "ABSA_GCN [已构建]",
-  "Charity Majors on AI, Determinism, Instrumentation, & Eating Your Broccoli": "慈善专业人工智能、决定论、仪器仪表和吃西兰花"
+  "Charity Majors on AI, Determinism, Instrumentation, & Eating Your Broccoli": "慈善专业人工智能、决定论、仪器仪表和吃西兰花",
+  "sentiment-analyzer [static]": "情绪分析器 [静态]",
+  "whisper-pulaar-api [docker]": "耳语-pulaar-api [docker]",
+  "embeddingLOGOS [gradio]": "嵌入LOGOS [渐变]",
+  "Socrates [gradio]": "苏格拉底[建成]",
+  "smart-traffic-signal-ai [docker]": "智能交通信号AI [docker]",
+  "myoheinthu-voice [static]": "myoheinthu-声音 [静态]",
+  "ai-chatbot [static]": "ai-聊天机器人 [静态]",
+  "mevitsa-demo [gradio]": "mevitsa-演示 [已构建]",
+  "rfdPars [static]": "rfdPars [静态]",
+  "statement_linker [gradio]": "语句链接器 [渐变]",
+  "Qalbu [static]": "他的心[静电]",
+  "sovereign-ai-workforce [static]": "主权人工智能劳动力[静态]",
+  "Server-Text-Model-Spark-4.5-Clade [docker]": "服务器文本模型-Spark-4.5-Clade [docker]",
+  "Show HN: Sufleur-style prompt registry with typed code-generation": "Show HN：Sufleur 风格的提示注册表，具有类型化代码生成功能",
+  "agriweather-expert-system [gradio]": "农业天气专家系统 [gradio]",
+  "salaryprediction": "薪资预测"
 }
