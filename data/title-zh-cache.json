@@ -30801,5 +30801,22 @@
   "GPU-Inference-Optimization-Lab [static]": "GPU 推理优化实验室 [静态]",
   "Distributed-LLM-Inference-Platform [static]": "分布式 LLM 推理平台 [静态]",
   "veya-tts-api [gradio]": "or-tts-api [渐变]",
-  "One Cut – Edit Video by Editing Code": "One Cut – 通过编辑代码来编辑视频"
+  "One Cut – Edit Video by Editing Code": "One Cut – 通过编辑代码来编辑视频",
+  "clone-music [docker]": "克隆音乐 [docker]",
+  "pothole-detection-api [docker]": "坑洞检测-api [docker]",
+  "vitara-ai-service [docker]": "vitara-ai-服务 [docker]",
+  "Omni [gradio]": "Omni [已建成]",
+  "Aren [docker]": "阿伦 [码头工人]",
+  "dolphin-small-onnx-asr [gradio]": "海豚-小-onnx-asr [渐变]",
+  "smart-mcq-solver-dl-genai-26t2 [gradio]": "smart-mcq-solver-dl-genai-26t2 [渐变]",
+  "LLMProviders [docker]": "LLM 提供者 [docker]",
+  "snap-demo [gradio]": "快照演示 [已构建]",
+  "SHANZEY [gradio]": "尚泽 [渐变]",
+  "MyvideoTranslator [static]": "我的视频翻译器 [静态]",
+  "gamma_chat [gradio]": "gamma_chat [渐变]",
+  "autoace-voice-tone [docker]": "autoace-语音-音调 [docker]",
+  "hy3-workbench [static]": "hy3-工作台 [静态]",
+  "inspectai-train [docker]": "检查列车 [docker]",
+  "imageedit [gradio]": "图像编辑[构建]",
+  "GPTmadeit/split-shot-timer - Shot timer for Pixel Watch 4. Sample-accurate gunshot detection through the watch mic; the phone is a durable replica over the Wear Data Layer.": "GPTmadeit/split-shot-timer - Pixel Watch 4 的射击计时器。通过手表麦克风进行精确采样的枪声检测；该手机是磨损数据层上的耐用复制品。"
 }
