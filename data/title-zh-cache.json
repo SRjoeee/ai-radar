@@ -30987,5 +30987,21 @@
   "metasr-equation-discovery [docker]": "Metasr 方程发现 [docker]",
   "mcq-bert-base-cased-kaggle-mcq-solver [gradio]": "mcq-bert-base-cased-kaggle-mcq-solver [梯度]",
   "QML [static]": "QML [静态]",
-  "China created a system that simulates the Earth with billions of AI agents": "中国创建了一个由数十亿人工智能代理模拟地球的系统"
+  "China created a system that simulates the Earth with billions of AI agents": "中国创建了一个由数十亿人工智能代理模拟地球的系统",
+  "meine-coding-ki [static]": "meine-coding-ki [静态]",
+  "komei-api [gradio]": "komei-api [渐变]",
+  "alter-me [gradio]": "改变我[建造]",
+  "Nova-AI [static]": "Nova-AI [静态]",
+  "doc-converter-ocr [static]": "doc-converter-ocr [静态]",
+  "Nova [static]": "新星[静态]",
+  "logup-re [docker]": "登录-re [docker]",
+  "hermes-4-405b-demo [static]": "hermes-4-405b-demo [静态]",
+  "hermes-persistent [docker]": "Hermes-持久 [docker]",
+  "Recap [static]": "回顾[静态]",
+  "amedowebsite": "阿梅多网站",
+  "visual-ai-studio [static]": "视觉人工智能工作室 [静态]",
+  "analisecandidatos [docker]": "分析候选人 [docker]",
+  "Auto [static]": "自动[静态]",
+  "AA [static]": "AA [静态]",
+  "FelixNgH/opencode-go-compare - Which LLM can actually run an agent? Reproducible tests for image support, two-turn tool calling and false-success detection across 13 models of the OpenCode Go plan (measured 2026-08-09).": "FelixNgH/opencode-go-compare - 哪个 LLM 可以实际运行代理？对 OpenCode Go 计划的 13 个模型（2026 年 8 月 9 日测量）进行图像支持、两轮工具调用和错误成功检测的可重复测试。"
 }
