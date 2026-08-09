@@ -31127,5 +31127,20 @@
   "HER2-neu-specific-TCR-atlas [static]": "HER2-neu-特异性-TCR-图谱 [静态]",
   "ShahabPrime-Quant [static]": "ShahabPrime-Quant [静态]",
   "Uzair_ [docker]": "乌扎尔_[码头工人]",
-  "tender-backend [docker]": "招标后端 [docker]"
+  "tender-backend [docker]": "招标后端 [docker]",
+  "My-game": "我的游戏",
+  "Smart-Claim-Engine [docker]": "智能索赔引擎 [docker]",
+  "ace-the-interview [static]": "面试王牌 [静态]",
+  "Fake_Review_Analyzer [gradio]": "Fake_Review_Analyzer [渐变]",
+  "video-izleme-araci [gradio]": "视频观看工具 [gradio]",
+  "eden-lovers-chat-audio-video-calls [static]": "eden-lovers-chat-audio-video-calls [静态]",
+  "convoreader [static]": "协读器[静态]",
+  "doc-ai-agent [static]": "doc-ai-agent [静态]",
+  "MedSegNet [gradio]": "MedSegNet [构建者]",
+  "My_LLM_Space [static]": "My_LLM_Space [静态]",
+  "GS-RG-SRK [docker]": "GS-RG-SRK [码头工人]",
+  "CV [static]": "简历[静态]",
+  "Why is Wispr Flow a $2B company?": "为什么 Wispr Flow 是一家价值 20 亿美元的公司？",
+  "ictinnovations/asterisk-ai-voice-agent - Self-hosted AI voice agent for Asterisk. Streaming STT to LLM to TTS over AudioSocket, with barge-in and tool calling.": "ictinnovations/asterisk-ai-voice-agent -Asterisk 的自托管 AI 语音代理.通过 AudioSocket 将 STT 流式传输到 LLM 到 TTS，并具有插入和工具调用功能。",
+  "yuvrajadhikari/oats - Local-first, open-source alternative to Granola for macOS. Bot-free AI meeting notes where nothing leaves your Mac.": "yuvrajadhikari/oats - macOS 上 Granola 的本地优先、开源替代品。无机器人人工智能会议笔记，一切都不会离开你的 Mac。"
 }
