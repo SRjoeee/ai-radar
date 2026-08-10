@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-08-10T19:02:21.559116Z",
+  "generated_at": "2026-08-10T19:56:47.557474Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-10",
-  "count_today": 4,
+  "count_today": 7,
   "updates_today": [
+    {
+      "date": "2026-08-10",
+      "title": "这周AI音乐领域的变化，已经从“生成一首歌”延伸到实体收藏、移动端声线和版权商业化：Suno准备推出AI歌曲黑胶定制，Voices声音克隆也上线 iOS/Android。行业规则也开始变清楚：Spotify联合Merlin做授权翻唱/重混，华纳预计AI授权将在2027年带来收入，Suno也在加强提示词审查、音频水印、下载限制和社区治理。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "身边越来越多人遇到降薪、调岗、离职、毕业求职卡住，明知道该学AI、做自媒体、换方向，却总被“我还没想清楚”“我看不懂”挡在原地。小鱿鱼这篇文章很适合待业、转岗、毕业迷茫，或者想学AI却迟迟开不了头的人读。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "很多人学AI一上来就被一堆英文缩写劝退：GPT、Token、RAG、MCP、Agent、Loop、Graph单独都能查，放在一起就分不清谁是模型、谁是产品、谁负责资料、谁负责执行。这份白皮书适合刚入门的小白。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-08-10",
       "title": "学习AI有很多需要用到网络底层基础知识的地方。作者用这篇文章，以最通俗易懂的方式让你了解清楚去解决这些现实问题，所需要具备的最基础的网络名词概念。",
@@ -28,8 +43,23 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-08-10",
+      "title": "这周AI音乐领域的变化，已经从“生成一首歌”延伸到实体收藏、移动端声线和版权商业化：Suno准备推出AI歌曲黑胶定制，Voices声音克隆也上线 iOS/Android。行业规则也开始变清楚：Spotify联合Merlin做授权翻唱/重混，华纳预计AI授权将在2027年带来收入，Suno也在加强提示词审查、音频水印、下载限制和社区治理。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "身边越来越多人遇到降薪、调岗、离职、毕业求职卡住，明知道该学AI、做自媒体、换方向，却总被“我还没想清楚”“我看不懂”挡在原地。小鱿鱼这篇文章很适合待业、转岗、毕业迷茫，或者想学AI却迟迟开不了头的人读。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "很多人学AI一上来就被一堆英文缩写劝退：GPT、Token、RAG、MCP、Agent、Loop、Graph单独都能查，放在一起就分不清谁是模型、谁是产品、谁负责资料、谁负责执行。这份白皮书适合刚入门的小白。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-08-10",
       "title": "学习AI有很多需要用到网络底层基础知识的地方。作者用这篇文章，以最通俗易懂的方式让你了解清楚去解决这些现实问题，所需要具备的最基础的网络名词概念。",
