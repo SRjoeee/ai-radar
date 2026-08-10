@@ -31613,5 +31613,22 @@
   "muse-glimmer-30b [static]": "muse-glimmer-30b [静态]",
   "cybench-kimi-k3-runs [static]": "cybench-kimi-k3-runs [静态]",
   "Malaria_Senegal_ARBOTHAI-EWS-Dashboard [docker]": "Malaria_Senegal_ARBOTHAI-EWS-仪表板 [docker]",
-  "Show HN: Say It – private, local text-to-speech for macOS": "Show HN: Say It – 适用于 macOS 的私有本地文本转语音"
+  "Show HN: Say It – private, local text-to-speech for macOS": "Show HN: Say It – 适用于 macOS 的私有本地文本转语音",
+  "image-classifier-efficientnet-demo [gradio]": "图像分类器高效网络演示 [渐变]",
+  "Practice_mood [docker]": "练习心情 [docker]",
+  "Coconut [docker]": "椰子[码头工人]",
+  "cervical-neoplasia-risk-calculator [gradio]": "宫颈肿瘤风险计算器 [梯度]",
+  "Ai [static]": "你[静态]",
+  "vdltube [static]": "vdltube [静态]",
+  "modern-llm-playground [docker]": "现代 llm 游乐场 [docker]",
+  "ebubekir [docker]": "埃布贝克尔 [码头工人]",
+  "BF [gradio]": "BF [建成]",
+  "BF-WAB [docker]": "BF-WAB [码头工人]",
+  "Photo [static]": "照片[静态]",
+  "test-space-5318 [static]": "测试空间-5318 [静态]",
+  "Show HN: My local climbing gym from photogrammetry": "Show HN：摄影测量中我当地的攀岩馆",
+  "Final_Assignment_Luc [gradio]": "Final_Assignment_Luc [渐变]",
+  "realistic-3d-car-three-js [static]": "现实 3d-汽车-三-js [静态]",
+  "Show HN: allmcps-server – MCP server for MCP servers": "显示 HN：allmcps-server – MCP 服务器的 MCP 服务器",
+  "EvoHarnessRL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents": "EvoHarnessRL：为长期 LLM 代理学习自我进化运行时工具"
 }
