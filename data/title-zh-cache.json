@@ -31664,5 +31664,19 @@
   "twil-lm3 [gradio]": "长-lm3 [渐变]",
   "my-new-svc [docker]": "我的新 svc [docker]",
   "Qwen3-VL-4B-Unredacted-GGUF-Demo [static]": "Qwen3-VL-4B-Unredacted-GGUF-演示 [静态]",
-  "Virgin Atlantic sharpens customer journeys with ChatGPT Work": "维珍航空通过 ChatGPT Work 提升客户旅程"
+  "Virgin Atlantic sharpens customer journeys with ChatGPT Work": "维珍航空通过 ChatGPT Work 提升客户旅程",
+  "Muse-Glimmer-30B-DFlash [gradio]": "Muse-Glimmer-30B-DFlash [渐变]",
+  "Irodori-TTS-v4.1-Small-Demo [gradio]": "Irodori-TTS-v4.1-Small-Demo [渐变]",
+  "Clipforge [docker]": "Clipforge [码头工人]",
+  "nexus-gguf-rewriter [docker]": "nexus-gguf-重写器 [docker]",
+  "ModelSentry-HF-Auditor [gradio]": "ModelSentry-HF-Auditor [渐变]",
+  "OmniAvatar [gradio]": "OmniAvatar [建造者]",
+  "testsambanova [docker]": "测试桑巴诺瓦 [docker]",
+  "WAN2.2_I2V-4step-LORAS [gradio]": "WAN2.2_I2V-4step-LORAS [内置]",
+  "ai-video-world-backend [gradio]": "ai-video-world-backend [已构建]",
+  "distance-slope-app.co [gradio]": "distance-slope-app.co [建成]",
+  "transformers [static]": "变压器[静态]",
+  "semantic_search_review_anya_tyagi [gradio]": "Semantic_search_review_anya_tyagi [渐变]",
+  "slm-demo [gradio]": "slm-演示 [已构建]",
+  "Real Identity in AI: Why Your AI Agent Should Be More Than a Prompt Box": "人工智能中的真实身份：为什么你的人工智能代理不应该只是一个提示框"
 }
