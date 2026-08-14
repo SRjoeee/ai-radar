@@ -33294,5 +33294,22 @@
   "hwanyong/analysis-video - Turn a lecture video into AI-readable context: one markdown section per screen, with the frames and the transcript that belong to it. Agent-first CLI.": "hwanyong/analysis-video - 将讲座视频转换为 AI 可读的上下文：每个屏幕一个 Markdown 部分，以及属于它的帧和文字记录。代理优先 CLI。",
   "shirtlineblock531/cupcat-video-editor - Edit videos with AI in plain language—free, local, and private on Windows.": "shirtlineblock531/cupcat-video-editor - 使用 AI 以简单的语言编辑视频 - 在 Windows 上免费、本地且私密。",
   "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI": "这些“自慰顾问”被雇佣来用人工智能取悦自己",
-  "Everyone talks about AI agents. This is what one looks from the inside": "每个人都在谈论人工智能代理。这是从里面看的样子"
+  "Everyone talks about AI agents. This is what one looks from the inside": "每个人都在谈论人工智能代理。这是从里面看的样子",
+  "rad-grader [docker]": "rad 分级机 [docker]",
+  "pitwall [static]": "坑壁[静态]",
+  "doccast-revise [static]": "doccast-修订 [静态]",
+  "geminos-twitch-title-generator [static]": "geminos-twitch-title-generator [静态]",
+  "Show HN: Gnat – self-hosted analytics as a single Go binary with MCP server": "显示 HN：Gnat – 作为带有 MCP 服务器的单个 Go 二进制文件的自托管分析",
+  "oham-current-lab [static]": "奥姆当前实验室 [静态]",
+  "Weather_whiplash [gradio]": "Weather_whiplash [渐变]",
+  "goa2 [static]": "goa2 [静态]",
+  "zbr-server [docker]": "zbr-服务器 [docker]",
+  "minimax-music-workflow [gradio]": "minimax-音乐工作流程 [渐变]",
+  "ik-belge-asistani-demo [gradio]": "ik-belge-assistani-demo [已构建]",
+  "SoloAgent-Studio [gradio]": "SoloAgent-Studio [构建者]",
+  "kuberca-backend [gradio]": "kuberca 后端 [构建]",
+  "tarsimyar-bot [gradio]": "tarsimyar-bot [渐变]",
+  "nextgen-avatar-sadtalker [gradio]": "nextgen-avatar-sadtalker [已构建]",
+  "Rami [static]": "拉米[静态]",
+  "Nagellabs/libi - AI video studio — a desktop editor that connects CLI coding agents (Claude Code, Codex) over ACP and lets them compose, edit and export video.": "Nagellabs/libi - AI 视频工作室 - 一个桌面编辑器，通过 ACP 连接 CLI 编码代理（Claude Code、Codex），并让它们撰写、编辑和导出视频。"
 }
