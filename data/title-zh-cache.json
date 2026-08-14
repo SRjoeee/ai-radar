@@ -33445,5 +33445,19 @@
   "Qwen3.8-27B-MTP-8bit — text-generation": "Qwen3.8-27B-MTP-8bit — 文本生成",
   "Qwen3.8-27B-MTP-4bit — text-generation": "Qwen3.8-27B-MTP-4bit — 文本生成",
   "Qwen3.8-27B-MTP-bf16 — text-generation": "Qwen3.8-27B-MTP-bf16 — 文本生成",
-  "GXX182/dsh-vision-bridge - DeepSeek Harness plugin that bridges session images to pluggable vision APIs while keeping DeepSeek as the primary model.": "GXX182/dsh-vision-bridge - DeepSeek Harness 插件，可将会话图像桥接到可插拔视觉 API，同时保持 DeepSeek 作为主要模型。"
+  "GXX182/dsh-vision-bridge - DeepSeek Harness plugin that bridges session images to pluggable vision APIs while keeping DeepSeek as the primary model.": "GXX182/dsh-vision-bridge - DeepSeek Harness 插件，可将会话图像桥接到可插拔视觉 API，同时保持 DeepSeek 作为主要模型。",
+  "chakam [docker]": "查卡姆 [码头工人]",
+  "Geode-Music [gradio]": "Geode-音乐 [渐变]",
+  "chakma-chat [static]": "chakma-聊天 [静态]",
+  "rukallama-v11-demo-3 [gradio]": "rukallama-v11-demo-3 [渐变]",
+  "rukallama-v11-demo-2 [gradio]": "rukallama-v11-demo-2 [渐变]",
+  "skills-cloud [gradio]": "技能云 [渐变]",
+  "movie-together-scraper [docker]": "电影一起刮刀 [docker]",
+  "yojanagpt [docker]": "yojanagpt [码头工人]",
+  "portfolio-os-rag [gradio]": "组合-os-rag [无线电]",
+  "Superkart-Prediction [static]": "Superkart-预测 [静态]",
+  "Jawad [static]": "贾瓦德 [静态]",
+  "cosmos3-v26-final-atomic-holdout [static]": "cosmos3-v26-final-atomic-holdout [静态]",
+  "brechas-vg-colombia [docker]": "间隙-VG-哥伦比亚 [docker]",
+  "RAID_LOG_MX [gradio]": "RAID_LOG_MX [已构建]"
 }
