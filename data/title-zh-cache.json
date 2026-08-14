@@ -33536,5 +33536,11 @@
   "DDSP-Piano [gradio]": "DDSP-计划 [等级]",
   "Vbar-app [streamlit]": "Vbar-应用程序 [streamlit]",
   "agentic-workflow-node-lab [docker]": "代理工作流节点实验室 [docker]",
-  "Qwen-Opencode-api [gradio]": "Qwen-Opencode-api [渐变]"
+  "Qwen-Opencode-api [gradio]": "Qwen-Opencode-api [渐变]",
+  "hotdog-gradio [gradio]": "热狗渐变 [渐变]",
+  "Hook_App [gradio]": "Hook_App [渐变]",
+  "GOT-OCR2_0-8bit — image-text-to-text": "GOT-OCR2_0-8bit — 图像-文本-文本",
+  "GOT-OCR2_0-4bit — image-text-to-text": "GOT-OCR2_0-4bit — 图像-文本-文本",
+  "GOT-OCR2_0-bf16 — image-text-to-text": "GOT-OCR2_0-bf16 — 图像文本到文本",
+  "Multiple redirect URIs and token refresh for OAuth apps": "OAuth 应用程序的多个重定向 URI 和令牌刷新"
 }
