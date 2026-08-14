@@ -33257,5 +33257,22 @@
   "Using agents to create 3Blue1Brown-style visual explanations of research papers [video]": "使用代理创建研究论文的 3Blue1Brown 风格的视觉解释 [视频]",
   "Ask HN: Move AI news from Hacker News to somewhere else?": "问 HN：将 AI 新闻从 Hacker News 转移到其他地方？",
   "decionis/agent-safe-pipeline - Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.": "decionis/agent-safe-pipeline - 提出操作但无法授权的 AI 代理的参考架构 - 不可变的意图捕获、独立的 Decionis 策略判决（允许/升级/阻止）、经过验证的人工批准以及使用一次性意图绑定授权的 SafeExecutor。",
-  "Show HN: Clixad – Free AI coding agent in the terminal, funded by an offerwall": "Show HN：Clixad – 终端中的免费 AI 编码代理，由优惠墙资助"
+  "Show HN: Clixad – Free AI coding agent in the terminal, funded by an offerwall": "Show HN：Clixad – 终端中的免费 AI 编码代理，由优惠墙资助",
+  "back-end [docker]": "后端[码头工人]",
+  "arsenal-dios-gateway": "阿森纳-dios-网关",
+  "translator_app [static]": "翻译应用程序 [静态]",
+  "video-translator [docker]": "视频翻译器 [docker]",
+  "Luma [gradio]": "卢玛[建成]",
+  "TextGenerates [gradio]": "文本生成 [渐变]",
+  "iris_new [gradio]": "iris_new [已构建]",
+  "apna-gpt [static]": "apna-gpt [静态]",
+  "Tableau_to_Power_BI_Migration [static]": "Tableau_to_Power_BI_Migration [静态]",
+  "pp_predictor [gradio]": "pp_predictor [已构建]",
+  "Sentimen-Analisis [gradio]": "情绪分析 [梯度]",
+  "Windshield-Health-Analyzer [gradio]": "挡风玻璃健康分析仪 [渐变]",
+  "sentiment-model-demo [static]": "情感模型演示 [静态]",
+  "library-tie [docker]": "图书馆领带 [docker]",
+  "SuperKartSK1 [docker]": "SuperKartSK1 [码头工人]",
+  "traductor-senas [gradio]": "翻译-senas [等级]",
+  "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them": "人们正在“嫁给”聊天机器人。这些立法者想要阻止他们"
 }
