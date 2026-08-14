@@ -33459,5 +33459,21 @@
   "Jawad [static]": "贾瓦德 [静态]",
   "cosmos3-v26-final-atomic-holdout [static]": "cosmos3-v26-final-atomic-holdout [静态]",
   "brechas-vg-colombia [docker]": "间隙-VG-哥伦比亚 [docker]",
-  "RAID_LOG_MX [gradio]": "RAID_LOG_MX [已构建]"
+  "RAID_LOG_MX [gradio]": "RAID_LOG_MX [已构建]",
+  "02_Agent_Conversational [gradio]": "02_Agent_Conversational [渐变]",
+  "Superkart-prediction-backend [docker]": "Superkart 预测后端 [docker]",
+  "generador-l2pc [docker]": "生成器-l2pc [docker]",
+  "disenos-la2pc [docker]": "设计-la2pc [docker]",
+  "scugnizz-tool-harness [gradio]": "scugniz-工具线束 [等级]",
+  "reel-lab [gradio]": "卷轴实验室 [渐变]",
+  "swap-lab [gradio]": "交换实验室 [渐变]",
+  "audio-lab [gradio]": "音频实验室[已建]",
+  "image-lab [gradio]": "图像实验室 [渐变]",
+  "CogVideoX-2b-demo [gradio]": "CogVideoX-2b-演示 [内置]",
+  "my-chzzk-bot [static]": "my-chzzk-bot [静态]",
+  "aara-wealth-intelligence [gradio]": "aara-财富情报 [梯度]",
+  "krea2-demo [gradio]": "krea2-demo [已构建]",
+  "ptss-lora-document-learner [gradio]": "ptss-lora-文档学习者 [渐变]",
+  "torre-telecom-3d [static]": "torre-telecom-3d [静态]",
+  "Argonaut790/dsh-deepseek-vision - Image understanding, OCR, and persistent visual evidence for text-only DeepSeek Harness models": "Argonaut790/dsh-deepseek-vision - 纯文本 DeepSeek Harness 模型的图像理解、OCR 和持久视觉证据"
 }
