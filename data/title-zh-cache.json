@@ -34121,5 +34121,10 @@
   "Ivoire-ai [static]": "象牙-ai [静态]",
   "superkart-sales-prediction-ui [docker]": "superkart-销售-预测-ui [docker]",
   "credit-risk-scoring-demo [static]": "信用风险评分演示 [静态]",
-  "novaworx [static]": "novaworx [静态]"
+  "novaworx [static]": "novaworx [静态]",
+  "career-conversation4 [gradio]": "职业对话4 [渐变]",
+  "afterluck [gradio]": "幸运之后[渐变]",
+  "VERITAS_Legal [docker]": "TRUTH_法律 [docker]",
+  "PhishShield [static]": "PhishShield [静态]",
+  "israel-statistics-chat [gradio]": "以色列统计聊天 [渐变]"
 }
