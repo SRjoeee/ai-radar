@@ -33702,5 +33702,21 @@
   "renvia-eco-packaging-solutions [static]": "renvia-生态包装解决方案 [静态]",
   "allocation [docker]": "分配[docker]",
   "scope-camera-video [gradio]": "示波器-相机-视频 [等级]",
-  "LinguAI [static]": "LinguAI [静态]"
+  "LinguAI [static]": "LinguAI [静态]",
+  "Agriculture-AI-Assistant [gradio]": "农业人工智能助手 [广播]",
+  "OncoPredict [static]": "OncoPredict [静态]",
+  "open-discovery-challenge [docker]": "开放发现挑战 [docker]",
+  "test_space [static]": "测试空间 [静态]",
+  "Planning-Engine [docker]": "规划引擎 [docker]",
+  "rag-document-assistant [docker]": "抹布文档助理 [docker]",
+  "MyArabicApp [static]": "MyArabicApp [静态]",
+  "AI-Image-Classification-System [gradio]": "AI 图像分类系统 [gradio]",
+  "kim-hyunmin-ai [static]": "金贤民爱 [静态]",
+  "ai-knee-detection-resnet50 [gradio]": "ai-膝盖-检测-resnet50 [渐变]",
+  "piguin-lokh [gradio]": "皮吉因洛克 [渐变]",
+  "ShipSense_YOLO12-ECA [gradio]": "ShipSense_YOLO12-ECA [已构建]",
+  "roagroplante [static]": "roagroplante [静态]",
+  "f [docker]": "f [码头工人]",
+  "penguin-classifier [static]": "企鹅分类器 [静态]",
+  "Optom [docker]": "奥普托姆[docker]"
 }
