@@ -34109,5 +34109,17 @@
   "download_novafile [gradio]": "download_novafile [已构建]",
   "observatoire-rdc-climat-meteo [static]": "observatoire-rdc-climate-meteo [静态]",
   "Wan2GP_you_must_clone_this_space_to_use_it [gradio]": "Wan2GP_you_must_clone_this_space_to_use_it [渐变]",
-  "tik [docker]": "tik [码头工人]"
+  "tik [docker]": "tik [码头工人]",
+  "backtest-reality-check [gradio]": "回测现实检查 [gradio]",
+  "Backend [streamlit]": "后端[流线型]",
+  "Shiv-online-ai [static]": "Shiv-在线-ai [静态]",
+  "asphr-backend [docker]": "asphr-后端 [docker]",
+  "board-classifier [gradio]": "板分类器 [gradio]",
+  "projet55 [docker]": "项目55 [码头工人]",
+  "dog-detection-ai [static]": "狗检测-ai [静态]",
+  "AI-Video-Generator [gradio]": "AI 视频生成器 [等级]",
+  "Ivoire-ai [static]": "象牙-ai [静态]",
+  "superkart-sales-prediction-ui [docker]": "superkart-销售-预测-ui [docker]",
+  "credit-risk-scoring-demo [static]": "信用风险评分演示 [静态]",
+  "novaworx [static]": "novaworx [静态]"
 }
