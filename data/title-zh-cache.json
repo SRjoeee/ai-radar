@@ -33929,5 +33929,21 @@
   "M2 [gradio]": "M2 [渐变]",
   "Alya [gradio]": "艾莉亚 [渐变]",
   "panda-or-bear [gradio]": "熊猫或熊 [渐变]",
-  "video-face-swap [gradio]": "视频换脸 [渐变]"
+  "video-face-swap [gradio]": "视频换脸 [渐变]",
+  "aichatbot-backend [docker]": "aichatbot-后端 [docker]",
+  "Y-a-a [static]": "是-a-a [静态]",
+  "Final_Submission [gradio]": "Final_Submission [渐变]",
+  "neuroscandl-backend [gradio]": "Neuroscandl 后端 [渐变]",
+  "tb-upscale_ai [gradio]": "tb-upscale_ai [等级]",
+  "research-bot [gradio]": "研究机器人 [渐变]",
+  "reachy_mini_super_fan [static]": "reachy_mini_super_fan [静态]",
+  "qwen3-asr-eval [gradio]": "qwen3-asr-eval [渐变]",
+  "Agromind-backend [docker]": "Agromind 后端 [docker]",
+  "Ask HN: What agent skills are necessary?": "询问 HN：需要哪些代理技能？",
+  "crochet [static]": "钩针编织[静态]",
+  "spreadsheet-data-agent [gradio]": "电子表格数据代理 [gradio]",
+  "resume-jd-matcher [gradio]": "简历-jd-匹配器 [渐变]",
+  "guardrails-gemini-agent [gradio]": "护栏-双子座-代理 [gradio]",
+  "ai-resume-job-matcher [gradio]": "ai-简历-工作匹配器 [渐变]",
+  "audio-pechat-bot [docker]": "音频-pechat-bot [docker]"
 }
