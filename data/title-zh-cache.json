@@ -33577,5 +33577,16 @@
   "telegramstremio [docker]": "电报斯特雷米奥 [docker]",
   "clipcurator/ai-video-understanding-speaker-intent-clip-boundary-scorecards - Scorecards for AI video understanding speaker intent, clip boundaries, timestamp evidence, confidence notes, context risk, and human review.": "Clipcurator/ai-video-understanding-speaker-intent-clip-boundary-scorecards - 用于 AI 视频理解说话者意图、剪辑边界、时间戳证据、置信说明、上下文风险和人工审核的记分卡。",
   "Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance": "Flownie – 具有人工智能代理协助的开放式可视化数据工作流平台",
-  "Show HN: AletheionAGI – Grounding enforcement for AI agents": "Show HN：AletheionAGI – AI 代理的接地执法"
+  "Show HN: AletheionAGI – Grounding enforcement for AI agents": "Show HN：AletheionAGI – AI 代理的接地执法",
+  "gigatokenizer [gradio]": "gigatokenizer [梯度]",
+  "Teaching [docker]": "教学[码头工人]",
+  "modern-iframe-dashboard [static]": "现代 iframe 仪表板 [静态]",
+  "qwen-demo [gradio]": "qwen-demo [已构建]",
+  "must-baffle-lab [static]": "必须挡板实验室 [静态]",
+  "Kuantisasi_image [gradio]": "图像量化[渐变]",
+  "getcert-backend [docker]": "getcert-后端 [docker]",
+  "Angeline_app [static]": "Angeline_app [静态]",
+  "PCOS-RISK-DETECTOR [static]": "PCOS 风险检测器 [静态]",
+  "Reachy_Mini_Conversation_Tools [static]": "Reachy_Mini_Conversation_Tools [静态]",
+  "ai-or-not-shortcut [gradio]": "ai-or-not-shortcut [渐变]"
 }
