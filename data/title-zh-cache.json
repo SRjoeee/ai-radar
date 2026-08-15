@@ -34078,5 +34078,13 @@
   "MyGLSpace [static]": "MyGLSpace [静态]",
   "pneumoia-api [gradio]": "肺炎-API [梯度]",
   "claude-code-proxy [gradio]": "克劳德代码代理 [gradio]",
-  "screenpipe Screenpipe App v2.6.29": "screenpipe Screenpipe 应用程序 v2.6.29"
+  "screenpipe Screenpipe App v2.6.29": "screenpipe Screenpipe 应用程序 v2.6.29",
+  "voxsieve-app": "voxsieve-应用程序",
+  "Forge-Cognition [static]": "锻造认知 [静态]",
+  "wok-mcp [docker]": "炒锅-MCP [docker]",
+  "Tawfik [static]": "陶菲克 [静态]",
+  "kaelux_multi [gradio]": "kaelux_multi [已构建]",
+  "leadflow [static]": "引导流[静态]",
+  "crochet [docker]": "钩针编织[码头工人]",
+  "BillingEngine [docker]": "计费引擎 [docker]"
 }
