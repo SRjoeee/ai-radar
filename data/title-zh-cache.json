@@ -33898,5 +33898,21 @@
   "ai-news-hub [static]": "ai-新闻中心 [静态]",
   "Model_deployment [static]": "Model_deployment [静态]",
   "oryx-c2 [docker]": "oryx-c2 [码头工人]",
-  "Yadda 3.0.0: BDD in the Age of AI Agents": "Yadda 3.0.0：人工智能代理时代的 BDD"
+  "Yadda 3.0.0: BDD in the Age of AI Agents": "Yadda 3.0.0：人工智能代理时代的 BDD",
+  "voxhand-backend [docker]": "voxhand-后端 [docker]",
+  "my-running-memo [gradio]": "我的跑步备忘录 [渐变]",
+  "ai-business-copilot-fa [gradio]": "ai-business-copilot-fa [等级]",
+  "tutor-virtual-biologia-cosmeto-ifc-laca [static]": "虚拟导师生物学-cosmeto-ifc-lacquer [静态]",
+  "my-samsung-tts [docker]": "我的三星 tts [docker]",
+  "AI_SCREENING [static]": "AI_SCREENING [静态]",
+  "intellicareer-top3 [static]": "intellcareer-top3 [静态]",
+  "MiniMaxH32 [gradio]": "MiniMaxH32 [内置]",
+  "intraoperative-map-phenotype [docker]": "术中地图表型 [docker]",
+  "lab-autoval-suite [static]": "实验室自动套件 [静态]",
+  "ims-toucan-eval [gradio]": "ims-toucan-eval [渐变]",
+  "ttsnovel2 [gradio]": "ttsnovel2 [已建]",
+  "COBRANZAS [docker]": "收藏 [码头工人]",
+  "scamshield [gradio]": "骗局[渐变]",
+  "superkart-product-store-sales-prediction-frontend [docker]": "superkart-产品-商店-销售-预测-前端 [docker]",
+  "img-v2 [gradio]": "img-v2 [渐变]"
 }
