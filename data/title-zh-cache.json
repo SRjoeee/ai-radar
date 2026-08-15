@@ -33746,5 +33746,20 @@
   "Edubot-University_FAQs_chatbot [gradio]": "Edubot-University_常见问题解答_chatbot [广播]",
   "AI-QR-code-generator [gradio]": "AI-QR 码生成器 [等级]",
   "fairdispatch-demo [static]": "fairdispatch-demo [静态]",
-  "Trouper-v2-Introspective-Characters-Demo [gradio]": "Trouper-v2-Introspective-Characters-Demo [渐变]"
+  "Trouper-v2-Introspective-Characters-Demo [gradio]": "Trouper-v2-Introspective-Characters-Demo [渐变]",
+  "recap-pro [docker]": "回顾-Pro [docker]",
+  "steam-ai-disclosure-parser [gradio]": "steam-ai-disclosure-parser [梯度]",
+  "Jojo-cartoon-maker [static]": "Jojo-卡通制作者 [静态]",
+  "my-video-generator [static]": "我的视频生成器 [静态]",
+  "sahil-ai [static]": "萨希尔-艾 [静态]",
+  "Astoria [static]": "阿斯托里亚[静态]",
+  "snapdragon-ai-studio [static]": "snapdragon-ai-studio [静态]",
+  "divergence-scanner-worker [static]": "分歧扫描器工作人员 [静态]",
+  "X-RUDRA [gradio]": "X-RUDRA [等级]",
+  "model-playground [gradio]": "模型游乐场 [渐变]",
+  "Flashcards-IA [docker]": "抽认卡-IA [docker]",
+  "website6": "网站6",
+  "Buildve [docker]": "构建 [docker]",
+  "ai-video-translator [static]": "人工智能视频翻译器 [静态]",
+  "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out": "亚马逊可以使用您的 Twitch 内容来训练其人工智能 - 除非您选择退出"
 }
