@@ -33883,5 +33883,20 @@
   "nllb-ewe-demo [gradio]": "nllb-是-演示 [渐变]",
   "lato2-mesh-generation [gradio]": "lato2-网格生成 [梯度]",
   "orgamami [docker]": "奥尔加米 [docker]",
-  "The Plasticity Thesis: How the Brain Learns to Be Conscious – PMC": "可塑性论文：大脑如何学习有意识 – PMC"
+  "The Plasticity Thesis: How the Brain Learns to Be Conscious – PMC": "可塑性论文：大脑如何学习有意识 – PMC",
+  "stock-gemma [gradio]": "库存宝石 [等级]",
+  "neurosentinel-backend [docker]": "神经哨兵后端 [docker]",
+  "superkart-sales-forecast-backend [static]": "superkart-销售-预测-后端 [静态]",
+  "portfolio-chatbot [gradio]": "投资组合聊天机器人[构建]",
+  "ZDPShift [gradio]": "ZDPShift [内置]",
+  "grabzy-api [static]": "grabzy-api [静态]",
+  "moonlight [static]": "月光[静态]",
+  "Assist-V2 [docker]": "辅助-V2 [docker]",
+  "Qwen-Qwen2.5-3B-Instruct [gradio]": "Qwen-Qwen2.5-3B-指示 [渐变]",
+  "GPUChat [gradio]": "GPUChat [构建者]",
+  "running-voice-ai [gradio]": "跑步语音 ai [渐变]",
+  "ai-news-hub [static]": "ai-新闻中心 [静态]",
+  "Model_deployment [static]": "Model_deployment [静态]",
+  "oryx-c2 [docker]": "oryx-c2 [码头工人]",
+  "Yadda 3.0.0: BDD in the Age of AI Agents": "Yadda 3.0.0：人工智能代理时代的 BDD"
 }
