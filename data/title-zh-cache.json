@@ -34086,5 +34086,17 @@
   "kaelux_multi [gradio]": "kaelux_multi [已构建]",
   "leadflow [static]": "引导流[静态]",
   "crochet [docker]": "钩针编织[码头工人]",
-  "BillingEngine [docker]": "计费引擎 [docker]"
+  "BillingEngine [docker]": "计费引擎 [docker]",
+  "derman-terminal [docker]": "德曼终端 [docker]",
+  "mark-1-jarvis [static]": "mark-1-jarvis [静态]",
+  "Iran_Car_Market_Intelligence [gradio]": "伊朗_汽车_市场_情报 [渐变]",
+  "smart-incubation [docker]": "智能孵化[docker]",
+  "r [static]": "r [静态]",
+  "qwen3-8-27b-uncensored-fp8-demo [gradio]": "qwen3-8-27b-uncensored-fp8-demo [渐变]",
+  "bus [static]": "总线[静态]",
+  "audience-pulse [static]": "观众脉搏[静态]",
+  "SuperKart-Sales-Forecasting-Frontend-space [docker]": "SuperKart-销售-预测-前端空间 [docker]",
+  "SohailAiVideogenerator [static]": "SohailAiVideogenerator [静态]",
+  "hf-3m-models-celebration-card [static]": "hf-3m-models-celebration-card [静态]",
+  "louisville-co-biohazard-cleanup [static]": "路易斯维尔生物危害清理 [静态]"
 }
