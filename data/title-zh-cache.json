@@ -33588,5 +33588,14 @@
   "Angeline_app [static]": "Angeline_app [静态]",
   "PCOS-RISK-DETECTOR [static]": "PCOS 风险检测器 [静态]",
   "Reachy_Mini_Conversation_Tools [static]": "Reachy_Mini_Conversation_Tools [静态]",
-  "ai-or-not-shortcut [gradio]": "ai-or-not-shortcut [渐变]"
+  "ai-or-not-shortcut [gradio]": "ai-or-not-shortcut [渐变]",
+  "dalin-video-prompt-generator [static]": "dalin-视频提示生成器 [静态]",
+  "tmp-embedding [gradio]": "tmp 嵌入 [梯度]",
+  "menage-queens-barbie-demo [gradio]": "menage-queens-barbie-demo [无线电]",
+  "truecrime-video-generator [docker]": "truecrime-视频生成器 [docker]",
+  "rai-chatbot [gradio]": "rai-聊天机器人 [grado]",
+  "Subtituladordevideo [gradio]": "字幕订购视频[等级]",
+  "llm-proxy [docker]": "llm 代理 [docker]",
+  "Human-Plasma-Immune-Atlas [gradio]": "人类血浆免疫图谱 [梯度]",
+  "Qwen3.8-27B-OptiQ-4bit — image-text-to-text": "Qwen3.8-27B-OptiQ-4bit — 图像-文本-文本"
 }
