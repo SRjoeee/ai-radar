@@ -33945,5 +33945,22 @@
   "resume-jd-matcher [gradio]": "简历-jd-匹配器 [渐变]",
   "guardrails-gemini-agent [gradio]": "护栏-双子座-代理 [gradio]",
   "ai-resume-job-matcher [gradio]": "ai-简历-工作匹配器 [渐变]",
-  "audio-pechat-bot [docker]": "音频-pechat-bot [docker]"
+  "audio-pechat-bot [docker]": "音频-pechat-bot [docker]",
+  "batman-next-js-developer-portfolio [static]": "batman-next-js-developer-portfolio [静态]",
+  "rollingdepth [gradio]": "滚动深度 [梯度]",
+  "db [docker]": "数据库[码头工人]",
+  "agent-architect [gradio]": "代理建筑师 [梯度]",
+  "aichatbot-backend [gradio]": "aichatbot-后端 [gradio]",
+  "tailortalk-saree-search [static]": "Tailortalk-saree-搜索 [静态]",
+  "longcat-avatar-1-5-zerogpu-test [gradio]": "longcat-avatar-1-5-zerogpu-test [内置]",
+  "containerguard-backend [gradio]": "容器防护后端 [gradio]",
+  "starcase-api [gradio]": "starcase-api [内置]",
+  "LOBBANGMU [docker]": "LOBBANGMU [码头工人]",
+  "superkart-sales-forecast-frontend [gradio]": "superkart-销售-预测-前端 [gradio]",
+  "tantalo [static]": "坦塔洛 [静态]",
+  "mamali [docker]": "错误[码头工人]",
+  "my-ml-platform-docs [static]": "my-ml-platform-docs [静态]",
+  "Show HN: Velorn – an open-source desktop video editor with MCP agent control": "Show HN：Velorn – 具有 MCP 代理控制的开源桌面视频编辑器",
+  "Show HN: Agent-shell – vendor-neutral chat with AI agents in Emacs": "Show HN：Agent-shell – 在 Emacs 中与 AI 代理进行供应商中立的聊天",
+  "soumatheusgomes/vibe-coding-toolkit - A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.": "soumatheusgomes/vibe-coding-toolkit - 一个精心策划的、经过实战测试的 AI 编码工具包：Claude 代码插件、子代理编排、质量门和准备复制的提示，从实际生产使用中提取。"
 }
