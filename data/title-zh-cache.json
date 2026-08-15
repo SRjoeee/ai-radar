@@ -34018,5 +34018,20 @@
   "SCMAnalyser [static]": "SCM分析器[静态]",
   "sovereign-evidence-observatory [gradio]": "主权证据观察站 [梯度]",
   "ParasitoVision [gradio]": "ParasitoVision [建造者]",
-  "screenpipe Screenpipe App v2.6.26": "screenpipe Screenpipe 应用程序 v2.6.26"
+  "screenpipe Screenpipe App v2.6.26": "screenpipe Screenpipe 应用程序 v2.6.26",
+  "gizabi [static]": "人类[静态]",
+  "mamad [docker]": "马马德[码头工人]",
+  "LLM-Intro [static]": "LLM-简介 [静态]",
+  "attendx-web [static]": "attendx-web [静态]",
+  "SpamDetection [streamlit]": "垃圾邮件检测 [streamlit]",
+  "Siren [gradio]": "塞壬[已建成]",
+  "Salary_Pred_Ml [static]": "Salary_Pred_Ml [静态]",
+  "qurani-jannati-server [gradio]": "qurani-jannati-server [构建者]",
+  "ROSE [gradio]": "玫瑰[建成]",
+  "Cataracts_scan_speak": "白内障_扫描_说话",
+  "Apps-By-AI": "人工智能应用",
+  "customer-loyalty-classifier [docker]": "客户忠诚度分类器 [docker]",
+  "diabetes-prediccion [static]": "糖尿病预测 [静态]",
+  "audit-calibration [static]": "审核校准[静态]",
+  "kaurrrgurleen/VisionSeek-AI - An AI-powered semantic and temporal video search engine that uses LLMs, CLIP embeddings, and temporal activity analysis to find relevant moments in videos using natural-language queries.": "kaurrrgurleen/VisionSeek-AI - 一种人工智能驱动的语义和时间视频搜索引擎，使用 LLM、CLIP 嵌入和时间活动分析，通过自然语言查询查找视频中的相关时刻。"
 }
