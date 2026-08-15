@@ -34044,5 +34044,16 @@
   "PRISM-Marketing-Mix-Intelligence [docker]": "PRISM-营销-混合-情报 [docker]",
   "florentina-ciausu-makeup-rezerv-ri [static]": "florentina-ciausu-化妆-预订 [静态]",
   "smart-mcq-solver1 [static]": "smart-mcq-solver1 [静态]",
-  "nova-benchmark [gradio]": "nova-基准 [等级]"
+  "nova-benchmark [gradio]": "nova-基准 [等级]",
+  "TwIL-LM3 [gradio]": "TwIL-LM3 [渐变]",
+  "Amnes_AI [gradio]": "Amnes_AI [等级]",
+  "api-convertidor-voz [static]": "语音转换器 api [静态]",
+  "neuroaxis-brain-mri-alzheimer-detection [gradio]": "神经轴-大脑-磁共振成像-阿尔茨海默病-检测 [梯度]",
+  "Jobseeker-backend [docker]": "求职者后端 [docker]",
+  "telegram-bot [static]": "电报机器人 [静态]",
+  "server_bot [docker]": "服务器机器人 [docker]",
+  "ParasitoVision [static]": "ParasitoVision [静态]",
+  "Oracle [docker]": "甲骨文[码头工人]",
+  "pothole-detector [static]": "坑洞探测器[静态]",
+  "curso-vegas-pro-landing-page-premium [static]": "curso-vegas-pro-landing-page-premium [静态]"
 }
