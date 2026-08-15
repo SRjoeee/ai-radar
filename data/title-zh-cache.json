@@ -33734,5 +33734,17 @@
   "egyptian-arabic-tts [gradio]": "埃及-阿拉伯语-tts [渐变]",
   "pelican-bicycle-thinking-efforts [static]": "鹈鹕自行车思考努力 [静态]",
   "Irodori-TTS-v4.1-Small-8bit — text-to-speech": "Irodori-TTS-v4.1-Small-8bit — 文本转语音",
-  "Irodori-TTS-v4.1-Small-fp16 — text-to-speech": "Irodori-TTS-v4.1-Small-fp16 — 文本转语音"
+  "Irodori-TTS-v4.1-Small-fp16 — text-to-speech": "Irodori-TTS-v4.1-Small-fp16 — 文本转语音",
+  "chatbot_ppbd_smk1 [gradio]": "chatbot_ppbd_smk1 [内置]",
+  "SimpleAsArabic [static]": "SimpleAsArabic [静态]",
+  "dealio-ai [gradio]": "Dealio-ai [等级]",
+  "Qwen-Image-Edit-2511-LoRAs-Fast-ZeroGPU [gradio]": "Qwen-Image-Edit-2511-LoRAs-Fast-ZeroGPU [渐变]",
+  "llm [docker]": "LLM [码头工人]",
+  "dfine-det-large-baseline-stage0 [gradio]": "dfine-the-large-baseline-stage0 [梯度]",
+  "KLA-AI-Image-Restoration": "KLA-AI-图像修复",
+  "FMCG-Demand-Forecasting [gradio]": "快速消费品需求预测 [梯度]",
+  "Edubot-University_FAQs_chatbot [gradio]": "Edubot-University_常见问题解答_chatbot [广播]",
+  "AI-QR-code-generator [gradio]": "AI-QR 码生成器 [等级]",
+  "fairdispatch-demo [static]": "fairdispatch-demo [静态]",
+  "Trouper-v2-Introspective-Characters-Demo [gradio]": "Trouper-v2-Introspective-Characters-Demo [渐变]"
 }
