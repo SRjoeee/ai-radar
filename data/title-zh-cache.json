@@ -34126,5 +34126,15 @@
   "afterluck [gradio]": "幸运之后[渐变]",
   "VERITAS_Legal [docker]": "TRUTH_法律 [docker]",
   "PhishShield [static]": "PhishShield [静态]",
-  "israel-statistics-chat [gradio]": "以色列统计聊天 [渐变]"
+  "israel-statistics-chat [gradio]": "以色列统计聊天 [渐变]",
+  "YOLO_Object_Detection [gradio]": "YOLO_Object_Detection [渐变]",
+  "bluemooom [docker]": "bluemooom [码头工人]",
+  "knowledge_base_demo [gradio]": "知识库演示 [渐变]",
+  "sphinx-analytica [static]": "sphinx-analytica [静态]",
+  "Frontend [streamlit]": "前端[流线型]",
+  "shadcn-ui-rag [gradio]": "shadcn-ui-rag [已构建]",
+  "pt-ner-bertimbau [gradio]": "pt-ner-bertimbau [渐变]",
+  "MovieRecommendationSystem [static]": "电影推荐系统 [静态]",
+  "Dyggiugg [streamlit]": "Dyggiugg [流线型]",
+  "huggingface_9687-space-test-zzz [static]": "Huggingface_9687-space-test-zzz [静态]"
 }
