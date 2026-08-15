@@ -33820,5 +33820,18 @@
   "SDPO-physics-1h [static]": "SDPO-物理-1h [静态]",
   "DUSUNEN-AI-Lab [static]": "DUSUNEN-AI-Lab [静态]",
   "digital-service-guardian [docker]": "数字服务监护人 [docker]",
-  "I2V-VIP [gradio]": "I2V-VIP [内置]"
+  "I2V-VIP [gradio]": "I2V-VIP [内置]",
+  "crowdshield-inference [gradio]": "众盾推理 [gradio]",
+  "ai-governance-assessment [static]": "人工智能治理评估[静态]",
+  "Vxh [static]": "Vxh [静态]",
+  "hybrid_search_backend [gradio]": "Hybrid_search_backend [渐变]",
+  "japan-auto [static]": "日本汽车 [静态]",
+  "macstuff [docker]": "macstuff [码头工人]",
+  "flux__decor [gradio]": "Flux__decor [渐变]",
+  "seedra-dataset [static]": "seedra-数据集 [静态]",
+  "FounderOSX-AI-Lab [static]": "FounderOSX-AI-Lab [静态]",
+  "krishicare-ai [gradio]": "krishicare-ai [等级]",
+  "duble [static]": "双 [静态]",
+  "summarizer [gradio]": "总结者[梯度]",
+  "AI-generated books are flooding Amazon and tanking sales for human authors": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降"
 }
