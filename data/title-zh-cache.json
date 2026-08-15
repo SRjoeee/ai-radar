@@ -33718,5 +33718,21 @@
   "roagroplante [static]": "roagroplante [静态]",
   "f [docker]": "f [码头工人]",
   "penguin-classifier [static]": "企鹅分类器 [静态]",
-  "Optom [docker]": "奥普托姆[docker]"
+  "Optom [docker]": "奥普托姆[docker]",
+  "trustless-agents [docker]": "无需信任的代理 [docker]",
+  "test-env-8392 [docker]": "测试-env-8392 [docker]",
+  "home [docker]": "家[码头工人]",
+  "netnerve_backend [gradio]": "netnerve_backend [已构建]",
+  "vai-avatar [docker]": "go-头像 [docker]",
+  "nyaysetu-backend [docker]": "nyaysetu-后端 [docker]",
+  "pet-xtts-tts [gradio]": "pet-xtts-tts [渐变]",
+  "voicebox [static]": "语音盒[静态]",
+  "flow2 [gradio]": "flow2 [已建]",
+  "New_Project [gradio]": "新项目 [渐变]",
+  "ragingoa [docker]": "拉金戈 [码头工人]",
+  "retinal-ai [static]": "视网膜-ai [静态]",
+  "egyptian-arabic-tts [gradio]": "埃及-阿拉伯语-tts [渐变]",
+  "pelican-bicycle-thinking-efforts [static]": "鹈鹕自行车思考努力 [静态]",
+  "Irodori-TTS-v4.1-Small-8bit — text-to-speech": "Irodori-TTS-v4.1-Small-8bit — 文本转语音",
+  "Irodori-TTS-v4.1-Small-fp16 — text-to-speech": "Irodori-TTS-v4.1-Small-fp16 — 文本转语音"
 }
