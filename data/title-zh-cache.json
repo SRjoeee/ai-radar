@@ -33988,5 +33988,14 @@
   "imagesegment-ai [docker]": "图像片段-ai [docker]",
   "sentimeter [gradio]": "厘米 [渐变]",
   "student-career-academic-guide [static]": "学生职业学术指南[静态]",
-  "The Artistry in 8-bit and 16-bit pixel art [video]": "8 位和 16 位像素艺术的艺术性 [视频]"
+  "The Artistry in 8-bit and 16-bit pixel art [video]": "8 位和 16 位像素艺术的艺术性 [视频]",
+  "web-service [static]": "网络服务 [静态]",
+  "Gdz-bot-finall [gradio]": "gdz-bot-final [渐变]",
+  "smart-resume-analyser [gradio]": "智能简历分析 [gradio]",
+  "marker [docker]": "标记[码头工人]",
+  "avatar-studio-backend [docker]": "头像工作室后端 [docker]",
+  "best-of-n-demo [static]": "最佳演示 [静态]",
+  "health-assistant-chatbot [gradio]": "健康助理聊天机器人 [gradio]",
+  "150826-Kermit-Piggy-MiniMax-H3 [static]": "150826-Kermit-Piggy-MiniMax-H3 [静态]",
+  "nsfw-helper-ltx-demo [gradio]": "nsfw-helper-ltx-demo [渐变]"
 }
