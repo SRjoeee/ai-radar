@@ -33776,5 +33776,18 @@
   "hjkl [static]": "hjkl [静态]",
   "edupro-dashboard [static]": "edupro 仪表板 [静态]",
   "tienti-gemini-bot [gradio]": "tienti-gemini-bot [度]",
-  "Alpino-playground [gradio]": "高山游乐场 [年级]"
+  "Alpino-playground [gradio]": "高山游乐场 [年级]",
+  "khmer-video-translator-kiri [gradio]": "高棉视频翻译器基里 [已构建]",
+  "fetch_playwright_with_chunk_huggingface_3959_dash_ghji6j5z [static]": "fetch_playwright_with_chunk_huggingface_3959_dash_ghji6j5z [静态]",
+  "Expense-Receipt-OCR [docker]": "费用收据-OCR [docker]",
+  "HonestLLM-Beta [static]": "HonestLLM-Beta [静态]",
+  "growixa [docker]": "成长[码头工人]",
+  "GRACE-VLM [gradio]": "GRACE-VLM [建造者]",
+  "waxal-gender-id-demo [static]": "蜡质性别 ID 演示 [静态]",
+  "LedgerLens [streamlit]": "LedgerLens [流光]",
+  "AioZilean [static]": "AioZilean [静态]",
+  "conncetion [gradio]": "连接[渐变]",
+  "paia-lane-12f-train [docker]": "paia-lane-12f-train [码头工人]",
+  "OmniQuery-App [gradio]": "OmniQuery-App [级别]",
+  "worker-churn-dashboard [static]": "工人流失仪表板 [静态]"
 }
