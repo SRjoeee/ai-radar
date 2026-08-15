@@ -33691,5 +33691,16 @@
   "In the Lab, we’re always tinkering 🧪– from the experiments we graduate to the ones still brewing, we bring the best of our AI models to all kinds of users. Try out these two (if you haven't already!): @PomellibyGoogle...": "在实验室里，我们总是在修补🧪——从已经完成的实验到仍在酝酿中的实验，我们将最好的人工智能模型带给各类用户。尝试一下这两个（如果你还没有尝试过！）：@PomellibyGoogle...",
   "Some people are using AI in ways that make everyone around them feel slightly behind. We want those people at Thesis: 2027. If a person comes to mind—an executive, a builder, a creative—nominate them. We’ve reserved f...": "有些人使用人工智能的方式让周围的每个人都感觉有点落后。我们希望这些人参与《论文：2027》。如果想到某个人（高管、建设者、创意人员），请提名他们。我们已经预订了...",
   "not really you can be an AI-native rocketship without being in a permanent fundraising situation and in a constant death match with other rocketships to capture customers, sacrificing gross margin but the rules for bu...": "事实上，你不可能成为一艘人工智能原生火箭飞船，而不需要处于永久筹款的情况下，并与其他火箭飞船不断进行死亡竞赛来吸引客户，牺牲毛利率，但商业规则......",
-  "I was curious how X is fighting AI slop, so I looked at its open-source algorithm. It has a behavioral model called TweetSpamBot that analyzes up to 512 recent account actions, looking at signals like posting bursts,...": "我很好奇 X 如何对抗 AI 溢出，所以我查看了它的开源算法。它有一个名为 TweetSpamBot 的行为模型，可以分析多达 512 个最近的帐户操作，查看诸如发帖爆发等信号，..."
+  "I was curious how X is fighting AI slop, so I looked at its open-source algorithm. It has a behavioral model called TweetSpamBot that analyzes up to 512 recent account actions, looking at signals like posting bursts,...": "我很好奇 X 如何对抗 AI 溢出，所以我查看了它的开源算法。它有一个名为 TweetSpamBot 的行为模型，可以分析多达 512 个最近的帐户操作，查看诸如发帖爆发等信号，...",
+  "Bh-192992 [static]": "Bh-192992 [静态]",
+  "dssg [static]": "dssg [静态]",
+  "voice-rag-indic [docker]": "语音-rag-indic [docker]",
+  "Test-Lab-HF1 [gradio]": "测试实验室-HF1 [已建成]",
+  "Lumio [docker]": "卢米奥 [码头工人]",
+  "slide-deck-ai [streamlit]": "幻灯片-甲板-ai [streamlit]",
+  "Zukhruf [docker]": "祖赫鲁夫 [码头工人]",
+  "renvia-eco-packaging-solutions [static]": "renvia-生态包装解决方案 [静态]",
+  "allocation [docker]": "分配[docker]",
+  "scope-camera-video [gradio]": "示波器-相机-视频 [等级]",
+  "LinguAI [static]": "LinguAI [静态]"
 }
