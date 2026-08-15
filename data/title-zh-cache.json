@@ -33542,5 +33542,15 @@
   "GOT-OCR2_0-8bit — image-text-to-text": "GOT-OCR2_0-8bit — 图像-文本-文本",
   "GOT-OCR2_0-4bit — image-text-to-text": "GOT-OCR2_0-4bit — 图像-文本-文本",
   "GOT-OCR2_0-bf16 — image-text-to-text": "GOT-OCR2_0-bf16 — 图像文本到文本",
-  "Multiple redirect URIs and token refresh for OAuth apps": "OAuth 应用程序的多个重定向 URI 和令牌刷新"
+  "Multiple redirect URIs and token refresh for OAuth apps": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
+  "medgemma-mh-psychoed [gradio]": "medemma-mh-psychoed [渐变]",
+  "website-builder-backend": "网站建设者后端",
+  "llamadart-chat-pr-332 [static]": "llamadart-chat-pr-332 [静态]",
+  "shiny-osint-app [docker]": "闪亮的osint应用程序[docker]",
+  "NexusFX [docker]": "NexusFX [码头工人]",
+  "alston-writer-finetuner [gradio]": "阿斯顿作家微调器 [渐变]",
+  "finetune-workflow-demo [gradio]": "Finetune-工作流程-演示 [渐变]",
+  "granaces-game [docker]": "granaces-游戏 [docker]",
+  "Show HN: Dictata – Local Whisper dictation with LLM cleanup": "Show HN: Dictata – 带有 LLM 清理功能的本地耳语听写",
+  "The Commons – experiments in inherited knowledge and errors between LLM agents": "The Commons – LLM代理人之间继承知识和错误的实验"
 }
