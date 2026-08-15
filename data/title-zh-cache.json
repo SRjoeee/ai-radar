@@ -34098,5 +34098,16 @@
   "SuperKart-Sales-Forecasting-Frontend-space [docker]": "SuperKart-销售-预测-前端空间 [docker]",
   "SohailAiVideogenerator [static]": "SohailAiVideogenerator [静态]",
   "hf-3m-models-celebration-card [static]": "hf-3m-models-celebration-card [静态]",
-  "louisville-co-biohazard-cleanup [static]": "路易斯维尔生物危害清理 [静态]"
+  "louisville-co-biohazard-cleanup [static]": "路易斯维尔生物危害清理 [静态]",
+  "sekolah-sal-gotten [streamlit]": "学校萨尔戈滕 [streamlit]",
+  "CVmodel-app [static]": "CVmodel-app [静态]",
+  "frontend-sales-forecaster [docker]": "前端销售预测员 [docker]",
+  "guardrails-gemini-agent [docker]": "护栏-双子座-代理 [docker]",
+  "voxsieve-app [docker]": "voxsieve-应用程序 [docker]",
+  "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent": "Sentinel Scan：授权的 LLM 红队审核，由 AI 代理运行",
+  "Sura [static]": "苏拉[静态]",
+  "download_novafile [gradio]": "download_novafile [已构建]",
+  "observatoire-rdc-climat-meteo [static]": "observatoire-rdc-climate-meteo [静态]",
+  "Wan2GP_you_must_clone_this_space_to_use_it [gradio]": "Wan2GP_you_must_clone_this_space_to_use_it [渐变]",
+  "tik [docker]": "tik [码头工人]"
 }
