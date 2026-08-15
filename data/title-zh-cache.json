@@ -34033,5 +34033,16 @@
   "customer-loyalty-classifier [docker]": "客户忠诚度分类器 [docker]",
   "diabetes-prediccion [static]": "糖尿病预测 [静态]",
   "audit-calibration [static]": "审核校准[静态]",
-  "kaurrrgurleen/VisionSeek-AI - An AI-powered semantic and temporal video search engine that uses LLMs, CLIP embeddings, and temporal activity analysis to find relevant moments in videos using natural-language queries.": "kaurrrgurleen/VisionSeek-AI - 一种人工智能驱动的语义和时间视频搜索引擎，使用 LLM、CLIP 嵌入和时间活动分析，通过自然语言查询查找视频中的相关时刻。"
+  "kaurrrgurleen/VisionSeek-AI - An AI-powered semantic and temporal video search engine that uses LLMs, CLIP embeddings, and temporal activity analysis to find relevant moments in videos using natural-language queries.": "kaurrrgurleen/VisionSeek-AI - 一种人工智能驱动的语义和时间视频搜索引擎，使用 LLM、CLIP 嵌入和时间活动分析，通过自然语言查询查找视频中的相关时刻。",
+  "nova-ai-backend [docker]": "nova-ai-后端 [docker]",
+  "saveearth [gradio]": "拯救地球[渐变]",
+  "ai-image-detection-project [gradio]": "ai-图像检测-项目 [渐变]",
+  "flux-1-dev-demo [gradio]": "Flux-1-dev-demo [已构建]",
+  "jstta [docker]": "jstta [码头工人]",
+  "audit-conversion [static]": "审核转换 [静态]",
+  "audit-verdicts [static]": "审计裁决 [静态]",
+  "PRISM-Marketing-Mix-Intelligence [docker]": "PRISM-营销-混合-情报 [docker]",
+  "florentina-ciausu-makeup-rezerv-ri [static]": "florentina-ciausu-化妆-预订 [静态]",
+  "smart-mcq-solver1 [static]": "smart-mcq-solver1 [静态]",
+  "nova-benchmark [gradio]": "nova-基准 [等级]"
 }
