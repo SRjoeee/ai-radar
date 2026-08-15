@@ -33789,5 +33789,19 @@
   "conncetion [gradio]": "连接[渐变]",
   "paia-lane-12f-train [docker]": "paia-lane-12f-train [码头工人]",
   "OmniQuery-App [gradio]": "OmniQuery-App [级别]",
-  "worker-churn-dashboard [static]": "工人流失仪表板 [静态]"
+  "worker-churn-dashboard [static]": "工人流失仪表板 [静态]",
+  "my-secret-box [static]": "我的秘密盒 [静态]",
+  "AioZilean [docker]": "AioZilean [码头工人]",
+  "stirling-pdf2 [gradio]": "斯特林-pdf2 [内置]",
+  "mamad [gradio]": "马马德[建成]",
+  "chuvash-translator [gradio]": "chuvash-翻译器 [gradio]",
+  "h3-ltx25-i2v-avg10-comparison [static]": "h3-ltx25-i2v-avg10-比较 [静态]",
+  "poultry-farm-system [docker]": "家禽养殖场系统 [docker]",
+  "automatic-statistician-demo [static]": "自动统计员演示 [静态]",
+  "Qwen-3.8-27B-H200 [static]": "Qwen-3.8-27B-H200 [静态]",
+  "ICTone-Fill [gradio]": "ICTone-Fill [构建]",
+  "video-automator [gradio]": "视频自动机 [渐变]",
+  "chat-with-qwen3-8-27b [docker]": "与 qwen3-8-27b 聊天 [docker]",
+  "sahil-ai [gradio]": "萨希尔-艾 [等级]",
+  "Show HN: I spent 3 months making desktop automation stop lying to AI agents": "Show HN：我花了 3 个月的时间让桌面自动化不再对 AI 代理撒谎"
 }
