@@ -34071,5 +34071,12 @@
   "dok-ai-brain-inference [static]": "dok-ai-brain-inference [静态]",
   "docbot-backend [docker]": "docbot-后端 [docker]",
   "Scrap_Mechanic_2 [docker]": "Scrap_Mechanic_2 [码头工人]",
-  "SoCal-AI-Labs/track-dna - Windows app that analyzes songs and builds Suno and MiniMax instrumental prompts from measured BPM, key, mix, and structure. No lyrics.": "SoCal-AI-Labs/track-dna - Windows 应用程序，可分析歌曲并根据测量的 BPM、调、混音和结构构建 Suno 和 MiniMax 乐器提示。没有歌词。"
+  "SoCal-AI-Labs/track-dna - Windows app that analyzes songs and builds Suno and MiniMax instrumental prompts from measured BPM, key, mix, and structure. No lyrics.": "SoCal-AI-Labs/track-dna - Windows 应用程序，可分析歌曲并根据测量的 BPM、调、混音和结构构建 Suno 和 MiniMax 乐器提示。没有歌词。",
+  "indic-parler-tts-streaming [gradio]": "indic-parler-tts-streaming [渐变]",
+  "agent-reliability-lab [gradio]": "代理可靠性实验室 [梯度]",
+  "mio-mediaflow-proxy [static]": "mio-mediaflow-proxy [静态]",
+  "MyGLSpace [static]": "MyGLSpace [静态]",
+  "pneumoia-api [gradio]": "肺炎-API [梯度]",
+  "claude-code-proxy [gradio]": "克劳德代码代理 [gradio]",
+  "screenpipe Screenpipe App v2.6.29": "screenpipe Screenpipe 应用程序 v2.6.29"
 }
