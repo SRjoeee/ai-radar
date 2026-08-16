@@ -34218,5 +34218,18 @@
   "fplbench-board [static]": "fplbench-board [静态]",
   "LTX-2.5-Multi-Pipe-Sulphur [gradio]": "LTX-2.5-多管-硫磺 [渐变]",
   "high-score-dashboard [static]": "高分仪表板 [静态]",
-  "Noryxen/Awesome-Embodied-Memory - A curated collection of papers on embodied memory for robot learning, covering human demonstrations, experience retrieval, skill reuse, continual adaptation, and memory-aware evaluation.": "Noryxen/Awesome-Embodied-Memory - 有关机器人学习的具体记忆的精选论文集，涵盖人类演示、经验检索、技能重用、持续适应和记忆感知评估。"
+  "Noryxen/Awesome-Embodied-Memory - A curated collection of papers on embodied memory for robot learning, covering human demonstrations, experience retrieval, skill reuse, continual adaptation, and memory-aware evaluation.": "Noryxen/Awesome-Embodied-Memory - 有关机器人学习的具体记忆的精选论文集，涵盖人类演示、经验检索、技能重用、持续适应和记忆感知评估。",
+  "TamilGrammarly [gradio]": "泰米尔语语法 [渐变]",
+  "smartfind-api [gradio]": "smartfind-api [内置]",
+  "MDPBench-leaderboard [static]": "MDPBench-排行榜 [静态]",
+  "Barrot-Omega [streamlit]": "巴罗-欧米茄 [streamlit]",
+  "agentic-rag-app": "代理抹布应用程序",
+  "Final-Agent-Eval [static]": "最终代理评估 [静态]",
+  "Flower-Fine-Tune [gradio]": "花-微调 [渐变]",
+  "FADEC [static]": "FADEC [静态]",
+  "split-vision-scroller [static]": "分裂视觉滚动[静态]",
+  "GenshinMusic [static]": "原神音乐 [静态]",
+  "anatomeo-explorer [static]": "解剖学探索者 [静态]",
+  "ewa-photo-flat [gradio]": "EWA-照片平面 [渐变]",
+  "ProofRun – a local verification receipt for AI coding agents": "ProofRun – AI 编码代理的本地验证收据"
 }
