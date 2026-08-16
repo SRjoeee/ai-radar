@@ -34486,5 +34486,20 @@
   "LLM-XRay [gradio]": "LLM-XRay [建成]",
   "Video [static]": "视频[静态]",
   "face-recognition-api [gradio]": "人脸识别API [渐变]",
-  "campus-voice [gradio]": "校园之声[建成]"
+  "campus-voice [gradio]": "校园之声[建成]",
+  "pneumonia-xray-detection": "肺炎 X 光检测",
+  "F6g87hbbhu [gradio]": "F6g87hbbhu [建造者]",
+  "squid-main-space [docker]": "鱿鱼主空间 [docker]",
+  "Medical_report_SmolL [gradio]": "Medical_report_SmolL [已构建]",
+  "francesco-lavacca-portfolio-web-social-3d [static]": "francesco-lavacca-portfolio-web-social-3d [静态]",
+  "scraping [docker]": "刮[码头工人]",
+  "Research-arXiv-RAG [gradio]": "研究-arXiv-RAG [梯度]",
+  "bge-m3-embedding-api [gradio]": "bge-m3-embedding-api [渐变]",
+  "AIpoweredoptimization [docker]": "AI 驱动的优化 [docker]",
+  "Parrimo [static]": "帕里莫 [静态]",
+  "chat-heath [docker]": "聊天希思 [docker]",
+  "video-word-counter [gradio]": "视频字计数器 [渐变]",
+  "ssc-mock-bff [gradio]": "ssc-mock-bff [内置]",
+  "QWERTR [static]": "QWERTR [静态]",
+  "Show HN: A pre-execution guard that stops AI agents running destructive commands": "Show HN：阻止 AI 代理运行破坏性命令的预执行防护"
 }
