@@ -34365,5 +34365,16 @@
   "scam_detection_cpu_q8_staging [gradio]": "诈骗_检测_cpu_q8_staging [渐变]",
   "football-manager [docker]": "足球经理 [docker]",
   "python-coding-assistant [gradio]": "python-coding-assistant [梯度]",
-  "antenna-s11-predictor [static]": "天线-s11-预测器 [静态]"
+  "antenna-s11-predictor [static]": "天线-s11-预测器 [静态]",
+  "Memory-Matrix [static]": "内存矩阵 [静态]",
+  "Signal-ai [static]": "Signal-ai [静态]",
+  "Ajith [static]": "阿吉斯[静态]",
+  "cymatics-sym [gradio]": "cymatics-sym [渐变]",
+  "malloc-app [gradio]": "malloc-app [等级]",
+  "chibi-hiro-bot [gradio]": "《K.O.小拳王》-hiro-bot [渐变]",
+  "muse-glimmer-demo [gradio]": "muse-glimmer-demo [已构建]",
+  "DecoderTransformerClassifier [gradio]": "DecoderTransformerClassifier [梯度]",
+  "Surprise [static]": "惊喜[静态]",
+  "whatsapp-bot [gradio]": "Whatsapp-bot [已构建]",
+  "financial-advisor [gradio]": "财务顾问[建成]"
 }
