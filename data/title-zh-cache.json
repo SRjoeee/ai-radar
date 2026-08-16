@@ -34458,5 +34458,16 @@
   "yamubus-routing-engine [docker]": "yamubus-路由引擎 [docker]",
   "relais-remote [static]": "中继远程 [静态]",
   "llamadart-chat-pr-334 [static]": "llamadart-chat-pr-334 [静态]",
-  "A look into the harmful effects of Ocean Ramsey and shark influencers": "调查海洋拉姆齐和鲨鱼影响者的有害影响"
+  "A look into the harmful effects of Ocean Ramsey and shark influencers": "调查海洋拉姆齐和鲨鱼影响者的有害影响",
+  "EduMCP_Agent [gradio]": "EduMCP_Agent [构建者]",
+  "cv-match-app [static]": "简历匹配应用程序 [静态]",
+  "RealVis_v5.0_BF16_IP [gradio]": "RealVis_v5.0_BF16_IP [渐变]",
+  "CPUonly-image-Char-RecogOCR [gradio]": "CPUonly-image-Char-RecogOCR [渐变]",
+  "mi-open-webui [gradio]": "mi-open-webui [评分]",
+  "langgraph-vision-explainer [gradio]": "langgraph-vision-explainer [渐变]",
+  "Newaitest [static]": "Newaitest [静态]",
+  "wllama [static]": "哇玛[静态]",
+  "AI_POWERED_ADVANCE_RAG [gradio]": "AI_POWERED_ADVANCE_RAG [渐变]",
+  "wan-animate-dance [gradio]": "wan-animate-dance [渐变]",
+  "my-lfm25-demo [gradio]": "my-lfm25-demo [渐变]"
 }
