@@ -34661,5 +34661,16 @@
   "zyntalic-dual [gradio]": "zyntalic-双 [渐变]",
   "chest-xray-classifier [gradio]": "胸部 X 射线分类器 [梯度]",
   "healthtech [docker]": "健康科技 [docker]",
-  "12-Factor Agents – Principles for building reliable LLM applications": "12 因素代理 – 构建可靠的 LLM 申请的原则"
+  "12-Factor Agents – Principles for building reliable LLM applications": "12 因素代理 – 构建可靠的 LLM 申请的原则",
+  "SFT-v4-Dataset-Viewer [static]": "SFT-v4-数据集查看器 [静态]",
+  "Tammamiiiii [static]": "Tammamiiiiii [静态]",
+  "NoD-1-1D [gradio]": "NoD-1-1D [已建成]",
+  "Qwen3.8-27B-Yes-Man-Agent-Demo [gradio]": "Qwen3.8-27B-Yes-Man-Agent-Demo [渐变]",
+  "monzo-ai-assistant [docker]": "monzo-ai-助理 [docker]",
+  "mysky [static]": "我的天空 [静态]",
+  "berry-viewforce-explorer [static]": "berry-viewforce-explorer [静态]",
+  "ggg [gradio]": "ggg [已建]",
+  "WorkflowClaim [docker]": "工作流程声明 [docker]",
+  "worldphone-gen [static]": "worldphone-gen [静态]",
+  "suoerkart-frontend [docker]": "suerkart-前端 [docker]"
 }
