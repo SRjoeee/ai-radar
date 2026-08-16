@@ -34430,5 +34430,19 @@
   "DermoScan-Lite [static]": "DermoScan-Lite [静态]",
   "portfolio-chat-backend [gradio]": "投资组合聊天后端 [已构建]",
   "voice-to-voice-translator [gradio]": "语音到语音翻译器 [gradio]",
-  "test1 [static]": "测试1 [静态]"
+  "test1 [static]": "测试1 [静态]",
+  "SUPIR-image-restoration [gradio]": "SUPIR-图像恢复 [渐变]",
+  "Bad-MIDI [gradio]": "Bad-MIDI [构建者]",
+  "hebrew-ai-sync [static]": "希伯来语-ai-sync [静态]",
+  "prototype [static]": "原型[静态]",
+  "optimization [static]": "优化[静态]",
+  "telegram-ai-autoreply [gradio]": "telegram-ai-自动回复 [渐变]",
+  "DocWeave [gradio]": "DocWeave [构建者]",
+  "smart-docs-parser [gradio]": "智能文档解析器[内置]",
+  "campus-voice [docker]": "校园之声 [docker]",
+  "z-power-supply-complete-website [static]": "z-power-supply-complete-网站 [静态]",
+  "tda-ai-backend [static]": "tda-ai-后端 [静态]",
+  "croatian-german-translator [static]": "克罗地亚语-德语-翻译器 [静态]",
+  "MidasDepthEstimation [gradio]": "MidasDepthEstimation [度]",
+  "SaloonManagementSystemBackend [docker]": "Saloon管理系统后端 [docker]"
 }
