@@ -34672,5 +34672,15 @@
   "ggg [gradio]": "ggg [已建]",
   "WorkflowClaim [docker]": "工作流程声明 [docker]",
   "worldphone-gen [static]": "worldphone-gen [静态]",
-  "suoerkart-frontend [docker]": "suerkart-前端 [docker]"
+  "suoerkart-frontend [docker]": "suerkart-前端 [docker]",
+  "Ligand-Pocket-Predictor [gradio]": "配体口袋预测器 [梯度]",
+  "marbertga-training [static]": "marbertga-训练 [静态]",
+  "opacity [static]": "不透明度[静态]",
+  "Backend1 [static]": "后端1 [静态]",
+  "sentinel-core [static]": "哨兵核心[静态]",
+  "ai-gradio-pipeline-bot [gradio]": "ai-gradio-pipeline-bot [渐变]",
+  "superkart-sales-prediction [static]": "superkart-销售预测 [静态]",
+  "skripsi-klasifikasi-jurnal [docker]": "论文分类期刊 [docker]",
+  "grounded-doc-extraction [gradio]": "接地文档提取 [gradio]",
+  "app_copilot_gpt_5_4_think_04162026_DeepSeek_V4_Pro_0813_Freebuff_08162026_V2.py [gradio]": "app_copilot_gpt_5_4_think_04162026_DeepSeek_V4_Pro_0813_Freebuff_08162026_V2.py [内置]"
 }
