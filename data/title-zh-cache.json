@@ -34682,5 +34682,16 @@
   "superkart-sales-prediction [static]": "superkart-销售预测 [静态]",
   "skripsi-klasifikasi-jurnal [docker]": "论文分类期刊 [docker]",
   "grounded-doc-extraction [gradio]": "接地文档提取 [gradio]",
-  "app_copilot_gpt_5_4_think_04162026_DeepSeek_V4_Pro_0813_Freebuff_08162026_V2.py [gradio]": "app_copilot_gpt_5_4_think_04162026_DeepSeek_V4_Pro_0813_Freebuff_08162026_V2.py [内置]"
+  "app_copilot_gpt_5_4_think_04162026_DeepSeek_V4_Pro_0813_Freebuff_08162026_V2.py [gradio]": "app_copilot_gpt_5_4_think_04162026_DeepSeek_V4_Pro_0813_Freebuff_08162026_V2.py [内置]",
+  "obolo-translator-static [static]": "obolo-翻译器-静态 [静态]",
+  "wan2-1-i2v-14b-720p [gradio]": "wan2-1-i2v-14b-720p [内置]",
+  "clinic-assist [gradio]": "临床协助 [梯度]",
+  "elevenlabs-gmail-mcp [gradio]": "十一实验室-gmail-mcp [渐变]",
+  "bhilaitv-production [docker]": "bhilaitv-生产 [docker]",
+  "dentix [docker]": "dentix [码头工人]",
+  "AgentRoom [docker]": "代理室 [docker]",
+  "polymarket-3am-arbitrage [gradio]": "Polymarket-3am-套利 [梯度]",
+  "POINTBREAK [static]": "断点[静态]",
+  "Backend2 [docker]": "后端2 [docker]",
+  "CodeConverterDemo [gradio]": "CodeConverter演示 [等级]"
 }
