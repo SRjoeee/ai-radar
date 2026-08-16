@@ -34136,5 +34136,20 @@
   "pt-ner-bertimbau [gradio]": "pt-ner-bertimbau [渐变]",
   "MovieRecommendationSystem [static]": "电影推荐系统 [静态]",
   "Dyggiugg [streamlit]": "Dyggiugg [流线型]",
-  "huggingface_9687-space-test-zzz [static]": "Huggingface_9687-space-test-zzz [静态]"
+  "huggingface_9687-space-test-zzz [static]": "Huggingface_9687-space-test-zzz [静态]",
+  "Lustify-Krea2-NSFW-Img2Img [gradio]": "Lustify-Krea2-NSFW-Img2Img [渐变]",
+  "Edunova [gradio]": "埃杜诺瓦 [建成]",
+  "Mmf [docker]": "MMF [码头工人]",
+  "my-superkart-model [docker]": "我的超级卡丁车模型 [docker]",
+  "docformatter-api [gradio]": "docformatter-api [内置]",
+  "medvision-api [gradio]": "medvision-api [内置]",
+  "deepsite-project-i522f [static]": "deepsite-project-i522f [静态]",
+  "sibutik [gradio]": "sibutik [渐变]",
+  "minimalism [gradio]": "极简主义[渐变]",
+  "image-to-stl-3d-editor [gradio]": "图像到 stl-3d 编辑器 [渐变]",
+  "O-TITGTIT-O-TITGTIT-O [static]": "O-TITGTIT-O-TITGTIT-O [静态]",
+  "gemini [static]": "双子座[静态]",
+  "dblock-website-hub [static]": "dblock-website-hub [静态]",
+  "MiniMax-Music3-mxfp4 — text-to-audio": "MiniMax-Music3-mxfp4 — 文本转音频",
+  "MiniMax-Music3-bf16": "MiniMax-音乐3-bf16"
 }
