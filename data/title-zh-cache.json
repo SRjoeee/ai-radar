@@ -34649,5 +34649,17 @@
   "vvv [gradio]": "vvv [等级]",
   "clinic-assistant [gradio]": "临床助理 [分级]",
   "Cinesite [gradio]": "铁矿 [等级]",
-  "TomSchoe/visualizer - Let Claude (or any coding agent) actually watch videos — summarize & analyze YouTube/local video with Gemini native video understanding. Free. /va": "TomSchoe/可视化工具 - 让 Claude（或任何编码代理）实际观看视频 - 使用 Gemini 原生视频理解来总结和分析 YouTube/本地视频。自由的。 /va"
+  "TomSchoe/visualizer - Let Claude (or any coding agent) actually watch videos — summarize & analyze YouTube/local video with Gemini native video understanding. Free. /va": "TomSchoe/可视化工具 - 让 Claude（或任何编码代理）实际观看视频 - 使用 Gemini 原生视频理解来总结和分析 YouTube/本地视频。自由的。 /va",
+  "my-first-ui [docker]": "我的第一个用户界面 [docker]",
+  "khi-cfm-demo [gradio]": "khi-cfm-demo [渐变]",
+  "fpdsm3 [static]": "fpdsm3 [静态]",
+  "ai-18-finder [static]": "ai-18-finder [静态]",
+  "ai-front-desk-mvp [static]": "ai-前台-mvp [静态]",
+  "Maked_Digital [gradio]": "Made_Digital [渐变]",
+  "Show HN: OIDC auth done right in Sambee 0.9?": "显示 HN：OIDC 身份验证在 Sambee 0.9 中正确完成吗？",
+  "Crack-non-Crack [streamlit]": "破解-非破解 [streamlit]",
+  "zyntalic-dual [gradio]": "zyntalic-双 [渐变]",
+  "chest-xray-classifier [gradio]": "胸部 X 射线分类器 [梯度]",
+  "healthtech [docker]": "健康科技 [docker]",
+  "12-Factor Agents – Principles for building reliable LLM applications": "12 因素代理 – 构建可靠的 LLM 申请的原则"
 }
