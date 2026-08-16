@@ -34336,5 +34336,16 @@
   "Egg_fertility_prediction [static]": "Egg_fertility_prediction [静态]",
   "physics-ai-tutor [static]": "物理人工智能导师 [静态]",
   "claude-tokenizer [gradio]": "克劳德分词器 [梯度]",
-  "Show HN: RNet – AI token service provider": "Show HN：RNet – AI代币服务提供商"
+  "Show HN: RNet – AI token service provider": "Show HN：RNet – AI代币服务提供商",
+  "GLLM2 [gradio]": "GLLM2 [内置]",
+  "Maghgo [docker]": "马格戈 [码头工人]",
+  "slate-minimal-saas-landing-page [static]": "slate-minimal-saas-landing-page [静态]",
+  "flavor-pairings [static]": "风味搭配[静态]",
+  "HANSR_SANKET [gradio]": "HANSR_SANKET [渐变]",
+  "guisss [static]": "吉斯[静态]",
+  "my-music-radio [static]": "我的音乐电台 [静态]",
+  "swat-ingest [docker]": "swat-摄取 [docker]",
+  "media-toolbox-cpu [docker]": "媒体工具箱-cpu [docker]",
+  "Crowd [docker]": "人群[码头工人]",
+  "book-rating-prediction [docker]": "图书评分预测 [docker]"
 }
