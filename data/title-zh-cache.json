@@ -34323,5 +34323,18 @@
   "amir [static]": "阿米尔[静态]",
   "VirtualMe-AI [gradio]": "VirtualMe-AI [渐变]",
   "CHAT.BA [streamlit]": "CHAT.BA [流线型]",
-  "character-chat [docker]": "角色聊天 [docker]"
+  "character-chat [docker]": "角色聊天 [docker]",
+  "DWG_Balloon_LIST [gradio]": "DWG_Balloon_LIST [渐变]",
+  "catrabbit [static]": "猫兔[静态]",
+  "glburl [gradio]": "glburl [已构建]",
+  "my-ai-core-engine [static]": "my-ai-core-engine [静态]",
+  "media-toolbox-gpu [gradio]": "媒体工具箱-GPU [渐变]",
+  "travel-planner [gradio]": "旅行计划[渐变]",
+  "Saturday-AI [gradio]": "星期六-AI [构建者]",
+  "ai-security-defense-lab [docker]": "人工智能安全防御实验室 [docker]",
+  "salary [static]": "工资[静态]",
+  "Egg_fertility_prediction [static]": "Egg_fertility_prediction [静态]",
+  "physics-ai-tutor [static]": "物理人工智能导师 [静态]",
+  "claude-tokenizer [gradio]": "克劳德分词器 [梯度]",
+  "Show HN: RNet – AI token service provider": "Show HN：RNet – AI代币服务提供商"
 }
