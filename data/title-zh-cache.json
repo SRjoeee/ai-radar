@@ -34554,5 +34554,20 @@
   "medical-triage-agent-ai-poc-ui": "医疗分诊代理-ai-poc-ui",
   "CartEx-IA [gradio]": "CartEx-IA [渐变]",
   "wound-classification [gradio]": "伤口分类[等级]",
-  "mediscroll-pro [static]": "mediscroll-pro [静态]"
+  "mediscroll-pro [static]": "mediscroll-pro [静态]",
+  "ideo [gradio]": "想法[已建]",
+  "video-to-jsonsvg-python [gradio]": "视频到 jsonsvg-python [内置]",
+  "prazer-pqai [gradio]": "快乐-pqai [渐变]",
+  "hilmanhosting [docker]": "希尔曼主机 [docker]",
+  "ai-research-assistant [gradio]": "人工智能研究助理 [职级]",
+  "My [gradio]": "我的[渐变]",
+  "interplens-demo [gradio]": "interplens-演示 [已构建]",
+  "tiktok-live-dvr [gradio]": "tiktok-live-dvr [已构建]",
+  "Vipamapgm [gradio]": "Vipamapgm [建造者]",
+  "TensyChat [gradio]": "TensyChat [构建者]",
+  "ERDAL [gradio]": "埃达尔 [渐变]",
+  "Laptop-Matchmaker-finder [static]": "笔记本电脑媒人查找器 [静态]",
+  "decoder-only-transformer-tinystories-32m [gradio]": "仅解码器变压器-tinystories-32m [渐变]",
+  "First-b [docker]": "首先-b [docker]",
+  "I've build a source of real fake data": "我建立了一个真实的虚假数据源"
 }
