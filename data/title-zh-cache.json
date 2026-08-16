@@ -34288,5 +34288,18 @@
   "TRMAS [docker]": "TRMAS [码头工人]",
   "Show HN: AlertChecker – get emailed when a plain-English statement comes true": "Show HN：AlertChecker – 当简单的英语陈述成真时收到电子邮件",
   "travel-planner-workshop [gradio]": "旅行计划研讨会 [渐变]",
-  "Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server": "Show HN：PyScrappy，自我修复网络抓取选择器以及 MCP 服务器"
+  "Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server": "Show HN：PyScrappy，自我修复网络抓取选择器以及 MCP 服务器",
+  "diabetes-prediction-gradio [gradio]": "糖尿病预测梯度 [梯度]",
+  "uniface [gradio]": "统一表情[渐变]",
+  "CHAT.BA [static]": "聊天.BA [静态]",
+  "Multi-Agent_Movie_Recommender [gradio]": "多代理_电影_推荐器 [渐变]",
+  "accords [static]": "协议[静态]",
+  "Jax-ai [static]": "Jax-ai [静态]",
+  "ai-freestyle-editor [static]": "ai-freestyle-editor [静态]",
+  "News-Intel [gradio]": "新闻-Intel [内置]",
+  "g2p-disambiguated [gradio]": "g2p-已消除歧义 [gradio]",
+  "Personal-Assistant-Client [static]": "个人助理客户 [静态]",
+  "Personal-Assistant-Server [docker]": "个人助理服务器 [docker]",
+  "ChatB.A": "聊天B.A",
+  "deed-gen [gradio]": "did-gen [渐变]"
 }
