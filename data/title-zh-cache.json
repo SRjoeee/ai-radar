@@ -34469,5 +34469,22 @@
   "wllama [static]": "哇玛[静态]",
   "AI_POWERED_ADVANCE_RAG [gradio]": "AI_POWERED_ADVANCE_RAG [渐变]",
   "wan-animate-dance [gradio]": "wan-animate-dance [渐变]",
-  "my-lfm25-demo [gradio]": "my-lfm25-demo [渐变]"
+  "my-lfm25-demo [gradio]": "my-lfm25-demo [渐变]",
+  "CQ [static]": "CQ [静态]",
+  "Reflex_Arena [gradio]": "Reflex_Arena [建造者]",
+  "Sainis [static]": "塞尼斯 [静态]",
+  "object-detector [static]": "物体检测器[静态]",
+  "cyberon-ai [gradio]": "cyberon-ai [渐变]",
+  "DA360 [gradio]": "DA360 [内置]",
+  "Super_Kart [docker]": "超级卡丁车 [docker]",
+  "Disain [gradio]": "设计[渐变]",
+  "assistive-ocr-backend [docker]": "辅助 OCR 后端 [docker]",
+  "nexamat-paper [static]": "nexamat-纸 [静态]",
+  "Foodvision_mini [gradio]": "Foodvision_mini [建成]",
+  "nexamass-v3-struct-paper [static]": "nexamass-v3-struct-paper [静态]",
+  "cdn-static-metrics [static]": "cdn-静态-指标 [静态]",
+  "LLM-XRay [gradio]": "LLM-XRay [建成]",
+  "Video [static]": "视频[静态]",
+  "face-recognition-api [gradio]": "人脸识别API [渐变]",
+  "campus-voice [gradio]": "校园之声[建成]"
 }
