@@ -34569,5 +34569,13 @@
   "Laptop-Matchmaker-finder [static]": "笔记本电脑媒人查找器 [静态]",
   "decoder-only-transformer-tinystories-32m [gradio]": "仅解码器变压器-tinystories-32m [渐变]",
   "First-b [docker]": "首先-b [docker]",
-  "I've build a source of real fake data": "我建立了一个真实的虚假数据源"
+  "I've build a source of real fake data": "我建立了一个真实的虚假数据源",
+  "ScholarAI-backend [docker]": "ScholarAI-后端 [docker]",
+  "File-Store-Bot [docker]": "文件存储机器人 [docker]",
+  "Uirapuru-U1.1-Demo [gradio]": "Uirapuru-U1.1-演示 [等级]",
+  "open-chat-qwen3 [gradio]": "open-chat-qwen3 [渐变]",
+  "hycccc/songscore - Three-tier song-quality scoring: DSP rules, reward-model hook, calibrated LLM judge with dispersion regression tests": "hycccc/songscore - 三层歌曲质量评分：DSP 规则、奖励模型挂钩、带有离散回归测试的校准 LLM 判断",
+  "omnicore_ai [gradio]": "omn​​icore_ai [等级]",
+  "legal_doc_1 [static]": "legal_doc_1 [静态]",
+  "AI Agent Insurance Products: The New Wave": "人工智能代理保险产品：新浪潮"
 }
