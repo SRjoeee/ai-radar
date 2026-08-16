@@ -34193,5 +34193,15 @@
   "MiniMax-Music3-mxfp8 — text-to-audio": "MiniMax-Music3-mxfp8 — 文本转音频",
   "MiniMax-Music3-4bit — text-to-audio": "MiniMax-Music3-4bit — 文本转音频",
   "clipcurator/ai-video-understanding-context-loss-trim-decision-ledger - Ledger for AI video understanding context loss, trim decisions, speaker intent, timestamp evidence, confidence notes, and human review.": "Clipcurator/ai-video-understanding-context-loss-trim-decision-ledger - 用于 AI 视频理解上下文丢失、修剪决策、演讲者意图、时间戳证据、置信记录和人工审核的分类帐。",
-  "Amey-Thakur/ACCIDENT-CVPR-2026 - Zero-shot pipeline for traffic accident detection, localization and classification in CCTV video. Frame-difference peak detection, Farneback optical flow centroids and CLIP prompt matching, with no fine-tuning. ACCIDENT @ CVPR 2026.": "Amey-Thakur/ACCIDENT-CVPR-2026 - 用于闭路电视视频中交通事故检测、定位和分类的零镜头管道。帧差峰值检测、Farneback光流质心和CLIP提示匹配，无需微调。 CVPR 2026 发生事故。"
+  "Amey-Thakur/ACCIDENT-CVPR-2026 - Zero-shot pipeline for traffic accident detection, localization and classification in CCTV video. Frame-difference peak detection, Farneback optical flow centroids and CLIP prompt matching, with no fine-tuning. ACCIDENT @ CVPR 2026.": "Amey-Thakur/ACCIDENT-CVPR-2026 - 用于闭路电视视频中交通事故检测、定位和分类的零镜头管道。帧差峰值检测、Farneback光流质心和CLIP提示匹配，无需微调。 CVPR 2026 发生事故。",
+  "Qwen-Image-2509-CharacterSheet-4plus2View [gradio]": "Qwen-Image-2509-CharacterSheet-4plus2View [渐变]",
+  "future-weather-file [docker]": "未来天气文件 [docker]",
+  "rocket-readiness-ai [gradio]": "火箭准备就绪-ai [梯度]",
+  "rag-chunking-visualizer [gradio]": "碎布块可视化器 [渐变]",
+  "my-superkart-backend [docker]": "my-superkart-后端 [docker]",
+  "clonador-foda [gradio]": "他妈的克隆人 [渐变]",
+  "vf-log-analyzer [gradio]": "vf-log-analyzer [梯度]",
+  "starlite-soul-store-wholesale-order-spreadsheet-both-collections-restructured [static]": "星光灵魂商店批发订单电子表格两个集合重组[静态]",
+  "OnyxAgent": "玛瑙代理",
+  "21,000 MCP servers exposed: the protocol reaches a security inflection point": "21,000 台 MCP 服务器暴露：协议达到安全拐点"
 }
