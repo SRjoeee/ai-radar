@@ -34595,5 +34595,17 @@
   "shopkart-prediction [docker]": "shopkart 预测 [docker]",
   "xyla-birthday [static]": "xyla-生日 [静态]",
   "cinoc [docker]": "西诺克 [码头工人]",
-  "OSTEO_AI [docker]": "OSTEO_AI [码头工人]"
+  "OSTEO_AI [docker]": "OSTEO_AI [码头工人]",
+  "private-qwen [docker]": "私人-qwen [docker]",
+  "GwenAIBackend [docker]": "GwenAI后端 [docker]",
+  "apertus-v1.5-8b-text [gradio]": "open-v1.5-8b-text [级别]",
+  "Omni-Image-Editor-Free [static]": "全方位图像编辑器免费 [静态]",
+  "sprite [docker]": "精灵[码头工人]",
+  "ats [gradio]": "ATS [建成]",
+  "face-service-dev [gradio]": "面部服务开发 [渐变]",
+  "rumor-detection-nlp [gradio]": "谣言检测-NLP [梯度]",
+  "belamaefitness-proteinas [gradio]": "belamaefitness-蛋白质 [梯度]",
+  "prostar [docker]": "Prostar [码头工人]",
+  "EunoiaMindV55.7 [gradio]": "EunoiaMindV55.7 [渐变]",
+  "WhatToRead [gradio]": "阅读内容 [渐变]"
 }
