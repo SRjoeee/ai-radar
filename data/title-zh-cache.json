@@ -35260,5 +35260,21 @@
   "iskra-telefon [static]": "Iskra 电话 [静态]",
   "physiological-anxiety-escalation [docker]": "生理焦虑升级[docker]",
   "chess-monolith [docker]": "国际象棋巨石 [docker]",
-  "videovoice-llms [gradio]": "videovoice-llms [已构建]"
+  "videovoice-llms [gradio]": "videovoice-llms [已构建]",
+  "arabic-dialectal-asr [gradio]": "阿拉伯语-方言-ASR [渐变]",
+  "shortdrama [gradio]": "短剧[渐变]",
+  "SkillSync-App [streamlit]": "SkillSync-应用程序 [streamlit]",
+  "topic-translation-batch [gradio]": "主题翻译批次 [gradio]",
+  "si-bot [gradio]": "si-bot [已构建]",
+  "sephora-pricing-model [gradio]": "丝芙兰定价模型 [gradio]",
+  "can-it-ford [gradio]": "可以福特 [渐变]",
+  "vtc-vip-paris-ia-cognitive-cqy17 [static]": "vtc-vip-paris-ia-cognitive-cqy17 [静态]",
+  "AI_Ral_maker [gradio]": "AI_Ral_maker [渐变]",
+  "short-drama [gradio]": "短剧[制作]",
+  "video-cpu [gradio]": "视频CPU [内置]",
+  "ai-student-advisor [gradio]": "ai-学生顾问[构建]",
+  "poker-scout [gradio]": "扑克侦察 [gradio]",
+  "ComfyUI-Workflow-Checker [static]": "ComfyUI-工作流程-检查器 [静态]",
+  "LeaveDates [gradio]": "休假日期 [渐变]",
+  "tdlyons/reel-factory - One raw talking-head recording in, finished vertical video cuts out. Captions, motion-graphic cards, thumbnail, cover frame and platform copy, behind deterministic quality gates. A Claude Code skill. Cannot publish anything: no network code, the pipeline ends at files on disk.": "tdlyons/reel-factory - 一个原始的说话头录音，完成的垂直视频剪切。字幕、动态图形卡、缩略图、封面框架和平台副本，位于确定性质量门之后。克劳德密码技能。无法发布任何内容：没有网络代码，管道以磁盘上的文件结束。"
 }
