@@ -34836,5 +34836,21 @@
   "INFORM-CT: INtegrating LLMs and VLMs FOR Incidental Findings Management in Abdominal CT": "INFORM-CT：整合 LLM 和 VLM 以实现腹部 CT 中的意外发现管理",
   "Ambisonics Encoding of Room Impulse Responses using a Device-Agnostic Diffusion Mode": "使用与设备无关的扩散模式对房间脉冲响应进行高保真度立体声响编码",
   "VoiceDesigner: Text-to-Voice Generation and Editing via Unified Diffusion Modeling and Data Augmentation": "VoiceDesigner：通过统一扩散建模和数据增强进行文本到语音的生成和编辑",
-  "The CLI your AI agent drives to manage your knowledge graph": "AI 代理驱动的 CLI 来管理您的知识图"
+  "The CLI your AI agent drives to manage your knowledge graph": "AI 代理驱动的 CLI 来管理您的知识图",
+  "voiceclone [gradio]": "语音克隆[已构建]",
+  "h3-talking8-three-resolution-x2 [static]": "h3-talking8-三分辨率-x2 [静态]",
+  "UFO-FINDER [gradio]": "UFO 探测器 [渐变]",
+  "search_engine_llm": "搜索引擎llm",
+  "wan2-2-i2v-works-good [gradio]": "wan2-2-i2v-works-good [渐变]",
+  "cybench-gpt56-sol-runs [static]": "cybench-gpt56-sol-runs [静态]",
+  "cybench-oc3-spar-reports [static]": "cybench-oc3-spar-报告 [静态]",
+  "omniroute-gateway [gradio]": "全路由网关 [已构建]",
+  "anzen-k3-safety-audit [static]": "anzen-k3-安全审核 [静态]",
+  "datause-extraction-webgpu [static]": "datause-extraction-webgpu [静态]",
+  "beagrace [gradio]": "比阿格雷斯[建成]",
+  "Video_Completion_using_TF [static]": "Video_Completion_using_TF [静态]",
+  "inferecence [docker]": "推论[docker]",
+  "anima-turbo-4step-demo [gradio]": "anima-turbo-4step-演示 [等级]",
+  "Qwen-Image-Edit-2511-Custom-Lora-Fast [gradio]": "Qwen-Image-Edit-2511-Custom-Lora-Fast [渐变]",
+  "handwrittem-space [gradio]": "手写空间 [渐变]"
 }
