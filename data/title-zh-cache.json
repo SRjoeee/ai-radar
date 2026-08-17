@@ -34721,5 +34721,22 @@
   "nonqm-ae-assistant [static]": "nonqm-ae-assistant [静态]",
   "Project_SK [docker]": "项目_SK [docker]",
   "mandyyy [static]": "曼迪[静态]",
-  "jessica [static]": "杰西卡[静态]"
+  "jessica [static]": "杰西卡[静态]",
+  "measure-before-you-migrate-xl [gradio]": "迁移前测量-xl [渐变]",
+  "Classroom_Assistant_English_3 [gradio]": "Classroom_Assistant_English_3 [渐变]",
+  "tp-vsp-7424 [static]": "tp-vsp-7424 [静态]",
+  "EX01 [gradio]": "EX01 [已建成]",
+  "money [streamlit]": "钱[流光]",
+  "DonorQuery [static]": "捐赠者查询 [静态]",
+  "onebigspace [gradio]": "onebigspace [建成]",
+  "elixir-windoors-quote-app [static]": "elixir-windows-quote-app [静态]",
+  "Animeload [docker]": "动画加载 [docker]",
+  "final-exam [static]": "期末考试[静态]",
+  "title-glm-review-public [docker]": "标题-glm-评论-公共 [docker]",
+  "Qwen-Image-LoRA-Explorer [gradio]": "Qwen-图像-LoRA-Explorer [渐变]",
+  "adaptive-design-demo [docker]": "自适应设计演示 [docker]",
+  "hbjjkkh [docker]": "hbjjkkh [码头工人]",
+  "campusBooks [docker]": "校园图书 [docker]",
+  "proxy-space-for [docker]": "代理空间 [docker]",
+  "Legbar – live AI agent sessions beside GitHub CI, in one terminal": "Legbar – 在一个终端中，在 GitHub CI 旁边进行实时 AI 代理会话"
 }
