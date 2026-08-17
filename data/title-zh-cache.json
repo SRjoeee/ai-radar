@@ -35132,5 +35132,22 @@
   "simple-calculator [docker]": "简单计算器 [docker]",
   "Ask HN: If you're burning tokens at scale, what are you using them for?": "问 HN：如果你大规模销毁代币，你用它们做什么？",
   "How canvases make agentic workflows visible, steerable, and cost-efficient": "画布如何使代理工作流程可见、可操纵且经济高效",
-  "Instagram blocked the search terms. Its algorithm serves the videos anyway": "Instagram 屏蔽了这些搜索词。无论如何，它的算法都会为视频提供服务"
+  "Instagram blocked the search terms. Its algorithm serves the videos anyway": "Instagram 屏蔽了这些搜索词。无论如何，它的算法都会为视频提供服务",
+  "osteo-ai [gradio]": "骨-ai [梯度]",
+  "isotope-prediction-app [streamlit]": "同位素预测应用程序 [streamlit]",
+  "MADANI-islamic-calendar [static]": "MADANI-伊斯兰日历 [静态]",
+  "llamadart-chat-pr-338 [static]": "llamadart-chat-pr-338 [静态]",
+  "cardiovascular-risk-final-project [gradio]": "心血管风险最终项目 [梯度]",
+  "VOCR [docker]": "VOCR [码头工人]",
+  "LifeLineChatbot [gradio]": "LifeLineChatbot [构建者]",
+  "paraphraser [static]": "释义[静态]",
+  "XtractBot [docker]": "XtractBot [码头工人]",
+  "videoeditor [gradio]": "视频编辑器 [渐变]",
+  "compression [gradio]": "压缩[梯度]",
+  "atmos-hub-notion [docker]": "atmos-hub-概念 [docker]",
+  "fruits [static]": "水果[静态]",
+  "qwen3-embedding-0.6b-demo [gradio]": "qwen3-embedding-0.6b-demo [渐变]",
+  "diagnostics-summarizer [docker]": "诊断摘要器 [docker]",
+  "SupportOpenSource [static]": "支持开源 [静态]",
+  "LLMs aren't writing": "LLM 不写作"
 }
