@@ -35248,5 +35248,17 @@
   "Asterisk [gradio]": "星号[已建]",
   "fzd3 [docker]": "fzd3 [码头工人]",
   "idcardgenerator [static]": "身份证生成器 [静态]",
-  "idiouf-senpluie-dashboard [static]": "idiouf-senpluie-仪表板 [静态]"
+  "idiouf-senpluie-dashboard [static]": "idiouf-senpluie-仪表板 [静态]",
+  "vehicle-detection-classification [static]": "车辆检测分类[静态]",
+  "JenVideo-AI [gradio]": "JenVideo-AI [构建者]",
+  "granite-vision-4-1-demo [gradio]": "Granite-vision-4-1-演示 [已构建]",
+  "chord-finder-pro-api [gradio]": "和弦查找器 pro-api [渐变]",
+  "Agent Control Plane: the LLM proposes, it never authorizes": "代理控制平面：LLM 提出，但从未授权",
+  "test-static-sec [static]": "测试静态秒 [静态]",
+  "An Open Protocol for Knowledge/Memory Management": "知识/内存管理的开放协议",
+  "registre_ocr [static]": "register_ocr [静态]",
+  "iskra-telefon [static]": "Iskra 电话 [静态]",
+  "physiological-anxiety-escalation [docker]": "生理焦虑升级[docker]",
+  "chess-monolith [docker]": "国际象棋巨石 [docker]",
+  "videovoice-llms [gradio]": "videovoice-llms [已构建]"
 }
