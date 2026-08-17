@@ -35289,5 +35289,17 @@
   "aa_modelo [docker]": "aa_model [码头工人]",
   "my-bible-tda [static]": "我的圣经 tda [静态]",
   "AD-STORYBOARD [static]": "广告故事板 [静态]",
-  "hyperframes v0.7.111": "超帧 v0.7.111"
+  "hyperframes v0.7.111": "超帧 v0.7.111",
+  "Artisanal_Automations [gradio]": "手工_自动化 [渐变]",
+  "Xz [static]": "Xz [静态]",
+  "Xx [static]": "xx [静态]",
+  "Ttt [static]": "TTTT [静态]",
+  "construction-tagger [static]": "构造标签[静态]",
+  "geoproblemi-vs-serv [static]": "地理问题与 serv [静态]",
+  "llama-rag [gradio]": "火焰抹布 [等级]",
+  "marathon-drops [static]": "马拉松滴[静态]",
+  "javisdit-addition-conditioning [static]": "javisdit-加法-调节 [静态]",
+  "newlinefix [static]": "换行修复[静态]",
+  "Agentic AI in a Smolbox": "Smolbox 中的代理 AI",
+  "Tesche-ai/harmonica-transcriber - Reads a photo of printed sheet music and outputs chromatic harmonica tablature: hole, blow/draw, and slide. A small OMR pipeline in numpy/scipy.": "Tesche-ai/harmonica-transcriber - 读取打印乐谱的照片并输出半音阶口琴指法谱：孔、吹/拉和幻灯片。 numpy/scipy 中的小型 OMR 管道。"
 }
