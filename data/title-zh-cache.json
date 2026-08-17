@@ -35057,5 +35057,20 @@
   "Infernet-Leaderboard [static]": "Infernet-排行榜 [静态]",
   "sympozium-concepts [static]": "研讨会概念 [静态]",
   "legal-mcps [docker]": "合法的 mcps [docker]",
-  "Does whispering to agents in docs help?": "在文档中向代理耳语有帮助吗？"
+  "Does whispering to agents in docs help?": "在文档中向代理耳语有帮助吗？",
+  "cariospectra-api [static]": "cariospectra-api [静态]",
+  "Labirinto [gradio]": "迷宫[等级]",
+  "open3d-scan-demo [static]": "open3d-scan-demo [静态]",
+  "ltx-2-3-director [gradio]": "ltx-2-3-导演 [渐变]",
+  "elettromeccanica-tm [static]": "机电-tm [静态]",
+  "MAAS-Disaster-Response-Demo [gradio]": "MAAS-灾难响应-演示 [已构建]",
+  "jum-model-api-gpu [gradio]": "jum-model-api-gpu [内置]",
+  "ast2 [docker]": "ast2 [码头工人]",
+  "face-verify-api [docker]": "人脸验证 API [docker]",
+  "ImageClassifier [gradio]": "图像分类器 [渐变]",
+  "background-remover [gradio]": "背景去除剂 [渐变]",
+  "InstaScanner [gradio]": "InstaScanner [渐变]",
+  "aiou-app [gradio]": "aiou-app [渐变]",
+  "nova-1-0.8b-demo [gradio]": "nova-1-0.8b-演示 [已构建]",
+  "SocraticIA [gradio]": "苏格拉底IA [建造者]"
 }
