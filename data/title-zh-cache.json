@@ -35116,5 +35116,21 @@
   "tgs [docker]": "tgs [码头工人]",
   "Myq [static]": "Myq [静态]",
   "async-grpo-ckpt-smoke [gradio]": "async-grpo-ckpt-smoke [内置]",
-  "Launch HN: Speko (YC S26) – OpenRouter for Voice AI": "推出 HN：Speko (YC S26) – 用于语音 AI 的 OpenRouter"
+  "Launch HN: Speko (YC S26) – OpenRouter for Voice AI": "推出 HN：Speko (YC S26) – 用于语音 AI 的 OpenRouter",
+  "kinetic-edge [static]": "动态边缘 [静态]",
+  "project-shadow-r1-reference [static]": "项目阴影-r1-参考 [静态]",
+  "HNU-Final [docker]": "HNU-决赛 [docker]",
+  "osteo-ai [docker]": "骨人工智能 [docker]",
+  "stocks-in-play [docker]": "现货库存 [docker]",
+  "simple-calculator-huggingface [gradio]": "简单计算器拥抱脸 [渐变]",
+  "datu-app [static]": "数据应用程序 [静态]",
+  "mncd-decentralized-agent-mesh [static]": "mncd-分散代理-网格 [静态]",
+  "v2p3-serve [gradio]": "v2p3-服务 [渐变]",
+  "Qwen-Image [gradio]": "Qwen-图像 [构建者]",
+  "armnet-eval [gradio]": "Armnet-评估 [梯度]",
+  "minimal-flappy-bird-game [static]": "最小的 flappy-bird-game [静态]",
+  "simple-calculator [docker]": "简单计算器 [docker]",
+  "Ask HN: If you're burning tokens at scale, what are you using them for?": "问 HN：如果你大规模销毁代币，你用它们做什么？",
+  "How canvases make agentic workflows visible, steerable, and cost-efficient": "画布如何使代理工作流程可见、可操纵且经济高效",
+  "Instagram blocked the search terms. Its algorithm serves the videos anyway": "Instagram 屏蔽了这些搜索词。无论如何，它的算法都会为视频提供服务"
 }
