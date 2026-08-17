@@ -35319,5 +35319,12 @@
   "sgd_classifier [static]": "sgd_classifier [静态]",
   "recover1 [static]": "恢复1 [静态]",
   "cardiometlens [static]": "心脏美特伦 [静态]",
-  "remoteviewing [static]": "远程查看[静态]"
+  "remoteviewing [static]": "远程查看[静态]",
+  "0000000xx [gradio]": "0000000xx [渐变]",
+  "hamza-ai [gradio]": "哈姆扎艾 [已建成]",
+  "BondInsight [gradio]": "BondInsight [已建]",
+  "jarvis-voice [gradio]": "贾维斯之声 [建成]",
+  "nsfw-image-generator [static]": "nsfw-图像生成器 [静态]",
+  "gaussian-splat-engine [static]": "高斯 splat 引擎 [静态]",
+  "resume-checker [gradio]": "简历检查器 [渐变]"
 }
