@@ -34909,5 +34909,20 @@
   "BurnoutProfiler [gradio]": "BurnoutProfiler [渐变]",
   "flavor-pairings [docker]": "风味搭配 [docker]",
   "halluciguard [gradio]": "幻觉卫士[建成]",
-  "Get closer to the game with Gemini and Pixel": "与 Gemini 和 Pixel 一起近距离接触游戏"
+  "Get closer to the game with Gemini and Pixel": "与 Gemini 和 Pixel 一起近距离接触游戏",
+  "Dark_Pattern_Detection_api [gradio]": "Dark_Pattern_Detection_api [渐变]",
+  "code-review-assistant [static]": "代码审查助理 [静态]",
+  "limen-runtime-audit [gradio]": "Limen-运行时-审核 [已构建]",
+  "tracker [docker]": "跟踪器[码头工人]",
+  "lung-segmentation [gradio]": "肺分割[梯度]",
+  "gemma4-31b-jang-crack-chat [static]": "gemma4-31b-jang-crack-chat [静态]",
+  "markdown-converter [docker]": "markdown 转换器 [docker]",
+  "AOSP [docker]": "AOSP [码头工人]",
+  "leap_road_model [docker]": "Leap_Road_Model [码头工人]",
+  "joker-assistant [docker]": "小丑助理 [docker]",
+  "ChineseDiagnostic [gradio]": "中文诊断[梯度]",
+  "ESG [gradio]": "ESG [建成]",
+  "ArchSantara [docker]": "ArchSantara [码头工人]",
+  "samu-hicks [gradio]": "萨姆-希克斯[建成]",
+  "B [static]": "B [静态]"
 }
