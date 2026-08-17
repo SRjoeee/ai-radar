@@ -35312,5 +35312,12 @@
   "nanobananapro_bypassed [static]": "nanobananapro_bypassed [静态]",
   "VideoSan7 [static]": "VideoSan7 [静态]",
   "repro-gram-modular-pretraining [static]": "重新编程模块预训练 [静态]",
-  "adw [docker]": "adw [码头工人]"
+  "adw [docker]": "adw [码头工人]",
+  "plato-api [gradio]": "plato-api [等级]",
+  "paia-hier-space [docker]": "paia-hier-空间 [docker]",
+  "whisper-viraliza [docker]": "耳语-viraliza [docker]",
+  "sgd_classifier [static]": "sgd_classifier [静态]",
+  "recover1 [static]": "恢复1 [静态]",
+  "cardiometlens [static]": "心脏美特伦 [静态]",
+  "remoteviewing [static]": "远程查看[静态]"
 }
