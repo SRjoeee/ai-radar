@@ -35301,5 +35301,16 @@
   "javisdit-addition-conditioning [static]": "javisdit-加法-调节 [静态]",
   "newlinefix [static]": "换行修复[静态]",
   "Agentic AI in a Smolbox": "Smolbox 中的代理 AI",
-  "Tesche-ai/harmonica-transcriber - Reads a photo of printed sheet music and outputs chromatic harmonica tablature: hole, blow/draw, and slide. A small OMR pipeline in numpy/scipy.": "Tesche-ai/harmonica-transcriber - 读取打印乐谱的照片并输出半音阶口琴指法谱：孔、吹/拉和幻灯片。 numpy/scipy 中的小型 OMR 管道。"
+  "Tesche-ai/harmonica-transcriber - Reads a photo of printed sheet music and outputs chromatic harmonica tablature: hole, blow/draw, and slide. A small OMR pipeline in numpy/scipy.": "Tesche-ai/harmonica-transcriber - 读取打印乐谱的照片并输出半音阶口琴指法谱：孔、吹/拉和幻灯片。 numpy/scipy 中的小型 OMR 管道。",
+  "vidgen-bot [gradio]": "vidgen-bot [已构建]",
+  "paroxitonasv3 [static]": "paroxytonasv3 [静态]",
+  "sensering-particle-wave [gradio]": "传感粒子波 [梯度]",
+  "Random_Forest [static]": "随机森林 [静态]",
+  "gaussian-splat-cinema [static]": "高斯-splat-电影院 [静态]",
+  "shade_finding [static]": "寻找阴影 [静态]",
+  "idiouf-dashboard-meteo-senegal [static]": "idiouf-仪表板-meteo-塞内加尔 [静态]",
+  "nanobananapro_bypassed [static]": "nanobananapro_bypassed [静态]",
+  "VideoSan7 [static]": "VideoSan7 [静态]",
+  "repro-gram-modular-pretraining [static]": "重新编程模块预训练 [静态]",
+  "adw [docker]": "adw [码头工人]"
 }
