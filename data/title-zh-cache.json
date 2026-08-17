@@ -35217,5 +35217,21 @@
   "cryptoGTA [static]": "加密GTA [静态]",
   "hyperframes v0.7.110": "超帧 v0.7.110",
   "Alibaba Launches AI Music Generation Model HappyShrimp in Beta": "阿里巴巴推出AI音乐生成模型HappyShrimp内测",
-  "An AI agent's memory changes while reading Harry Potte": "人工智能特工在阅读《哈利·波特》时记忆发生变化"
+  "An AI agent's memory changes while reading Harry Potte": "人工智能特工在阅读《哈利·波特》时记忆发生变化",
+  "StoreSearchAgent": "商店搜索代理",
+  "PLM [gradio]": "PLM [已建]",
+  "voice-clone-xtts [gradio]": "语音克隆-xtts [渐变]",
+  "ats-score-analyzer [gradio]": "ats-分数-分析器 [梯度]",
+  "weedcrop_svm_classifier [gradio]": "weedcrop_svm_classifier [梯度]",
+  "my-first-ai-bot [gradio]": "我的第一个人工智能机器人 [渐变]",
+  "final-agent-submission [static]": "最终代理提交[静态]",
+  "daniel-savu-ai-engine [static]": "丹尼尔-萨武-ai-engine [静态]",
+  "dermascan [static]": "皮肤扫描仪[静态]",
+  "Kurmnji-ASR-Demo-v2 [gradio]": "Kurmnji-ASR-Demo-v2 [渐变]",
+  "french-asr-benchmark-dashboard [static]": "french-asr-benchmark-dashboard [静态]",
+  "Same Cluster, 33 Points More Utilization: What Changed Was the Order": "相同的集群，利用率增加了 33 个点：改变的是顺序",
+  "zafar_cricket_hub [gradio]": "zafar_cricket_hub [建造者]",
+  "idiouf-afripluie-dashboard [static]": "idiouf-afripluie-仪表板 [静态]",
+  "devserver [docker]": "开发服务器 [docker]",
+  "audio-qc-tool [static]": "音频质量控制工具 [静态]"
 }
