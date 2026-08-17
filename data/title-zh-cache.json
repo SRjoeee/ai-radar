@@ -34875,5 +34875,21 @@
   "GPT-5.6 Sol 1M in Codex. This used to only work for API keys, but we just flipped the switch and works for usage through ChatGPT accounts now too. The same warning applies, there is a reason the current context length...": "Codex 中的 GPT-5.6 Sol 1M。过去，这仅适用于 API 密钥，但我们只是翻转了开关，现在也可以通过 ChatGPT 帐户使用。同样的警告适用，当前上下文长度是有原因的......",
   "it says a lot that the creators of three of the most iconic web frameworks: django (@simonw), flask (@mitsuhiko) and rails (@dhh) were so AI pilled so early": "它充分说明了三个最具标志性的 Web 框架的创建者：django (@simonw)、flask (@mitsuhiko) 和 Rails (@dhh) 这么早就被 AI 抛弃了",
   "Here is how to enable a 1M-token context window in Codex for GPT-5.6 Sol. Even though we have tuned the context limit in Codex to be set optimally when it comes to performance and cost, this is a common ask, so here i...": "以下是如何在 Codex 中为 GPT-5.6 Sol 启用 1M 令牌上下文窗口。尽管我们已经调整了 Codex 中的上下文限制，以便在性能和成本方面进行最佳设置，但这是一个常见的问题，所以在这里我...",
-  "AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending $660/mo per employee on AI. But the general...": "人工智能支出还远远没有达到极限。显然，这些数据主要针对以工程为中心的公司，排名前 1% 的公司每名员工每月在人工智能上的支出为 7,500 美元，排名前 10% 的公司每月花费 660 美元。但一般..."
+  "AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending $660/mo per employee on AI. But the general...": "人工智能支出还远远没有达到极限。显然，这些数据主要针对以工程为中心的公司，排名前 1% 的公司每名员工每月在人工智能上的支出为 7,500 美元，排名前 10% 的公司每月花费 660 美元。但一般...",
+  "heatseekermp4 [static]": "heatseekermp4 [静态]",
+  "lentiprint-decoupage [static]": "lentiprint 剪纸 [静态]",
+  "vermillion-tech-premium-redesign [static]": "朱红科技高级重新设计 [静态]",
+  "Chandra_OCR_2 [gradio]": "Chandra_OCR_2 [构建者]",
+  "wlchecker [docker]": "wlchecker [码头工人]",
+  "Enterprise-Assistant-food-Industry [gradio]": "企业-助理-食品-行业 [渐变]",
+  "handwriting-digitizer [gradio]": "手写数字转换器 [渐变]",
+  "NMT-2026 [docker]": "NMT-2026 [码头工人]",
+  "infra-predictive-optimization-mlops-gradio [gradio]": "帧内预测优化-mlops-梯度 [梯度]",
+  "SM_SEGMENTATION [gradio]": "SM_SEGMENTATION [渐变]",
+  "product-prep-tool": "产品准备工具",
+  "TTT [docker]": "TTT [码头工人]",
+  "Gobo_Measure [static]": "Gobo_Measure [静态]",
+  "cybench-irt-pilot [static]": "cybench-irt-pilot [静态]",
+  "basicctemppfs [static]": "basicctemppfs [静态]",
+  "AI-CFO-AGENT [docker]": "AI-CFO-代理 [docker]"
 }
