@@ -35354,5 +35354,20 @@
   "helther626 [docker]": "helther626 [码头工人]",
   "bgm [docker]": "背景音乐[码头工人]",
   "ai4all [streamlit]": "ai4all [流线型]",
-  "clipcurator/ai-video-understanding-speaker-context-moment-boundary-scorecards - Scorecards for AI video understanding speaker context, moment boundaries, timestamp proof, trim risk, confidence notes, and human review.": "Clipcurator/ai-video-understanding-speaker-context-moment-boundary-scorecards - 用于 AI 视频理解说话者上下文、时刻边界、时间戳证明、修剪风险、置信度注释和人工审核的记分卡。"
+  "clipcurator/ai-video-understanding-speaker-context-moment-boundary-scorecards - Scorecards for AI video understanding speaker context, moment boundaries, timestamp proof, trim risk, confidence notes, and human review.": "Clipcurator/ai-video-understanding-speaker-context-moment-boundary-scorecards - 用于 AI 视频理解说话者上下文、时刻边界、时间戳证明、修剪风险、置信度注释和人工审核的记分卡。",
+  "akitaonrails/ai-memory": "akitaonrails/ai-内存",
+  "VR-MEDIA [docker]": "VR-媒体 [docker]",
+  "huggingface [static]": "拥抱脸[静态]",
+  "html [gradio]": "html [构建]",
+  "espacio1 [static]": "espacio1 [静态]",
+  "Thirst-Aide [static]": "止渴助手 [静态]",
+  "reverse-etymology [docker]": "逆向词源 [docker]",
+  "TinyPython [gradio]": "TinyPython [渐变]",
+  "balajiy_career_agent [gradio]": "balajiy_career_agent [渐变]",
+  "NormalCrafter-Demo [static]": "NormalCrafter-演示 [静态]",
+  "tdanime-ai [static]": "tdanime-ai [静态]",
+  "LFM-3B-SFT-Demo [gradio]": "LFM-3B-SFT-演示 [渐变]",
+  "gongxieruifeng/GeoME - GeoME: A training-free multi-stage adversarial abductive reasoning agent for visual geographic localization. Implements a Candidate-Debate-Judge-Reflect closed loop with Devil’s Advocate evidence extraction, Belief Entropy-driven reflection, and dynamic Feature Evasion to suppress misleading visual priors in LVLMs.": "gongxieruifeng/GeoME - GeoME：用于视觉地理定位的免训练多阶段对抗性溯因推理代理。通过魔鬼代言人证据提取、信念熵驱动的反射和动态特征规避来实现候选人-辩论-法官-反思闭环，以抑制 LVLM 中误导性的视觉先验。",
+  "zouerdong/gemini-vision - Add eyes and ears to Claude Code (suitable for Deepseek, GLM and other similar LLMs).": "zouerdong/gemini-vision - 为 Claude 代码添加眼睛和耳朵（适合 Deepseek、GLM 和其他类似的 LLM）。",
+  "Ambisonics Encoding of Room Impulse Responses using a Device-Agnostic Diffusion Model": "使用与设备无关的扩散模型对房间脉冲响应进行高保真度立体声响编码"
 }
