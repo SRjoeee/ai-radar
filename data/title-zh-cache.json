@@ -35733,5 +35733,21 @@
   "Show HN: Agent-codemode – scripts your agent writes can call your MCP servers": "显示 HN：代理代码模式 – 您的代理编写的脚本可以调用您的 MCP 服务器",
   "Show HN: Tracelint – a linter for AI agent traces, no LLM judge": "Show HN：Tracelint – AI 代理跟踪的 linter，没有 LLM 判断",
   "Show HN: I gave every AI agent a way to create and publish artifacts": "Show HN：我为每个人工智能代理提供了一种创建和发布工件的方法",
-  "5JjiaLin/key-points-ai-video - AI knowledge navigation for videos: instant understanding patches, single-video knowledge maps, and multi-video learning-path reconstruction.": "5JjiaLin/key-point-ai-video - 视频的人工智能知识导​​航：即时理解补丁、单视频知识图谱和多视频学习路径重建。"
+  "5JjiaLin/key-points-ai-video - AI knowledge navigation for videos: instant understanding patches, single-video knowledge maps, and multi-video learning-path reconstruction.": "5JjiaLin/key-point-ai-video - 视频的人工智能知识导​​航：即时理解补丁、单视频知识图谱和多视频学习路径重建。",
+  "Benchmark-Hub [static]": "基准中心 [静态]",
+  "Fath_attendance [static]": "Fath_attendance [静态]",
+  "unified-knowledge-agent [docker]": "统一知识代理 [docker]",
+  "iCareApplication [gradio]": "iCareApplication [构建者]",
+  "voice-guided-object-detection [gradio]": "语音引导对象检测 [gradio]",
+  "lyra [gradio]": "天琴座[建成]",
+  "my-ai-chatbot [gradio]": "my-ai-聊天机器人 [渐变]",
+  "floor-visualizer-gpu [docker]": "地板可视化器 GPU [docker]",
+  "livebook [static]": "直播簿[静态]",
+  "live-fold [static]": "活动折叠[静态]",
+  "ScamShield-nlp [gradio]": "ScamShield-nlp [内置]",
+  "workflow-save-tospace [gradio]": "工作流程保存到空间 [gradio]",
+  "VideoGen [gradio]": "VideoGen [构建者]",
+  "virtualfit [gradio]": "虚拟拟合[构建]",
+  "building-bot [static]": "建筑机器人 [静态]",
+  "Show HN: Pharos – A package manager for MCP servers (like NPM, but for MCP)": "Show HN：Pharos – MCP 服务器的包管理器（类似于 NPM，但适用于 MCP）"
 }
