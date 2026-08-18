@@ -35339,5 +35339,20 @@
   "Trivia_model [gradio]": "Trivia_model [年级]",
   "job-decision-engine [docker]": "工作决策引擎 [docker]",
   "te-whitinga-reo [gradio]": "渐变[渐变]",
-  "hyperframes v0.8.0": "超帧 v0.8.0"
+  "hyperframes v0.8.0": "超帧 v0.8.0",
+  "VITA-Wound-Engine [docker]": "VITA-伤口引擎 [docker]",
+  "AutoAttendance [docker]": "自动考勤 [docker]",
+  "toral-address [static]": "目标地址 [静态]",
+  "olmo-3-7b-rl-zero-math [gradio]": "olmo-3-7b-rl-零数学 [渐变]",
+  "Seed-SVC [gradio]": "种子-SVC [已构建]",
+  "CellposeCellCounterMobile [gradio]": "CellposeCellCounterMobile [内置]",
+  "paruls-ai-resume [gradio]": "paruls-ai-resume [渐变]",
+  "km-voice-clone [static]": "km-voice-clone [静态]",
+  "CIS_BalNus [static]": "CIS_BalNus [静态]",
+  "voxpilot-voice-api": "voxpilot 语音 API",
+  "Qwen3.8-27B-Radiology-Impression-Demo [static]": "Qwen3.8-27B-放射学-印象-演示 [静态]",
+  "helther626 [docker]": "helther626 [码头工人]",
+  "bgm [docker]": "背景音乐[码头工人]",
+  "ai4all [streamlit]": "ai4all [流线型]",
+  "clipcurator/ai-video-understanding-speaker-context-moment-boundary-scorecards - Scorecards for AI video understanding speaker context, moment boundaries, timestamp proof, trim risk, confidence notes, and human review.": "Clipcurator/ai-video-understanding-speaker-context-moment-boundary-scorecards - 用于 AI 视频理解说话者上下文、时刻边界、时间戳证明、修剪风险、置信度注释和人工审核的记分卡。"
 }
