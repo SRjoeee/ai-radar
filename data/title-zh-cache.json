@@ -35449,5 +35449,21 @@
   "Multi-Agent Embodied Autonomous Driving (MAEAD): From V2X Information Exchange to Shared World Models": "多智能体体现自动驾驶 (MAEAD)：从 V2X 信息交换到共享世界模型",
   "RoE-FND: Synergizing LLMs with Experiential Learning for Effective and Generalizable Evidence-Based Fake News Detection": "RoE-FND：将法学硕士与体验式学习相结合，实现有效且可推广的基于证据的假新闻检测",
   "Distinguishing AI-Generated Music from Edited Audio as a Hard-Negative Robustness Task": "将人工智能生成的音乐与编辑后的音频区分开来作为一项硬负鲁棒性任务",
-  "Geometry-adaptive Ambisonic encoding for sparse microphone arrays of variable topology using physics-informed diffusion": "使用物理信息扩散对可变拓扑的稀疏麦克风阵列进行几何自适应高保真度立体声响编码"
+  "Geometry-adaptive Ambisonic encoding for sparse microphone arrays of variable topology using physics-informed diffusion": "使用物理信息扩散对可变拓扑的稀疏麦克风阵列进行几何自适应高保真度立体声响编码",
+  "HRMS [static]": "HRMS [静态]",
+  "Pump-Power-Calculator": "泵功率计算器",
+  "D2 [docker]": "D2 [码头工人]",
+  "TechGraphic [static]": "技术图解 [静态]",
+  "userbot-immagini [gradio]": "userbot-图像 [等级]",
+  "XenonAI [gradio]": "XenonAI [构建者]",
+  "Prysai-LLM-Playbook [static]": "Prysai-LLM-手册 [静态]",
+  "quantacompute-backend [docker]": "量子计算后端 [docker]",
+  "NexusTrade-backend [docker]": "NexusTrade 后端 [docker]",
+  "waste_cnn [gradio]": "Waste_cnn [已建]",
+  "hms [docker]": "嗯[码头工人]",
+  "Noumi_video [gradio]": "Noumi_video [制作者]",
+  "world-frame-offset-0519 [static]": "世界框架偏移-0519 [静态]",
+  "My_Ai_Assistant [gradio]": "My_Ai_Assistant [渐变]",
+  "Cached LLM Probability Retrieval for Speech Recognition": "用于语音识别的缓存 LLM 概率检索",
+  "Paitify – authorization layer so AI agents can't overspend": "Paitify – 授权层，让人工智能代理不会超支"
 }
