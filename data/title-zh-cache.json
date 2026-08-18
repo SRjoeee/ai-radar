@@ -35647,5 +35647,21 @@
   "serial-ai-generator [static]": "串行 ai 生成器 [静态]",
   "qwen3-test [gradio]": "qwen3-测试 [渐变]",
   "An MCP server that turns a Claude conversation into scheduled carousels": "一个 MCP 服务器，可将 Claude 对话转换为预定的轮播",
-  "The Powerful Chinese AI Model Experts Warned About Is Here": "专家警告的中国强大AI模型来了"
+  "The Powerful Chinese AI Model Experts Warned About Is Here": "专家警告的中国强大AI模型来了",
+  "nanoforecast [gradio]": "纳米预测 [梯度]",
+  "222 [static]": "222 [静态]",
+  "Trip-Planning [static]": "旅行计划[静态]",
+  "PixArt [docker]": "原相 [docker]",
+  "runloopable [docker]": "可运行[docker]",
+  "Ahmad_Mustafa_Iqbal_Portfolio [gradio]": "Ahmad_Mustafa_Iqbal_Portfolio [建造者]",
+  "wan2-2-s2v-14b [gradio]": "wan2-2-s2v-14b [内置]",
+  "Adversarial_Prompt_Injection_Detector [gradio]": "Adversarial_Prompt_Injection_Detector [渐变]",
+  "Chara [gradio]": "查拉[建成]",
+  "lora-ease [gradio]": "lora-ease [已建]",
+  "HASHFOR_AUTONOMOUS_BACKEND [static]": "HASHFOR_AUTONOMOUS_BACKEND [静态]",
+  "Aglimate [docker]": "阿里迈特 [ Docker ]",
+  "ihuzaifashoukat/splicedeck - A local-first video editor an AI agent drives. Templates, motion graphics and captions in one call; one pass gives a long-form master and vertical clips; it remembers how each client likes to be cut. MCP server + CLI, ffmpeg as a child process, zero runtime dependencies.": "ihuzaifashoukat/splicedeck - AI 代理驱动的本地优先视频编辑器。一次调用即可获得模板、动态图形和字幕；一次通过即可获得长格式母版和垂直剪辑；它会记住每个客户喜欢的切割方式。 MCP服务器+CLI，ffmpeg作为子进程，零运行时依赖。",
+  "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems (Anthropic)": "心灵病毒：多智能体 LLM 系统中的自我传播思想（人择）",
+  "Show HN: Zeroparams, a coding agent with zero parameters because it's just me": "Show HN：Zeroparams，一个零参数的编码代理，因为只有我一个人",
+  "Rewriting a production compiler's IR with AI agents in five weeks": "在五周内使用 AI 代理重写生产编译器的 IR"
 }
