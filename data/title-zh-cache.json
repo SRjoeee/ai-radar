@@ -35947,5 +35947,19 @@
   "reachy-openai-realtime [static]": "reachy-openai-实时 [静态]",
   "Show HN: ResumeSkip – automatically tailor your resume to jobs": "Show HN：ResumeSkip – 自动根据职位定制您的简历",
   "Show HN: Maritime, a platform for running AI agents for $1 a month": "Show HN：Maritime，一个运行 AI 代理的平台，每月 1 美元",
-  "How NVIDIA scales expertise with ChatGPT Work": "NVIDIA 如何通过 ChatGPT Work 扩展专业知识"
+  "How NVIDIA scales expertise with ChatGPT Work": "NVIDIA 如何通过 ChatGPT Work 扩展专业知识",
+  "playground [gradio]": "游乐场 [渐变]",
+  "zerogpu-chat [gradio]": "ZeroGPU-聊天[内置]",
+  "careinsight-ai [gradio]": "Careinsight-ai [等级]",
+  "guess-quiz-battle-football-quiz-en-ligne [static]": "猜测测验-战斗足球测验-在线 [静态]",
+  "sama-ai-video [static]": "sama-ai-视频 [静态]",
+  "smaug-agentic-studio [gradio]": "smaug-agentic-studio [渐变]",
+  "Muse_T2Mark [gradio]": "Muse_T2Mark [构建者]",
+  "alt-text-api [static]": "替代文本-api [静态]",
+  "snap_voice_demo3 [gradio]": "snap_voice_demo3 [渐变]",
+  "Dr_Hakeem_V1 [docker]": "Dr_Hakeem_V1 [码头工人]",
+  "Lora [static]": "洛拉[静态]",
+  "V [static]": "V [静态]",
+  "alt-text-api-landing [static]": "alt-text-api-landing [静态]",
+  "wolfiesch/omp-best-of - Best-of-N coding agents with LLM-as-a-Verifier selection for Oh My Pi: isolated git worktrees, verifier-ranked trajectories, winner-only patch application": "Wolfiesch/omp-best-of - Oh My Pi 的 N 最佳编码代理，具有 LLM 作为验证者选择：独立的 git 工作树、验证者排名轨迹、仅限获胜者的补丁应用程序"
 }
