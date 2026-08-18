@@ -35784,5 +35784,15 @@
   "Ro-Agro-Safe-Guard [static]": "Ro-Agro-Safe-Guard [静态]",
   "crop_disease_classifier [static]": "Crop_disease_classifier [静态]",
   "my-super-proxy [static]": "我的超级代理 [静态]",
-  "slyte [gradio]": "斯莱特[建成]"
+  "slyte [gradio]": "斯莱特[建成]",
+  "rose [gradio]": "玫瑰[建成]",
+  "qwen-gyaani-27b [static]": "qwen-gyaani-27b [静态]",
+  "oto4t-backend [gradio]": "oto4t-后端 [已构建]",
+  "Eureka-Chatbot [gradio]": "Eureka-Chatbot [构建者]",
+  "ai-creator-image [static]": "ai-creator-图像 [静态]",
+  "enterprise-ai-platform [gradio]": "企业人工智能平台[建成]",
+  "alpha-ai [static]": "阿尔法-AI [静态]",
+  "nexus_search_engine [static]": "nexus_search_engine [静态]",
+  "clip-vit-art-lab [gradio]": "剪辑-vit-艺术-实验室 [建成]",
+  "Assistant [docker]": "助理[码头工人]"
 }
