@@ -35595,5 +35595,19 @@
   "medical-rag-api [gradio]": "医疗-rag-api [等级]",
   "persian-plate-recognition [gradio]": "波斯车牌识别 [gradio]",
   "Sean-Afamefuna-Waste-Classification-Model [docker]": "Sean-Afamefuna-废物分类模型 [docker]",
-  "Paraphrasis-staging [gradio]": "释义：阶段[阶段]"
+  "Paraphrasis-staging [gradio]": "释义：阶段[阶段]",
+  "agritech-chatbot-frontend [docker]": "农业科技聊天机器人前端 [docker]",
+  "Roman01.adigea.ru [gradio]": "Roman01.adigea.ru [已建]",
+  "cursor-wasm-demo [static]": "光标-wasm-演示 [静态]",
+  "LLM-Settings-Guide [static]": "LLM-设置-指南 [静态]",
+  "newsalert [docker]": "新闻警报 [docker]",
+  "Amigoai [static]": "朋友 [静态]",
+  "clinical-decision-support-rag [docker]": "临床决策支持抹布 [docker]",
+  "grape-disease-ai [gradio]": "葡萄病害 ai [梯度]",
+  "RavoX_AI [gradio]": "RavoX_AI [渐变]",
+  "transport-war-room [streamlit]": "运输作战室 [streamlit]",
+  "formula_altsearch [gradio]": "Formula_altsearch [已构建]",
+  "Nutral-Reasoning [docker]": "自然推理 [docker]",
+  "Simple_Calculator [gradio]": "简单_计算器 [渐变]",
+  "unitwise-b [docker]": "单位-b [docker]"
 }
