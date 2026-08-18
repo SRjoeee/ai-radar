@@ -35326,5 +35326,18 @@
   "jarvis-voice [gradio]": "贾维斯之声 [建成]",
   "nsfw-image-generator [static]": "nsfw-图像生成器 [静态]",
   "gaussian-splat-engine [static]": "高斯 splat 引擎 [静态]",
-  "resume-checker [gradio]": "简历检查器 [渐变]"
+  "resume-checker [gradio]": "简历检查器 [渐变]",
+  "realwaste-classifier [gradio]": "真实废物分类器 [gradio]",
+  "facebook-to-text [gradio]": "脸书转文字 [渐变]",
+  "telegram-auto-like-bot [gradio]": "telegram-auto-like-bot [内置]",
+  "hamza-ai [static]": "哈姆扎艾 [静态]",
+  "hyperframes v0.8.1": "超帧 v0.8.1",
+  "SDKstream [static]": "SDKstream [静态]",
+  "LFMR-demo [gradio]": "LFMR-演示 [已构建]",
+  "football-coach-demo [gradio]": "足球教练演示 [已构建]",
+  "self-healing-autopoietic-shell [static]": "自我修复-自生成-外壳[静态]",
+  "Trivia_model [gradio]": "Trivia_model [年级]",
+  "job-decision-engine [docker]": "工作决策引擎 [docker]",
+  "te-whitinga-reo [gradio]": "渐变[渐变]",
+  "hyperframes v0.8.0": "超帧 v0.8.0"
 }
