@@ -36484,5 +36484,16 @@
   "text-to-video-ms-demo [gradio]": "文本到视频 MS 演示 [渐变]",
   "livestockguardian [docker]": "牲畜监护人 [码头工人]",
   "mi-tooljet-app": "mi-tooljet-应用程序",
-  "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模"
+  "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+  "CreepyFlux [gradio]": "CreepyFlux [渐变]",
+  "hinchadas [gradio]": "肿胀[程度]",
+  "dizon1 [static]": "dizon1 [静态]",
+  "my-streamlit-demo [static]": "my-streamlit-demo [静态]",
+  "Developing NVIDIA Holoscan applications with CLI, skills, and AI coding agents": "使用 CLI、技能和 AI 编码代理开发 NVIDIA Holoscan 应用程序",
+  "fairchem_leaderboard [gradio]": "fairchem_leaderboard [梯度]",
+  "iris-prediction-app [gradio]": "虹膜预测应用程序 [gradio]",
+  "msm_kh_30_bot [docker]": "msm_kh_30_bot [码头工人]",
+  "Everyone's Using This A.I. Dictation App That I Want to Murder with a Hammer": "每个人都在使用这个人工智能我想用锤子谋杀的听写应用",
+  "Reclaim the Terminal": "夺回终端",
+  "Show HN: Naeos – an engineering system for AI coding agents": "Show HN：Naeos——人工智能编码代理的工程系统"
 }
