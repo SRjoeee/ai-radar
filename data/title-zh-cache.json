@@ -36350,5 +36350,21 @@
   "image_classification [static]": "图像分类 [静态]",
   "TG [gradio]": "TG [等级]",
   "TARQ-LB [gradio]": "TARQ-LB [梯度]",
-  "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams": "推出 HN：OneCLI (YC S26) – 适用于团队的 OSS 沙盒代理工具"
+  "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams": "推出 HN：OneCLI (YC S26) – 适用于团队的 OSS 沙盒代理工具",
+  "Offering Zero Data Retention for frontier models": "为前沿模型提供零数据保留",
+  "promptforge-ai [gradio]": "Promptforge-ai [已构建]",
+  "saanvi-ai-study-tutor [static]": "saanvi-ai-study-tutor [静态]",
+  "My_Remixer [static]": "My_Remixer [静态]",
+  "pdf-research-assistant [gradio]": "pdf-研究助理 [渐变]",
+  "softvt-object-soft-benchmark [static]": "softvt-object-soft-benchmark [静态]",
+  "hydro-ai-reading-2026-08-17 [static]": "Hydro-ai-reading-2026-08-17 [静态]",
+  "ai-quant-trader [static]": "ai-quant-trader [静态]",
+  "nailong-head-replacer [gradio]": "naillong-head-replacer [渐变]",
+  "screenpipe Screenpipe App v2.6.64": "screenpipe Screenpipe 应用程序 v2.6.64",
+  "orpheus-swiss-german-lora-demo [gradio]": "Orpheus-瑞士-德语-lora-demo [渐变]",
+  "testbot [docker]": "测试机器人[docker]",
+  "detection [static]": "检测[静态]",
+  "call-in-podcast [docker]": "拨入播客 [docker]",
+  "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks": "程序员表示他们已经找到了克劳德隐形水印的解决方法",
+  "TheHolyOneZ/ZScribe - Local-first desktop recorder that transcribes and summarises conversations entirely on your own machine. On-device Whisper, structured summaries with action items via Ollama (or Gemini/OpenAI), speaker labels, full-text search, Obsidian export. No account, no server, no telemetry. Windows·Linux·macOS": "TheHolyOneZ/ZScribe - 本地优先的桌面录音机，完全在您自己的计算机上转录和总结对话。设备上 Whisper、通过 Ollama（或 Gemini/OpenAI）操作项目的结构化摘要、演讲者标签、全文搜索、Obsidian 导出。没有帐户，没有服务器，没有遥测。 Windows·Linux·macOS"
 }
