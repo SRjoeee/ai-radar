@@ -36470,5 +36470,19 @@
   "gradio-13665-after [gradio]": "gradio-13665-之后 [gradio]",
   "xkxzy [static]": "xkxzy [静态]",
   "brand-intel [gradio]": "品牌英特尔[内置]",
-  "Mp3-to-midi-multithreaded [gradio]": "Mp3 到 midi 多线程 [gradio]"
+  "Mp3-to-midi-multithreaded [gradio]": "Mp3 到 midi 多线程 [gradio]",
+  "nox-studios-chat [static]": "nox-工作室-聊天 [静态]",
+  "Samp [static]": "桑普[静态]",
+  "northwind-terminal [static]": "北风码头 [静态]",
+  "lhm-3dgs [gradio]": "lhm-3dgs [渐变]",
+  "cofamd [gradio]": "cofamd [建成]",
+  "northwind-terminal-test [static]": "北风终端测试 [静态]",
+  "moodtone [static]": "情绪基调[静态]",
+  "taMASRIBERTs [docker]": "taMASRIBERTs [码头工人]",
+  "HeatIQ [gradio]": "HeatIQ [构建者]",
+  "Qwen3-VL-32B-Heretic-Demo [gradio]": "Qwen3-VL-32B-Heretic-演示 [渐变]",
+  "text-to-video-ms-demo [gradio]": "文本到视频 MS 演示 [渐变]",
+  "livestockguardian [docker]": "牲畜监护人 [码头工人]",
+  "mi-tooljet-app": "mi-tooljet-应用程序",
+  "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模"
 }
