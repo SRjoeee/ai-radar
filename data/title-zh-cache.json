@@ -36458,5 +36458,17 @@
   "AI-lab [static]": "AI实验室[静态]",
   "stock-news-sentiment [gradio]": "股票新闻情绪 [gradio]",
   "NedoTokenizer-Demo [static]": "NedoTokenizer-演示 [静态]",
-  "vpos [docker]": "vpos [码头工人]"
+  "vpos [docker]": "vpos [码头工人]",
+  "Pizza-time [gradio]": "披萨时间[建成]",
+  "waz [static]": "瓦兹 [静态]",
+  "BAIROCR [gradio]": "BAIROCR [建造者]",
+  "gemma-4-31b-uncensored-heretic-demo [gradio]": "gemma-4-31b-未经审查的异端演示 [渐变]",
+  "canto-reve-rhythm [gradio]": "唱腔-reve-节奏 [渐变]",
+  "Asynctric-PlayGrounds [docker]": "异步游乐场 [docker]",
+  "cv-rag-bot [gradio]": "cv-rag-bot [无线电]",
+  "prompt-image-segmentation [docker]": "提示图像分割 [docker]",
+  "gradio-13665-after [gradio]": "gradio-13665-之后 [gradio]",
+  "xkxzy [static]": "xkxzy [静态]",
+  "brand-intel [gradio]": "品牌英特尔[内置]",
+  "Mp3-to-midi-multithreaded [gradio]": "Mp3 到 midi 多线程 [gradio]"
 }
