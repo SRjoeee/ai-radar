@@ -36208,5 +36208,19 @@
   "swahiliv1 [gradio]": "斯瓦希里夫1 [建成]",
   "Noma [static]": "诺玛 [静态]",
   "IncluSLvia [static]": "IncludeSLvia [静态]",
-  "bundledex [static]": "捆绑索引 [静态]"
+  "bundledex [static]": "捆绑索引 [静态]",
+  "nextgen-voice-clone [gradio]": "nextgen-语音克隆 [gradio]",
+  "phone-price-predictor [gradio]": "电话价格预测器 [内置]",
+  "face-recognition-sss-beta [docker]": "人脸识别-sss-beta [docker]",
+  "Said [static]": "说[静态]",
+  "sauban-traders [static]": "索班贸易商 [静态]",
+  "PyTic-Tac-Toe [static]": "PyTic-Tac-Toe [静态]",
+  "atelier-backend [docker]": "工作室后端 [docker]",
+  "n8host [static]": "n8host [静态]",
+  "ai-dubbing-studio [gradio]": "人工智能配音工作室[等级]",
+  "clinical-decision-support [static]": "临床决策支持[静态]",
+  "bible-rag-langchain [gradio]": "圣经-rag-langchain [渐变]",
+  "zulu-demo [gradio]": "祖鲁演示 [已构建]",
+  "Telecom-Digitizer [gradio]": "电信数字化仪 [渐变]",
+  "afristereo-leaderboard [gradio]": "afristereo-排行榜 [已建]"
 }
