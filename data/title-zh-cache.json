@@ -36426,5 +36426,20 @@
   "backend-superkart [docker]": "后端超级卡丁车 [docker]",
   "contestSync [docker]": "竞赛同步 [docker]",
   "Eyric-chatbot [docker]": "Eyric-聊天机器人 [docker]",
-  "I Saw the Future of AI in a Robot That Can Learn on the Spot": "我在可以当场学习的机器人中看到了人工智能的未来"
+  "I Saw the Future of AI in a Robot That Can Learn on the Spot": "我在可以当场学习的机器人中看到了人工智能的未来",
+  "audio-lab-custom [static]": "音频实验室自定义 [静态]",
+  "FlowIQ [gradio]": "FlowIQ [渐变]",
+  "trade-engine [static]": "贸易引擎 [静态]",
+  "BAIROCR [docker]": "BAIROCR [码头工人]",
+  "earthmover-aifs-demo [gradio]": "Earthmover-aifs-demo [渐变]",
+  "Speed-radar-server [static]": "测速雷达服务器 [静态]",
+  "background-removal-service [gradio]": "背景去除服务 [渐变]",
+  "geo-feature-finder [static]": "地理特征查找器 [静态]",
+  "ProfessionalDigitalTwin [gradio]": "ProfessionalDigitalTwin [渐变]",
+  "the-context-dividend [static]": "上下文股息 [静态]",
+  "frontier95m [static]": "Frontier95米[静态]",
+  "ML [static]": "机器学习 [静态]",
+  "cvideom-ai-motoru [gradio]": "cvideom-ai-engine [渐变]",
+  "sally-llm-leaderboard [static]": "sally-llm-排行榜 [静态]",
+  "AI-Lab [gradio]": "人工智能实验室 [无线电]"
 }
