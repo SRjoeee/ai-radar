@@ -36441,5 +36441,22 @@
   "ML [static]": "机器学习 [静态]",
   "cvideom-ai-motoru [gradio]": "cvideom-ai-engine [渐变]",
   "sally-llm-leaderboard [static]": "sally-llm-排行榜 [静态]",
-  "AI-Lab [gradio]": "人工智能实验室 [无线电]"
+  "AI-Lab [gradio]": "人工智能实验室 [无线电]",
+  "SCAIL-2 [gradio]": "SCALE-2 [渐变]",
+  "baby-tracker-app [static]": "婴儿追踪器应用程序 [静态]",
+  "test1231 [docker]": "test1231 [码头工人]",
+  "maths_model_test [gradio]": "maths_model_test [梯度]",
+  "faceless-clip-server [docker]": "无面剪辑服务器 [docker]",
+  "ECM_Billing-generator [gradio]": "ECM_计费生成器 [gradio]",
+  "nllb-dioula-fr-demo [gradio]": "nllb-diula-fr-demo [谢谢]",
+  "delete-item-update [static]": "删除项目更新 [静态]",
+  "anytop-dragon [gradio]": "任何顶级龙 [建成]",
+  "flux2-latent-preview [gradio]": "Flux2-潜在预览 [渐变]",
+  "genvis-face-rotation [gradio]": "genvis-face-旋转 [渐变]",
+  "ligpargen [docker]": "利帕根 [码头工人]",
+  "ai-image-detector-space [gradio]": "ai-图像-探测器-空间 [渐变]",
+  "AI-lab [static]": "AI实验室[静态]",
+  "stock-news-sentiment [gradio]": "股票新闻情绪 [gradio]",
+  "NedoTokenizer-Demo [static]": "NedoTokenizer-演示 [静态]",
+  "vpos [docker]": "vpos [码头工人]"
 }
