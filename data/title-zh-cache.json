@@ -36810,5 +36810,20 @@
   "arte [static]": "艺术[静态]",
   "ching [docker]": "清 [码头工人]",
   "ds1000-smc-eval [static]": "ds1000-smc-eval [静态]",
-  "The first AI agents hire human to ship ugc videos for you": "第一批人工智能代理雇佣人类为您发送 UGC 视频"
+  "The first AI agents hire human to ship ugc videos for you": "第一批人工智能代理雇佣人类为您发送 UGC 视频",
+  "urdu-ocr-si26-moazam-v2 [gradio]": "urdu-ocr-si26-moazam-v2 [构建者]",
+  "CS3001 [docker]": "CS3001 [码头工人]",
+  "askdocs-embedding [gradio]": "Askdocs-嵌入 [渐变]",
+  "Autofilldropdown [static]": "自动填充下拉列表[静态]",
+  "Imon-Ai-assistant [docker]": "Imon-Ai-助理 [docker]",
+  "pghyfusiongn-workbench [static]": "pghyfusiongn-workbench [静态]",
+  "the-vision [gradio]": "愿景 [渐变]",
+  "david-leads [docker]": "大卫领导 [docker]",
+  "Code-Switching-Demo [gradio]": "代码切换演示 [gradio]",
+  "windtunnel-results-explorer [static]": "风洞结果浏览器 [静态]",
+  "minecraft-v1 [static]": "我的世界-v1 [静态]",
+  "GPSproject [docker]": "GPS项目 [docker]",
+  "ai-target-language-purity-demo-1 [gradio]": "ai-目标语言-纯度-demo-1 [渐变]",
+  "whisper.cpp v1.9.3": "耳语.cpp v1.9.3",
+  "whisper.cpp b4938": "耳语.cpp b4938"
 }
