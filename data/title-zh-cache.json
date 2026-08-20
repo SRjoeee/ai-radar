@@ -37043,5 +37043,16 @@
   "Exersuite3d-descargas [docker]": "Exersuite3d-下载 [docker]",
   "Veight [static]": "维特 [静态]",
   "question-search-tool [docker]": "问题搜索工具 [docker]",
-  "chronorepo [docker]": "计时 [docker]"
+  "chronorepo [docker]": "计时 [docker]",
+  "telc0trainer [static]": "telc0trainer [静态]",
+  "mcp-server-2 [gradio]": "mcp-server-2 [渐变]",
+  "sha8alni [gradio]": "sha8alni [渐变]",
+  "yolcu-app [static]": "乘客应用程序 [静态]",
+  "qwen35-2b-qwen36-27b-candidate-explorer [static]": "qwen35-2b-qwen36-27b-candidate-explorer [静态]",
+  "avion-backend [static]": "avion-后端 [静态]",
+  "hermes-2-dashboard [static]": "Hermes-2-仪表板 [静态]",
+  "Show HN: PingChange – monitor web pages and OpenAPI specs for meaningful changes": "Show HN：PingChange – 监控网页和 OpenAPI 规范以进行有意义的更改",
+  "TurkBench [gradio]": "TurkBench [渐变]",
+  "ControlNet-v1-1 [gradio]": "ControlNet-v1-1 [内置]",
+  "Laptop_price_tier_predictor [static]": "Laptop_price_tier_predictor [静态]"
 }
