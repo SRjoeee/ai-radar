@@ -36530,5 +36530,19 @@
   "EmbstudioOfficial____ [static]": "EmbstudioOfficial___ [静态]",
   "EmbstudioOfficial_ [static]": "Embstudio官方_ [静态]",
   "hyperframes v0.8.4": "超帧 v0.8.4",
-  "album-art-analysis [gradio]": "专辑艺术分析 [渐变]"
+  "album-art-analysis [gradio]": "专辑艺术分析 [渐变]",
+  "pocket-tts-demo [static]": "pocket-tts-demo [静态]",
+  "planetar-backend [gradio]": "行星后端 [gradio]",
+  "AIOST [docker]": "AIOST [码头工人]",
+  "rypak [static]": "rypak [静态]",
+  "bit-backtest-lab [gradio]": "位回测实验室 [梯度]",
+  "NLP-Model-Test [gradio]": "NLP-模型-测试 [构建]",
+  "anima-29b-studio [gradio]": "anima-29b-studio [等级]",
+  "medical-rag-RAGsters [static]": "医疗抹布 RAGsters [静态]",
+  "Rag_mlop [docker]": "Rag_mlop [码头工人]",
+  "bingai [docker]": "码头工人[码头工人]",
+  "logo [static]": "标志[静态]",
+  "hypertensionrag [gradio]": "高血压[梯度]",
+  "bigoc [gradio]": "偏执狂[建]",
+  "xuxun-oss/dsh-vision-imagen - DeepSeek Harness all-in-one: no model switching — regular DeepSeek auto-routes to vision & image gen. Multi-backend: Gemini + any OpenAI-compatible (GPT-4o, Qwen-VL, GLM-4V, gpt-image, DALL-E, Flux, OpenRouter). gemini_vision/gemini_generate_image/gemini_optimize_image with vision self-check. Better than modlens.": "xuxun-oss/dsh-vision-imagen - DeepSeek Harness 一体化：无模型切换 - 常规 DeepSeek 自动路由到视觉和图像生成。多后端：Gemini + 任何 OpenAI 兼容（GPT-4o、Qwen-VL、GLM-4V、gpt-image、DALL-E、Flux、OpenRouter）。 gemini_vision/gemini_generate_image/gemini_optimize_image 具有视觉自检功能。比模型好。"
 }
