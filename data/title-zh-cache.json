@@ -37078,5 +37078,16 @@
   "oO-TTS-voice-fusion [gradio]": "oO-TTS-语音融合 [渐变]",
   "huggingface-static-18af6f [static]": "Huggingface-static-18af6f [静态]",
   "Sears didn't miss e-commerce – Eddie Lampert stripped it [video]": "西尔斯并没有错过电子商务——埃迪·兰伯特剥夺了它[视频]",
-  "Stampli cuts launch hours by 68% using ChatGPT Work": "Stampli 使用 ChatGPT Work 将启动时间缩短了 68%"
+  "Stampli cuts launch hours by 68% using ChatGPT Work": "Stampli 使用 ChatGPT Work 将启动时间缩短了 68%",
+  "maginot-bypass [gradio]": "马其诺绕过 [gradio]",
+  "minevraftbpt [static]": "minevraftbpt [静态]",
+  "Chatbot-Factory [static]": "聊天机器人工厂 [静态]",
+  "lawn-estimator [docker]": "草坪估计器 [docker]",
+  "minecraftafkbot": "我的世界AFK机器人",
+  "telegram-store-bot [gradio]": "电报商店机器人 [gradio]",
+  "diffusiondb-sd15-lora [gradio]": "Diffusiondb-sd15-lora [内置]",
+  "maker-mosaic-voice-studio [gradio]": "制造商马赛克语音工作室 [渐变]",
+  "Book-layout-for-printing [gradio]": "书籍印刷版式 [渐变]",
+  "Building safe MCP servers for a PostgreSQL database": "为 PostgreSQL 数据库构建安全的 MCP 服务器",
+  "elbruno/ElBruno.S1Mini - Local ASR transcript cleanup in .NET with superwhisper/s1-mini and ONNX Runtime GenAI. Removes fillers, collapses stutters, fixes punctuation. Auto-downloads models from HuggingFace.": "elbruno/ElBruno.S1Mini - 使用 superwhisper/s1-mini 和 ONNX Runtime GenAI 在 .NET 中进行本地 ASR 转录清理.删除填充物、消除口吃、修复标点符号。从 HuggingFace 自动下载模型。"
 }
