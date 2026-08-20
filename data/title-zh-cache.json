@@ -36658,5 +36658,22 @@
   "english-f5-tts-demo [gradio]": "english-f5-tts-demo [渐变]",
   "lncrna-localization-app [gradio]": "lncrna-本地化-应用程序 [渐变]",
   "Omni-Image-Editor [gradio]": "全方位图像编辑器 [构建者]",
-  "amit-maurya-digital-twin [gradio]": "amit-maurya-digital-twin [渐变]"
+  "amit-maurya-digital-twin [gradio]": "amit-maurya-digital-twin [渐变]",
+  "rl-feedback-prioritization [static]": "rl-反馈优先级 [静态]",
+  "MiniMax-H3 [gradio]": "MiniMax-H3 [渐变]",
+  "Bill_reading [static]": "Bill_reading [静态]",
+  "age [gradio]": "年龄[建成]",
+  "ring-sizer [docker]": "戒指大小测定器 [docker]",
+  "rag-chatbot [gradio]": "rag-chatbot [渐变]",
+  "MolecuRank_Demo [gradio]": "MolecuRank_Demo [构建者]",
+  "ImgProcFadia [gradio]": "ImgProcFadia [构建者]",
+  "action100m-preview-cases [static]": "action100m-预览案例 [静态]",
+  "River_Network [gradio]": "River_Network [建立者]",
+  "GestionPro [streamlit]": "GestionPro [流线型]",
+  "SegmentAnythingDemo [gradio]": "SegmentAnythingDemo [已构建]",
+  "omnitask-ai [static]": "全方位任务-ai [静态]",
+  "chatterbox-egyptian-tts-studio [gradio]": "话匣子-埃及-tts-工作室 [渐变]",
+  "Hiraya-Multimodal-AI [gradio]": "Hiraya-Multimodal-AI [无线电]",
+  "LTX-2.5 [gradio]": "LTX-2.5 [内置]",
+  "Gakia457/AgenticSeg-RL - Agentic reinforcement learning for reasoning-driven image segmentation with multi-task reward routing, self-correction data synthesis, and rollout diagnostics.": "Gakia457/AgenticSeg-RL - 用于推理驱动的图像分割的代理强化学习，具有多任务奖励路由、自校正数据合成和推出诊断。"
 }
