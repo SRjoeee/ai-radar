@@ -36566,5 +36566,20 @@
   "connect-ai-artnfull-lunarlander [gradio]": "connect-ai-artnfull-lunarlander [渐变]",
   "NeuroBench [gradio]": "NeuroBench [构建者]",
   "Index your images and videos locally": "在本地索引您的图像和视频",
-  "AI Agents that are Portable": "便携式 AI 代理"
+  "AI Agents that are Portable": "便携式 AI 代理",
+  "Screener": "筛选器",
+  "tku-backend [docker]": "tku-后端 [docker]",
+  "Damaracan-Translator [docker]": "达马拉坎-翻译器 [docker]",
+  "showcase [static]": "展示[静态]",
+  "cfy [gradio]": "cfy [已建成]",
+  "aditya-digital-twin [gradio]": "aditya-digita-twin [渐变]",
+  "KairomAI [static]": "KairomAI [静态]",
+  "superkart-sales-backend [static]": "superkart-销售后端 [静态]",
+  "SuperKartSales-Frontend [docker]": "SuperKartSales-前端 [docker]",
+  "photo-sticker-maker [gradio]": "照片贴纸制作器[已构建]",
+  "research-ai [gradio]": "研究-AI [等级]",
+  "fb-comments-crawler-space [gradio]": "fb-comments-crawler-space [渐变]",
+  "AsthmaCDS [static]": "哮喘 CDS [静态]",
+  "song_recommendation [gradio]": "歌曲推荐 [渐变]",
+  "ecomyseo/generador-de-contenido - Turn a book, a URL or just an idea into a finished YouTube episode: AI writes the script, generates the images, clones your voice and assembles the MP4 with ffmpeg. Runs entirely on your machine. Windows, macOS and Linux.": "ecomyseo/generador-de-contenido - 将一本书、一个 URL 或只是一个想法变成一个完成的 YouTube 剧集：AI 编写脚本、生成图像、克隆您的声音并使用 ffmpeg 组装 MP4。完全在您的机器上运行。 Windows、macOS 和 Linux。"
 }
