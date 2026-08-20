@@ -37054,5 +37054,15 @@
   "Show HN: PingChange – monitor web pages and OpenAPI specs for meaningful changes": "Show HN：PingChange – 监控网页和 OpenAPI 规范以进行有意义的更改",
   "TurkBench [gradio]": "TurkBench [渐变]",
   "ControlNet-v1-1 [gradio]": "ControlNet-v1-1 [内置]",
-  "Laptop_price_tier_predictor [static]": "Laptop_price_tier_predictor [静态]"
+  "Laptop_price_tier_predictor [static]": "Laptop_price_tier_predictor [静态]",
+  "urdu-ocr-demo [gradio]": "乌尔都语-OCR-演示 [已构建]",
+  "chat-demo [gradio]": "聊天演示 [已构建]",
+  "AeroMind [gradio]": "AeroMind [构建者]",
+  "whatsapp-automation [docker]": "Whatsapp 自动化 [docker]",
+  "wrdler [streamlit]": "wrdler [流光]",
+  "credit-decision-support-system [docker]": "信用决策支持系统 [docker]",
+  "shastrartha [static]": "沙斯特拉塔 [静态]",
+  "mon-premier-chatbot [gradio]": "mon-premier-聊天机器人 [已构建]",
+  "cscs [static]": "CSC [静态]",
+  "Codex CLI 0.149.0": "法典 CLI 0.149.0"
 }
