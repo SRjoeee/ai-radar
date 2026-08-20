@@ -37027,5 +37027,21 @@
   "MedVidBench-Leaderboard [gradio]": "MedVidBench-排行榜 [内置]",
   "mbti-knn-predictor [gradio]": "mbti-knn-预测器 [构建者]",
   "gaze-demo [static]": "凝视演示 [静态]",
-  "Introducing AI Futures": "介绍人工智能期货"
+  "Introducing AI Futures": "介绍人工智能期货",
+  "AeroMind-Phi4-mini-demo [gradio]": "AeroMind-Phi4-mini-demo [内置]",
+  "MNIST [gradio]": "MNIST [建成]",
+  "my-filestore-bot [docker]": "我的文件存储机器人 [docker]",
+  "granite-speech-streaming-webgpu-staging [static]": "Granite-speech-streaming-webgpu-staging [静态]",
+  "Lolan [static]": "罗兰[静态]",
+  "urdu-ocr-codesaviours-si26-warood [gradio]": "乌尔都语-ocr-codesaviours-si26-warood [渐变]",
+  "DuchIAmp [static]": "DuchIamp [静态]",
+  "fashion-classifier [gradio]": "时尚分类器 [gradio]",
+  "PitchForge [docker]": "PitchForge [码头工人]",
+  "Lunar_Crater_Detection [gradio]": "月球陨石坑检测 [渐变]",
+  "wan2-2-animate-14b-demo [gradio]": "wan2-2-animate-14b-demo [已构建]",
+  "allure-audio-cleaner": "魅力音频清洁器",
+  "Exersuite3d-descargas [docker]": "Exersuite3d-下载 [docker]",
+  "Veight [static]": "维特 [静态]",
+  "question-search-tool [docker]": "问题搜索工具 [docker]",
+  "chronorepo [docker]": "计时 [docker]"
 }
