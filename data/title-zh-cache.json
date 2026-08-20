@@ -37089,5 +37089,19 @@
   "maker-mosaic-voice-studio [gradio]": "制造商马赛克语音工作室 [渐变]",
   "Book-layout-for-printing [gradio]": "书籍印刷版式 [渐变]",
   "Building safe MCP servers for a PostgreSQL database": "为 PostgreSQL 数据库构建安全的 MCP 服务器",
-  "elbruno/ElBruno.S1Mini - Local ASR transcript cleanup in .NET with superwhisper/s1-mini and ONNX Runtime GenAI. Removes fillers, collapses stutters, fixes punctuation. Auto-downloads models from HuggingFace.": "elbruno/ElBruno.S1Mini - 使用 superwhisper/s1-mini 和 ONNX Runtime GenAI 在 .NET 中进行本地 ASR 转录清理.删除填充物、消除口吃、修复标点符号。从 HuggingFace 自动下载模型。"
+  "elbruno/ElBruno.S1Mini - Local ASR transcript cleanup in .NET with superwhisper/s1-mini and ONNX Runtime GenAI. Removes fillers, collapses stutters, fixes punctuation. Auto-downloads models from HuggingFace.": "elbruno/ElBruno.S1Mini - 使用 superwhisper/s1-mini 和 ONNX Runtime GenAI 在 .NET 中进行本地 ASR 转录清理.删除填充物、消除口吃、修复标点符号。从 HuggingFace 自动下载模型。",
+  "carrer [gradio]": "街道[等级]",
+  "enquette_lac_Menzel_Jemil [gradio]": "enquette_lac_Menzel_Jemil [等级]",
+  "deepfake-detector [static]": "Deepfake 探测器 [静态]",
+  "concrete-strength-ai-decision-support [streamlit]": "具体强度人工智能决策支持 [streamlit]",
+  "Teacher-Ai-Studio [static]": "爱老师工作室[静态]",
+  "Suno-maroua-ia [static]": "打电话给我[静态]",
+  "DeepFake_Detection [gradio]": "DeepFake_Detection [渐变]",
+  "encoding [docker]": "编码[码头工人]",
+  "dolang [gradio]": "多朗 [渐变]",
+  "Phi-3.5-Vision [gradio]": "Phi-3.5-Vision [等级]",
+  "ABs_RA [gradio]": "ABs_RA [渐变]",
+  "Aj-digitals94 [static]": "Aj-digitals94 [静态]",
+  "XRPL-Auto-Bridging [static]": "XRPL-自动桥接[静态]",
+  "farmbot-demo [gradio]": "farmbot-demo [已构建]"
 }
