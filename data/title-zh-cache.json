@@ -37384,5 +37384,19 @@
   "inclusive-assistant [static]": "包容性助理 [静态]",
   "LegalMind_Backend [docker]": "LegalMind_后端 [docker]",
   "ltx-best-face-id [gradio]": "ltx-最佳脸部 ID [渐变]",
-  "Davinder [static]": "达文德 [静态]"
+  "Davinder [static]": "达文德 [静态]",
+  "ChessTransformer [gradio]": "ChessTransformer [渐变]",
+  "messiai [gradio]": "弥赛亚",
+  "BananaMindBench-Leaderboard [static]": "BananaMindBench-排行榜 [静态]",
+  "contexure-backend [gradio]": "上下文后端 [gradio]",
+  "ai-album-backend": "ai相册后端",
+  "rag-knowledge-worker [gradio]": "抹布知识工人 [gradio]",
+  "llamadart-chat-pr-345 [static]": "llamadart-chat-pr-345 [静态]",
+  "escrow-bot": "托管机器人",
+  "blip-caption-api [gradio]": "blip-caption-api [渐变]",
+  "seizure-detection [static]": "癫痫发作检测[静态]",
+  "dashboard_ews_malaria_senegal [streamlit]": "仪表板_ews_malaria_senegal [streamlit]",
+  "KanVQA [gradio]": "KanVQA [构建者]",
+  "WaraOCR-Lite-ThaiSarabun [gradio]": "WaraOCR-Lite-ThaiSarabun [等级]",
+  "ApnaAI [static]": "ApnaAI [静态]"
 }
