@@ -37584,5 +37584,18 @@
   "DanAI [static]": "丹爱 [静态]",
   "mp_tpu [static]": "mp_tpu [静态]",
   "behind-the-chatbot [static]": "聊天机器人背后[静态]",
-  "comfyui-vram-calculator [static]": "comfyui-vram-计算器 [静态]"
+  "comfyui-vram-calculator [static]": "comfyui-vram-计算器 [静态]",
+  "Noctrum-Space [static]": "Noctrum 空间 [静态]",
+  "ai-interviewer [docker]": "ai-面试官 [docker]",
+  "kalim-rag-test [gradio]": "Kalim-rag-test [内置]",
+  "VoiceForge [gradio]": "VoiceForge [构建者]",
+  "test-spacegpu [gradio]": "测试空间GPU [内置]",
+  "aml-campaigngraph-demo [gradio]": "aml-campaigngraph-demo [渐变]",
+  "Poloniu [docker]": "钋 [泊坞窗]",
+  "smrg [static]": "smrg [静态]",
+  "waha-devlikepro [static]": "waha-devlikepro [静态]",
+  "skin-cancer-classification [gradio]": "皮肤癌分类 [梯度]",
+  "Paderbot [docker]": "帕德机器人 [docker]",
+  "Morphix-Studio-Client [static]": "Morphix-Studio-客户端 [静态]",
+  "dafadvadvea [gradio]": "dafadvadvea [建成]"
 }
