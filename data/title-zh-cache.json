@@ -37329,5 +37329,22 @@
   "gpt-oss-20b [gradio]": "gpt-oss-20b [内置]",
   "aispicy [static]": "辣味 [静态]",
   "spicy-waitress [static]": "辣女服务员[静态]",
-  "Bulwark Gateway – fail-closed security proxy for LLM agents (self-hosted)": "Bulwark Gateway – 用于 LLM 代理的故障关闭安全代理（自托管）"
+  "Bulwark Gateway – fail-closed security proxy for LLM agents (self-hosted)": "Bulwark Gateway – 用于 LLM 代理的故障关闭安全代理（自托管）",
+  "ReMatch [gradio]": "重赛[已建]",
+  "credit [gradio]": "信用[等级]",
+  "careerTrust-ai [static]": "CareerTrust-ai [静态]",
+  "font-gen-survey-form [gradio]": "字体生成调查形式 [渐变]",
+  "thoracic-xray-api [gradio]": "胸部 X 射线-API [渐变]",
+  "nepalai-studio [docker]": "尼泊尔工作室 [docker]",
+  "nexus-crm-backend [docker]": "nexus-crm-后端 [docker]",
+  "bypasaduio [static]": "旁帕萨杜奥 [静态]",
+  "surveillance-models-cloud [gradio]": "监控模型云 [gradio]",
+  "anotasyon-platform [docker]": "注释平台 [docker]",
+  "torch-cam [docker]": "火炬摄像头 [docker]",
+  "dokri-voxa-piper [static]": "dokri-voxa-piper [静态]",
+  "knee-arthritis-detector [gradio]": "膝关节炎检测仪 [梯度]",
+  "Assamese-English-Translator [gradio]": "阿萨姆语-英语-翻译器 [gradio]",
+  "uber-financial-showdown [gradio]": "超级金融摊牌 [gradio]",
+  "chaosheng [static]": "潮声[静态]",
+  "hoho [static]": "呵呵[静态]"
 }
