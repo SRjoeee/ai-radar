@@ -37454,5 +37454,17 @@
   "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents": "NVIDIA AVO 在 ARC-AGI-3 上达到 100%，展示了适用于长视野自主代理的前沿级通用架构",
   "Where Security Fits in an AI Agent Stack": "安全在 AI 代理堆栈中的作用",
   "Nouswise Review: AI Research Agent and Thinking Partner": "Nouswise评论：AI研究代理人和思考伙伴",
-  "Measuring benchmark optimization in speech recognition": "测量语音识别中的基准优化"
+  "Measuring benchmark optimization in speech recognition": "测量语音识别中的基准优化",
+  "m3d-lamed-model [gradio]": "m3d-lamed-模型 [构建]",
+  "peptide-detectability [gradio]": "肽可检测性[梯度]",
+  "marathon-live [gradio]": "马拉松直播 [gradio]",
+  "Marqo-NSFW-Image-Classifier [static]": "Marqo-NSFW-图像分类器 [静态]",
+  "StreamBot [gradio]": "StreamBot [构建者]",
+  "imagenette [docker]": "图像网 [docker]",
+  "Video_Generator [gradio]": "Video_Generator [已构建]",
+  "portfolio-nisrine [static]": "投资组合-nisrine [静态]",
+  "promptbench-ai [gradio]": "Promptbench-ai [等级]",
+  "mychat [gradio]": "mychat [渐变]",
+  "llamadart-chat-pr-371 [static]": "llamadart-chat-pr-371 [静态]",
+  "namaa-saudi-tts-v2 [gradio]": "human-saudi-tts-v2 [无线电]"
 }
