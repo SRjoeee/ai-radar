@@ -37527,5 +37527,20 @@
   "fable [docker]": "寓言[码头工人]",
   "rl-feedback-prioritization [gradio]": "rl-反馈优先级 [梯度]",
   "group-membership-csv [gradio]": "组成员资格-csv [梯度]",
-  "groq-relay [gradio]": "groq-relay [渐变]"
+  "groq-relay [gradio]": "groq-relay [渐变]",
+  "sast-recon-agent [static]": "sat-recon-agent [静态]",
+  "mytone-factory [gradio]": "mytone-工厂 [渐变]",
+  "media-upscaler [gradio]": "媒体升级器[内置]",
+  "depth-anything-v2 [gradio]": "深度-任何东西-v2 [渐变]",
+  "tutor-socratico [static]": "导师苏格拉底式[静态]",
+  "etu-placement [docker]": "etu-放置 [docker]",
+  "flux-2-klein-4b [gradio]": "Flux-2-klein-4b [梯度]",
+  "rife-frame-interpolation [gradio]": "Rife-frame-interpolation [梯度]",
+  "joy-caption [gradio]": "欢乐标题 [渐变]",
+  "Girlai [gradio]": "Girlai [建造者]",
+  "SaudiAqarAI [docker]": "沙特AqarAI [docker]",
+  "Al-Mustashar [static]": "阿尔-穆斯塔沙尔 [静态]",
+  "gr-workflow-07-zerogpu-animate [gradio]": "gr-workflow-07-zerogpu-animate [内置]",
+  "AutoNOC_Project [gradio]": "AutoNOC_Project [已构建]",
+  "screenpipe Screenpipe App v2.6.73": "screenpipe Screenpipe 应用程序 v2.6.73"
 }
