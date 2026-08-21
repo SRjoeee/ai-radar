@@ -37398,5 +37398,20 @@
   "dashboard_ews_malaria_senegal [streamlit]": "仪表板_ews_malaria_senegal [streamlit]",
   "KanVQA [gradio]": "KanVQA [构建者]",
   "WaraOCR-Lite-ThaiSarabun [gradio]": "WaraOCR-Lite-ThaiSarabun [等级]",
-  "ApnaAI [static]": "ApnaAI [静态]"
+  "ApnaAI [static]": "ApnaAI [静态]",
+  "big-sleep [gradio]": "大睡 [渐变]",
+  "Qwen3.8-27B_euskara [gradio]": "Qwen3.8-27B_巴斯克语 [等级]",
+  "dlp-week9-image-classifier [gradio]": "dlp-week9-图像分类器 [渐变]",
+  "ptts-server [gradio]": "ptts-服务器 [gradio]",
+  "exam-notes-ocr [docker]": "考试笔记-ocr [docker]",
+  "expense-ai-service [gradio]": "费用-ai-服务 [梯度]",
+  "ai-business-automation-assistant [static]": "人工智能业务自动化助理 [静态]",
+  "my-faceswap-api [gradio]": "my-faceswap-api [渐变]",
+  "111 [static]": "111 [静态]",
+  "Multi-SIS-Instance-Segmentation-by-YOLOv26 [gradio]": "YOLOv26 多 SIS 实例分割 [gradio]",
+  "md_preview [static]": "md_preview [静态]",
+  "Bideo_Itzultzailea [docker]": "视频_翻译器 [docker]",
+  "control-gastos-personales [docker]": "控制个人费用 [docker]",
+  "LoomTest [docker]": "Loom测试 [docker]",
+  "sales-discrepancy-screen [docker]": "销售差异屏幕 [docker]"
 }
