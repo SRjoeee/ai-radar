@@ -37653,5 +37653,17 @@
   "lychee-leaf-disease [static]": "荔枝叶病 [静态]",
   "LightZero [docker]": "LightZero [码头工人]",
   "Vossy/shorz-mcp - Turn Claude, Codex or Gemini into an AI video editing agent — the free Shorz desktop app ships an MCP server with 160+ video editing tools: auto-edit, clipping, subtitles, avatars, thumbnails, publishing to YouTube & TikTok.": "Vossy/shorz-mcp - 将 Claude、Codex 或 Gemini 转变为 AI 视频编辑代理 - 免费的 Shorz 桌面应用程序附带带有 160 多个视频编辑工具的 MCP 服务器：自动编辑、剪辑、字幕、头像、缩略图、发布到 YouTube 和 TikTok。",
-  "Behaviour‑based decision layer for real‑time audio analysis (CEPA Logic)": "用于实时音频分析的基于行为的决策层（CEPA Logic）"
+  "Behaviour‑based decision layer for real‑time audio analysis (CEPA Logic)": "用于实时音频分析的基于行为的决策层（CEPA Logic）",
+  "antigravity-mobile [static]": "反重力移动[静态]",
+  "webmarkit-outpaint [gradio]": "webmarkit-outpaint [渐变]",
+  "Tifinagh-ASCII-Script-Converter [static]": "Tifinagh-ASCII-脚本转换器 [静态]",
+  "cypher-guard-3b-api [gradio]": "cypher-guard-3b-api [渐变]",
+  "BALab [static]": "BALab [静态]",
+  "assistant-code-ollama [gradio]": "助理代码-ollama [已构建]",
+  "dynamic-steering [gradio]": "动态转向 [梯度]",
+  "Ejsvussseyeey2846 [static]": "Ejsvussseyeey2846 [静态]",
+  "studymate-diagram-generation [static]": "学习伙伴图生成 [静态]",
+  "xiaozhi-music-bot [static]": "xiaozhi-music-bot [静态]",
+  "bale-ai-bot [gradio]": "bale-ai-bot [渐变]",
+  "my-tg-ai-bot [static]": "my-tg-ai-bot [静态]"
 }
