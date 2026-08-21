@@ -37607,5 +37607,17 @@
   "amharic-news-classifier [gradio]": "阿姆哈拉语新闻分类器 [gradio]",
   "ros2-embeddings-compare [gradio]": "ros2-embeddings-compare [梯度]",
   "zephyrproject-embeddings-compare [gradio]": "zephyrproject-嵌入-比较 [渐变]",
-  "razorshield-api [gradio]": "razorshield-api [内置]"
+  "razorshield-api [gradio]": "razorshield-api [内置]",
+  "CLINAMEN-Farsight [gradio]": "CLINAMEN-Farsight [建造者]",
+  "tax-ai-zerogpu [gradio]": "税收-ai-zerogpu [已构建]",
+  "recoverai [static]": "恢复[静态]",
+  "superkartfrontend [docker]": "超级卡丁车前端 [docker]",
+  "Voice-Enabled-RAG [docker]": "语音启用-RAG [docker]",
+  "melody-voice": "旋律声音",
+  "Prova [static]": "普罗瓦 [静态]",
+  "Voice_Enabled_RAG_Model [gradio]": "Voice_Enabled_RAG_Model [渐变]",
+  "hiv1-recombinant-predictor [static]": "hiv1 重组预测器 [静态]",
+  "gyanie-backend [docker]": "gyani-后端 [docker]",
+  "My [static]": "我的[静态]",
+  "Game Necromancy: Resurrecting Yahoo Word Racer from Old YouTube Videos": "游戏 Necromancy：从旧 YouTube 视频中复活 Yahoo Word Racer"
 }
