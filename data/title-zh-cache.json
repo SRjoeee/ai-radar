@@ -37665,5 +37665,20 @@
   "studymate-diagram-generation [static]": "学习伙伴图生成 [静态]",
   "xiaozhi-music-bot [static]": "xiaozhi-music-bot [静态]",
   "bale-ai-bot [gradio]": "bale-ai-bot [渐变]",
-  "my-tg-ai-bot [static]": "my-tg-ai-bot [静态]"
+  "my-tg-ai-bot [static]": "my-tg-ai-bot [静态]",
+  "Kurisu_Qwen3_TTS [gradio]": "Kurisu_Qwen3_TTS [无线电]",
+  "ciltkanserteshisi [docker]": "ciltkanserteshisi [码头工人]",
+  "stremio-telegram-addon [static]": "stremio-telegram-addon [静态]",
+  "snap_voice_demo2 [gradio]": "snap_voice_demo2 [渐变]",
+  "nexusflix-crawler [gradio]": "nexusflix-crawler [内置]",
+  "fundamental-screener [static]": "基本筛选器 [静态]",
+  "MIC [gradio]": "麦克风[内置]",
+  "Corn-leaf-disease [gradio]": "玉米叶病 [梯度]",
+  "tinycast-forecaster [gradio]": "tinycast-预测者 [梯度]",
+  "kingdom-door [gradio]": "王国之门 [渐变]",
+  "pixhd-backend [gradio]": "pixhd-后端 [渐变]",
+  "Replacing 223-node agent graph with a single OSS LLM": "用单个 OSS LLM 替换 223 节点代理图",
+  "Show HN: OzBrain, a shared brain for knowledge between agents and your team": "显示 HN：OzBrain，代理和团队之间的知识共享大脑",
+  "Scammers built a fake Zoom call from real videos of Singapore leaders": "骗子利用新加坡领导人的真实视频制作了虚假的 Zoom 通话",
+  "Git Might Be the Best Message Forum for AI Agents": "Git 可能是人工智能代理的最佳消息论坛"
 }
