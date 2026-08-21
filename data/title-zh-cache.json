@@ -37597,5 +37597,15 @@
   "skin-cancer-classification [gradio]": "皮肤癌分类 [梯度]",
   "Paderbot [docker]": "帕德机器人 [docker]",
   "Morphix-Studio-Client [static]": "Morphix-Studio-客户端 [静态]",
-  "dafadvadvea [gradio]": "dafadvadvea [建成]"
+  "dafadvadvea [gradio]": "dafadvadvea [建成]",
+  "RemBG [docker]": "雷姆BG [码头工人]",
+  "urbanlens-probe-static [static]": "Urbanlens-probe-static [静态]",
+  "combustiontwin [gradio]": "燃烧双胞胎 [渐变]",
+  "2026-challenge-leaderboard [gradio]": "2026-挑战-排行榜 [gradio]",
+  "fastbook [gradio]": "快书 [渐变]",
+  "kv-cache-visualizer [gradio]": "kv-缓存可视化器 [渐变]",
+  "amharic-news-classifier [gradio]": "阿姆哈拉语新闻分类器 [gradio]",
+  "ros2-embeddings-compare [gradio]": "ros2-embeddings-compare [梯度]",
+  "zephyrproject-embeddings-compare [gradio]": "zephyrproject-嵌入-比较 [渐变]",
+  "razorshield-api [gradio]": "razorshield-api [内置]"
 }
