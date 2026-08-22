@@ -38107,5 +38107,20 @@
   "ai-api-model-explorer [static]": "ai-api-model-explorer [静态]",
   "TestingRef2va [gradio]": "测试Ref2va [内置]",
   "polyp-segmentation-webapp [gradio]": "息肉分割-webapp [渐变]",
-  "HH_Goa_task2 [docker]": "HH_Goa_task2 [码头工人]"
+  "HH_Goa_task2 [docker]": "HH_Goa_task2 [码头工人]",
+  "Swapperface [gradio]": "交换脸 [渐变]",
+  "Doyou [static]": "道友[静态]",
+  "Chest-anomalyDetection [gradio]": "胸部异常检测 [梯度]",
+  "my_space [static]": "我的空间 [静态]",
+  "currency-assistant [gradio]": "货币助手 [gradio]",
+  "eas-controller [gradio]": "eas-控制器 [梯度]",
+  "goa-rag-backend [gradio]": "goa-rag-后端 [渐变]",
+  "ml-eda [docker]": "机器学习-eda [docker]",
+  "FinanceMCP [gradio]": "财务MCP [建成]",
+  "Telco-Churn-NBA [static]": "电信公司流失-NBA [静态]",
+  "No one is ready for this generation [video]": "没有人为这一代做好准备[视频]",
+  "coalescence [static]": "合并[静态]",
+  "deepseek-harness": "Deepseek 线束",
+  "Anusha [static]": "阿努莎 [静态]",
+  "market-shield-pro [streamlit]": "市场盾牌专业版 [streamlit]"
 }
