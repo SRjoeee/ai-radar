@@ -37691,5 +37691,22 @@
   "kings [static]": "国王[静态]",
   "SLM-Arena [gradio]": "SLM竞技场[已建成]",
   "mahdi-sr [gradio]": "Mahdi-SR [渐变]",
-  "The Unlikely Place at the Center of China’s AI Boom": "中国人工智能繁荣中心的不可思议的地方"
+  "The Unlikely Place at the Center of China’s AI Boom": "中国人工智能繁荣中心的不可思议的地方",
+  "omniroute-server [gradio]": "全方位路由服务器 [内置]",
+  "eduplan-ai [static]": "eduplan-ai [静态]",
+  "qwen3-8-27b-demo [static]": "qwen3-8-27b-demo [静态]",
+  "evio [gradio]": "埃维奥[建成]",
+  "WenGPT [gradio]": "WenGPT [建造者]",
+  "m3d-lamed-model [docker]": "m3d-lamed-模型 [docker]",
+  "darulensha2 [static]": "达鲁伦沙2 [静态]",
+  "search [static]": "搜索[静态]",
+  "youtube-analytic001 [gradio]": "youtube-analytic001 [渐变]",
+  "my-groq-chatbot [gradio]": "my-groq-聊天机器人 [渐变]",
+  "MiniMax-Music3-Demo [gradio]": "MiniMax-Music3-演示 [已构建]",
+  "ante [static]": "赌注[静态]",
+  "jsab [static]": "jsab [静态]",
+  "Towards Physics of Multimodal Pretraining": "迈向多模态预训练的物理学",
+  "Vossy/claude-video-editing-skill - Agent Skill that lets Claude (Code/Desktop) and Cursor edit real video — auto-edit, clipping, subtitles, avatars, publishing — via the free Shorz desktop app's MCP server (160+ tools).": "Vossy/claude-video-editing-skill - 代理技能，让 Claude（代码/桌面）和 Cursor 通过免费的 Shorz 桌面应用程序的 MCP 服务器（160 多个工具）编辑真实视频 - 自动编辑、剪辑、字幕、头像、发布。",
+  "screenpipe Screenpipe App v2.6.77": "screenpipe Screenpipe 应用程序 v2.6.77",
+  "Vossy/ai-video-agent - Turn Claude, Codex or Gemini into an AI video editing agent — the free Shorz desktop app ships an MCP server with 160+ video editing tools: auto-edit, clipping, subtitles, avatars, thumbnails, publishing to YouTube & TikTok.": "Vossy/ai-video-agent - 将 Claude、Codex 或 Gemini 转变为 AI 视频编辑代理 - 免费的 Shorz 桌面应用程序附带带有 160 多个视频编辑工具的 MCP 服务器：自动编辑、剪辑、字幕、头像、缩略图、发布到 YouTube 和 TikTok。"
 }
