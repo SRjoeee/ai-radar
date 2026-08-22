@@ -37890,5 +37890,21 @@
   "ComicBookCleanerVersionTwo [gradio]": "ComicBookCleanerVersionTwo [内置]",
   "document-preprocessing-ocr [static]": "文档预处理-ocr [静态]",
   "voicegoarag [gradio]": "声音戈拉格 [建成]",
-  "stitchview-ai [static]": "stitchview-ai [静态]"
+  "stitchview-ai [static]": "stitchview-ai [静态]",
+  "memory-machines-byok [gradio]": "记忆机器-byok [gradio]",
+  "Backend_FastAPI [gradio]": "Backend_FastAPI [内置]",
+  "Hope-Makers": "希望制造者",
+  "voicegoarag [docker]": "声音戈拉格 [docker]",
+  "hindi-voice-natural [gradio]": "非自然语音 [渐变]",
+  "Mal [static]": "马尔 [静态]",
+  "LambAI [gradio]": "LambAI [渐变]",
+  "Njm [static]": "Njm [静态]",
+  "sev [gradio]": "严重程度[建成]",
+  "openbutgetbot [static]": "openbutgetbot [静态]",
+  "AquaGuard-AI [gradio]": "AquaGuard-AI [渐变]",
+  "foto-cantik-kamu-naya-sayang [static]": "亲爱的你的美丽照片 [静态]",
+  "turn-detection [gradio]": "转弯检测[梯度]",
+  "mind [static]": "头脑[静态]",
+  "hinglish-turn-detector-inference [gradio]": "印度英语转检测器推理 [渐变]",
+  "leadboard [docker]": "排行榜 [docker]"
 }
