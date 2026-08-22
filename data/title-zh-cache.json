@@ -37906,5 +37906,14 @@
   "turn-detection [gradio]": "转弯检测[梯度]",
   "mind [static]": "头脑[静态]",
   "hinglish-turn-detector-inference [gradio]": "印度英语转检测器推理 [渐变]",
-  "leadboard [docker]": "排行榜 [docker]"
+  "leadboard [docker]": "排行榜 [docker]",
+  "kingswealth [static]": "国王财富 [静态]",
+  "_Qwen_2.5_3B_parameter_ [gradio]": "_Qwen_2.5_3B_参数_ [渐变]",
+  "Veco-Space [static]": "Veco-Space [静态]",
+  "Privatetg-bot": "私人机器人",
+  "Sonexa-1-Server [gradio]": "Sonexa-1-服务器 [已构建]",
+  "abogados-de-inmigracion-miami [static]": "移民律师-迈阿密 [静态]",
+  "Ali [gradio]": "但是[建成]",
+  "youtube-shorts-comfyui [gradio]": "youtube-shorts-comfyui [渐变]",
+  "negaxill [gradio]": "内加西尔[建成]"
 }
