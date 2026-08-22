@@ -38066,5 +38066,18 @@
   "nervos-vision [gradio]": "神经视觉[建成]",
   "fot [docker]": "福特 [码头工人]",
   "Kaggle [static]": "卡格尔[静态]",
-  "design-process-playbook [static]": "设计流程手册 [静态]"
+  "design-process-playbook [static]": "设计流程手册 [静态]",
+  "medgemma-pcos-copilot [gradio]": "medgemma-pcos-copilot [渐变]",
+  "clipper-video-worker [gradio]": "剪辑器视频工作者 [gradio]",
+  "fix-speechrecognition-invalidstateerror [static]": "修复语音识别无效状态错误 [静态]",
+  "Push [gradio]": "推[建]",
+  "visionquest [docker]": "愿景探索 [码头工人]",
+  "action-prompt-five-action-ckpt10000-eval [static]": "动作提示-五-动作-ckpt10000-eval [静态]",
+  "PPPP [gradio]": "PPP[建成]",
+  "Javis [static]": "贾维斯[静态]",
+  "natural-voice [static]": "自然语音[静态]",
+  "flexible-pcb-with-rf [gradio]": "带有射频的柔性 PCB [渐变]",
+  "fc [static]": "FC [静态]",
+  "eigyouonsei [gradio]": "艺行温泉 [渐变]",
+  "multiagent-research-intelligence [gradio]": "多智能体研究情报 [梯度]"
 }
